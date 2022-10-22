@@ -19,6 +19,7 @@ import dailyExpiration from '../src/data/pointsExpireAt.json'
 import { useMantineTheme } from '@mantine/core'
 import { transparentize } from 'polished'
 import annotationPlugin from 'chartjs-plugin-annotation'
+import data from '../src/data/activitiesByDay.json'
 
 ChartJS.register(
     CategoryScale,
@@ -32,8 +33,24 @@ ChartJS.register(
     TimeScale
 )
 
+const normalizedData = Object.entries(data).map(([key, value]) => {
+    return {
+        date: key,
+        ...value
+    }
+})
+
 export const Donut = ({ min, max }) => {
     const theme = useMantineTheme()
+
+    const createReducedData = (field) => {
+        return normalizedData.reduce((acc, curr) => {
+            if (curr[field]) {
+                acc = acc + curr[field]
+            }
+            return acc
+        }, 0)
+    }
 
     return (
         <Doughnut
@@ -42,23 +59,30 @@ export const Donut = ({ min, max }) => {
                 fill: true,
                 plugins: {
                     legend: {
-                        display: false,
+                        display: true,
                     },
                 },
             }}
             data={{
-                labels: [
-                    'A', 'B', 'C', 'D'
-                ],
+                labels: ['Reward', 'Checkout', 'Level up', 'Coupon redeem', 'Profile'],
                 datasets: [
                     {
-                        label: 'Daily checkout number',
-                        data: [1, 2, 3, 4],
+                        label: 'Event count by action',
+                        data: [
+                            createReducedData('reward'),
+                            createReducedData('checkout'),
+                            createReducedData('level_up'),
+                            createReducedData('cupon_redeem'),
+                            createReducedData('profile'),
+                        ],
                         backgroundColor: [
                             theme.colors.indigo[3],
                             theme.colors.cyan[3],
                             theme.colors.pink[3],
                             theme.colors.orange[3],
+                            theme.colors.blue[3],
+                            theme.colors.lime[3],
+                            theme.colors.violet[3],
                         ],
                     },
                 ],

@@ -26,6 +26,7 @@ const ChartsPage = () => {
                     </Group>
                 </Box>
 
+
                 <SimpleGrid cols={2}>
                     <Card shadow="sm" p="lg" radius="md" withBorder>
                         <Stack>
@@ -80,8 +81,19 @@ const ChartsPage = () => {
                             <DailyCheckoutChart min={startDate} max={endDate} />
                         </Stack>
                     </Card>
+
                 </SimpleGrid>
+
+                <SimpleGrid cols={4} sx={{alignItems: 'flex-start'}}>
                 <Card shadow="sm" p="lg" radius="md" withBorder>
+                        <Stack>
+                            <Title align="center" order={3}>
+                                Event count by action
+                            </Title>
+                            <Donut min={startDate} max={endDate} />
+                        </Stack>
+                    </Card>
+                <Card shadow="sm" p="lg" radius="md" withBorder sx={{gridColumn: '2 / 5'}}>
                         <Stack>
                             <Title align="center" order={3}>
                                 Relation between loyality and reward claims on spending
@@ -89,32 +101,10 @@ const ChartsPage = () => {
                             <BubbleChart2 />
                         </Stack>
                     </Card>
-                {/* <SimpleGrid cols={3}>
-                    <Card shadow="sm" p="lg" radius="md" withBorder>
-                        <Stack>
-                            <Title align="center" order={3}>
-                                Donut
-                            </Title>
-                            <Donut min={startDate} max={endDate} />
-                        </Stack>
-                    </Card>
-                    <Card shadow="sm" p="lg" radius="md" withBorder>
-                        <Stack>
-                            <Title align="center" order={3}>
-                                Donut
-                            </Title>
-                            <Donut min={startDate} max={endDate} />
-                        </Stack>
-                    </Card>
-                    <Card shadow="sm" p="lg" radius="md" withBorder>
-                        <Stack>
-                            <Title align="center" order={3}>
-                                Donut
-                            </Title>
-                            <Donut min={startDate} max={endDate} />
-                        </Stack>
-                    </Card>
-                </SimpleGrid> */}
+
+
+                </SimpleGrid>
+
             </Stack>
         </Box>
     )

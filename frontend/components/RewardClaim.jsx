@@ -53,7 +53,7 @@ export const RewardClaim = ({min, max}) => {
                 data: data.map((claim) => (claim.usedPoints/claim.numberOfRewardClaims)),
                 yAxisID: 'y',
                 borderColor: theme.colors.teal[5],
-                backgroundColor: transparentize(0.5, theme.colors.teal[3])
+                backgroundColor: transparentize(0.5, theme.colors.teal[3]),
               },
 
             ],
