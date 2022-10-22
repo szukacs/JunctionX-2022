@@ -57,7 +57,7 @@ export const ExpirationEffect = ({ min, max }) => {
                     x: {
                         type: 'time',
                         min,
-                        max,
+                        max: max ?? dailyCheckouts[dailyCheckouts.length - 1].date,
                     },
                 },
             }}
