@@ -34,7 +34,7 @@ export const RewardClaim = ({min, max}) => {
             fill: true,
             plugins: {
               legend: {
-                position: 'top',
+                display: false
               },
             },
             scales: {
