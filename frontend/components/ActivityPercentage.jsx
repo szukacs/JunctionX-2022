@@ -54,19 +54,6 @@ export const ActivityPercentage = ({min, max}) => {
                         min,
                         max,
                     },
-                    y: {
-                        type: 'linear',
-                        display: true,
-                        position: 'left',
-                    },
-                    y1: {
-                        type: 'linear',
-                        display: true,
-                        position: 'right',
-                        grid: {
-                            drawOnChartArea: false,
-                        },
-                    },
                 },
             }}
             data={{
@@ -75,14 +62,12 @@ export const ActivityPercentage = ({min, max}) => {
                     {
                         label: 'Points Rewarded for Activity',
                         data: activitiesData.map((expiration) => expiration.rewardedPoints),
-                        yAxisID: 'y',
                         borderColor: theme.colors.indigo[5],
                         backgroundColor: transparentize(0.5, theme.colors.indigo[3])
                     },
                     {
                         label: 'Granted Points',
                         data: grantedPointsData.map((expiration) => expiration.grantedPoints),
-                        yAxisID: 'y1',
                         borderColor: theme.colors.teal[5],
                         backgroundColor: transparentize(0.5, theme.colors.teal[3])
                     },
