@@ -11,4 +11,5 @@ public class PointsByDate {
     private Date date;
     private long count;
     private long pts;
+    private long spending;
 }

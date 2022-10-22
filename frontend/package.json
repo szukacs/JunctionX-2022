@@ -17,6 +17,7 @@
     "@mantine/next": "^5.6.1",
     "chart.js": "^3.9.1",
     "chartjs-adapter-moment": "^1.0.0",
+    "chartjs-plugin-annotation": "^2.0.1",
     "dayjs": "^1.11.6",
     "moment": "^2.29.4",
     "next": "12.3.1",
