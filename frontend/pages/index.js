@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Link from "next/link";
+import PointsDifferencePage from "./web/points-difference";
 
 export default function Home() {
   return (
@@ -22,7 +23,11 @@ export default function Home() {
         <Link href={"/web/granted-points"}>
             Granted Points
         </Link>
+          <Link href={"/web/points-difference"}>
+              Points Difference
+          </Link>
       </main>
+        PointsDifferencePage
 
       <footer className={styles.footer}>
         <a

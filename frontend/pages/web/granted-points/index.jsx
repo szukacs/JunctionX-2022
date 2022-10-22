@@ -1,4 +1,4 @@
-import GrantedPoints from "../../../components/GrantedPoints";
+import {GrantedPoints} from "../../../components/GrantedPoints";
 
 const GrantedPointsPage = (props) => {
   return(
