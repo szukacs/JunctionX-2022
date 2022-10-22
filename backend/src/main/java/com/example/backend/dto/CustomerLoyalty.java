@@ -8,8 +8,8 @@ import java.util.Date;
 @Getter
 @Setter
 public class CustomerLoyalty {
-    private long customer;
+    private String customer;
     private Date optInDate;
     private Date lastEventDate;
-    private long loyalMilliseconds;
+    private long loyalDays;
 }

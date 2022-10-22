@@ -19,6 +19,7 @@ import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.sort;
@@ -87,11 +88,15 @@ public class PeriodAnalysisController {
                         .max("date").as("lastEventDate"),
                 limit(1000),
                 project("optInDate", "lastEventDate")
-                        .and("lastEventDate").minus("optInDate").as("loyalMilliseconds")
+                        .and("lastEventDate").minus("optInDate").as("loyalDays")
                         .and("customer").previousOperation()
         ).withOptions(AggregationOptions.builder().allowDiskUse(true).build());
-        //var result = mongoTemplate.aggregate(aggregation, Event.class, CustomerLoyalty.class);
-        var result = mongoTemplate.aggregate(aggregation, Event.class, Map.class);
-        return ResponseEntity.ok(result.getMappedResults());
+        var result = mongoTemplate.aggregate(aggregation, Event.class, CustomerLoyalty.class);
+        //var result = mongoTemplate.aggregate(aggregation, Event.class, Map.class);
+        return ResponseEntity.ok(result.getMappedResults()
+                .stream().map(cl -> {
+                    cl.setLoyalDays(cl.getLoyalDays() / 86_400_000);
+                    return cl;
+                }).collect(Collectors.toList()));
     }
 }
