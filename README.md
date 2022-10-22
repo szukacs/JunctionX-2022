@@ -1,6 +1,6 @@
 # ACSB - Antavo Customer Satisfaction Booster
 
-## JunctionX-2022
+## JunctionX 2022
 
 ### [Frontend](./frontend/README.md)
 * Created by [Next.js](https://nextjs.org/)
