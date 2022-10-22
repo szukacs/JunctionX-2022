@@ -9,8 +9,7 @@
 * Created by [Spring Boot](https://spring.io/projects/spring-boot)
 
 ## Created by:
-* [spiglebach](https://github.com/spiglebach)([
-](https://spring.io/projects/spring-boot))
+* [spiglebach](https://github.com/spiglebach)
 * [balazssagi](https://github.com/balazssagi)
 * [Marci232](https://github.com/Marci232)
 * [szukacs](https://github.com/szukacs)
