@@ -2,6 +2,7 @@ package com.example.backend;
 
 import com.example.backend.dto.DailyCheckout;
 import com.example.backend.dto.DailyExpire;
+import com.example.backend.dto.DailyGrant;
 import com.example.backend.dto.WeeklyCheckouts;
 import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
@@ -19,6 +20,7 @@ import org.springframework.web.bind.annotation.*;
 import java.time.LocalDate;
 
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
+import static org.springframework.data.mongodb.core.aggregation.ArithmeticOperators.Abs.absoluteValueOf;
 
 @RestController
 @RequestMapping("/week")
@@ -51,7 +53,7 @@ public class WeeklyAnalysisController {
     }
 
     @GetMapping("/expiredPoints")
-    public ResponseEntity<?> getWeeklyExpiredPoints(
+    public ResponseEntity<?> getExpiredPoints(
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
     ) {
@@ -61,12 +63,36 @@ public class WeeklyAnalysisController {
                 //match(Criteria.where("action").is("points_expired")),
                 match(Criteria.where("expdate").exists(true).and("points").gt(0)),
                 project("id", "expdate", "points"),
-                group("expdate").count().as("numberOfExpires").sum(ArithmeticOperators.Abs.absoluteValueOf("points")).as("expiredPoints"),
+                group("expdate")
+                        .count().as("numberOfExpires")
+                        .sum(absoluteValueOf("points")).as("expiredPoints"),
                 project("numberOfExpires", "expiredPoints").and("expdate").previousOperation(),
 
                 sort(Sort.Direction.ASC, "expdate")
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
+        return ResponseEntity.ok(dailyExpires.getMappedResults());
+    }
+
+    @GetMapping("/grantedPoints")
+    public ResponseEntity<?> getGrantedPoints(
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
+    ) {
+        var timeCriteria = Criteria.where("date").gte(from).lte(until);
+        var aggregation = newAggregation(
+                match(timeCriteria),
+                //match(Criteria.where("action").is("points_expired")),
+                match(Criteria.where("expdate").exists(true).and("points").gt(0)),
+                project("id", "date", "points"),
+                group("date")
+                        .count().as("numberOfPointGrants")
+                        .sum(absoluteValueOf("points")).as("grantedPoints"),
+                project("numberOfPointGrants", "grantedPoints").and("date").previousOperation(),
+
+                sort(Sort.Direction.ASC, "date")
+        );
+        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyGrant.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 }
