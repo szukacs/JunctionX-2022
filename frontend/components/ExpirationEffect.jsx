@@ -7,25 +7,32 @@ import {
     Tooltip,
     Legend,
     PointElement,
-    LineElement, Filler, TimeScale
+    LineElement,
+    Filler,
+    TimeScale,
 } from 'chart.js'
-import {Line} from 'react-chartjs-2'
+import { Line } from 'react-chartjs-2'
 import 'chartjs-adapter-moment'
 import dailyCheckouts from '../src/data/dailyCheckoutsAndAwardedPoints.json'
 import dailyExpiration from '../src/data/pointsExpireAt.json'
 import { useMantineTheme } from '@mantine/core'
 import { transparentize } from 'polished'
+import annotationPlugin from 'chartjs-plugin-annotation'
 
-ChartJS.register(CategoryScale,
+ChartJS.register(
+    CategoryScale,
     LinearScale,
     PointElement,
     LineElement,
     Title,
     Tooltip,
     Filler,
-    Legend, TimeScale)
+    annotationPlugin,
+    Legend,
+    TimeScale
+)
 
-export const ExpirationEffect = ({min, max}) => {
+export const ExpirationEffect = ({ min, max }) => {
     const theme = useMantineTheme()
 
     return (
@@ -35,31 +42,35 @@ export const ExpirationEffect = ({min, max}) => {
                 fill: true,
                 plugins: {
                     legend: {
-                        position: 'top',
+                        display: false,
+                    },
+                    annotation: {
+                        annotations: dailyExpiration.map((exp, index) => ({
+                            type: 'line',
+                            xMin: exp.date,
+                            xMax: exp.date,
+                            backgroundColor: 'rgba(255, 99, 132, 0.25)',
+                        })),
                     },
                 },
                 scales: {
                     x: {
-                        type: "time",
+                        type: 'time',
                         min,
                         max,
                     },
                 },
             }}
             data={{
-                labels: [...dailyCheckouts.map((checkout) => checkout.date), ...dailyExpiration.map((expiration) => expiration.date)],
+                labels: [
+                    ...dailyCheckouts.map((checkout) => checkout.date),
+                ],
                 datasets: [
                     {
                         label: 'Daily checkout number',
                         data: dailyCheckouts.map((checkout) => checkout.count),
                         borderColor: theme.colors.indigo[5],
-                        backgroundColor: transparentize(0.5, theme.colors.indigo[3])
-                    },
-                    {
-                        label: 'Daily number of expiration',
-                        data: dailyExpiration.map((expiration) => expiration.numberOfExpires),
-                        borderColor: theme.colors.teal[5],
-                        backgroundColor: transparentize(0.5, theme.colors.teal[3])
+                        backgroundColor: transparentize(0.5, theme.colors.indigo[3]),
                     },
                 ],
             }}
