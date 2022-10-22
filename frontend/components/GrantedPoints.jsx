@@ -12,6 +12,8 @@ import {
 import {Line} from 'react-chartjs-2'
 import 'chartjs-adapter-moment'
 import data from '../src/data/pointsGrantedAt.json'
+import { useMantineTheme } from '@mantine/core'
+import { transparentize } from 'polished'
 
 ChartJS.register(CategoryScale,
     LinearScale,
@@ -23,6 +25,8 @@ ChartJS.register(CategoryScale,
     Legend, TimeScale)
 
 export const GrantedPoints = () => {
+  const theme = useMantineTheme()
+
   return (
       <Line
           options={{
@@ -31,10 +35,6 @@ export const GrantedPoints = () => {
             plugins: {
               legend: {
                 position: 'top',
-              },
-              title: {
-                display: true,
-                text: 'Chart.js Bar Chart',
               },
             },
             scales: {
@@ -62,12 +62,16 @@ export const GrantedPoints = () => {
               {
                 label: 'Number Of Grants',
                 data: data.map((expiration) => expiration.numberOfPointGrants),
-                yAxisID: 'y'
+                yAxisID: 'y',
+                borderColor: theme.colors.indigo[5],
+                backgroundColor: transparentize(0.5, theme.colors.indigo[3])
               },
               {
                 label: 'Granted Points',
                 data: data.map((expiration) => expiration.grantedPoints),
-                yAxisID: 'y1'
+                yAxisID: 'y1',
+                borderColor: theme.colors.teal[5],
+                backgroundColor: transparentize(0.5, theme.colors.teal[3])
               },
             ],
           }}

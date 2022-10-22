@@ -1,6 +1,6 @@
 import { Box, Button, Card, SimpleGrid, Stack, Text, Title } from '@mantine/core'
 import { ExpiredPoints } from '../../../components/ExpiredPoints'
-import GrantedPoints from '../../../components/GrantedPoints'
+import {GrantedPoints} from '../../../components/GrantedPoints'
 import { WeeklyCheckoutsChart } from '../../../components/WeeklyCheckoutsChart'
 
 const ChartsPage = () => {
