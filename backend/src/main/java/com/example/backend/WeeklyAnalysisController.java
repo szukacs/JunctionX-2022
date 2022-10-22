@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.*;
 import java.time.LocalDate;
 
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
-import static org.springframework.data.mongodb.core.aggregation.ArithmeticOperators.Abs.absoluteValueOf;
 
 @RestController
 @RequestMapping("/week")
@@ -44,69 +43,5 @@ public class WeeklyAnalysisController {
         var dailyCheckouts = mongoTemplate.aggregate(aggregation, Event.class, DailyCheckout.class);
         var response = new WeeklyCheckouts(from, until, weeks, dailyCheckouts.getMappedResults());
         return ResponseEntity.ok(response);
-    }
-
-    @GetMapping("/expiredPoints")
-    public ResponseEntity<?> getExpiredPoints(
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
-    ) {
-        var timeCriteria = Criteria.where("expdate").gte(from).lte(until);
-        var aggregation = newAggregation(
-                match(timeCriteria),
-                //match(Criteria.where("action").is("points_expired")),
-                match(Criteria.where("expdate").exists(true).and("points").gt(0)),
-                project("id", "points").and("expdate").as("date"),
-                group("date")
-                        .count().as("numberOfExpires")
-                        .sum(absoluteValueOf("points")).as("expiredPoints"),
-                project("numberOfExpires", "expiredPoints").and("date").previousOperation(),
-
-                sort(Sort.Direction.ASC, "date")
-        );
-        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
-        return ResponseEntity.ok(dailyExpires.getMappedResults());
-    }
-
-    @GetMapping("/claimedRewards")
-    public ResponseEntity<?> getClaimedRewards(
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
-    ) {
-        var timeCriteria = Criteria.where("date").gte(from).lte(until);
-        var aggregation = newAggregation(
-                match(timeCriteria),
-                match(Criteria.where("action").is("reward")),
-                project("id", "date", "points"),
-                group("date")
-                        .count().as("numberOfRewardClaims")
-                        .sum(absoluteValueOf("points")).as("usedPoints"),
-                project("numberOfRewardClaims", "usedPoints").and("date").previousOperation(),
-
-                sort(Sort.Direction.ASC, "date")
-        );
-        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyRewardClaim.class);
-        return ResponseEntity.ok(dailyExpires.getMappedResults());
-    }
-
-    @GetMapping("/activities")
-    public ResponseEntity<?> getActivities(
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
-    ) {
-        var timeCriteria = Criteria.where("date").gte(from).lte(until);
-        var aggregation = newAggregation(
-                match(timeCriteria),
-                match(Criteria.where("action").is("activity")),
-                project("id", "date", "points"),
-                group("date")
-                        .count().as("numberOfActivities")
-                        .sum(absoluteValueOf("points")).as("rewardedPoints"),
-                project("numberOfActivities", "rewardedPoints").and("date").previousOperation(),
-
-                sort(Sort.Direction.ASC, "date")
-        );
-        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyActivity.class);
-        return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 }
