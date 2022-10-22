@@ -12,4 +12,5 @@ public class CustomerLoyalty {
     private Date optInDate;
     private Date lastEventDate;
     private long loyalDays;
+    private long spending;
 }

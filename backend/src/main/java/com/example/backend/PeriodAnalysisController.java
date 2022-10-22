@@ -82,12 +82,14 @@ public class PeriodAnalysisController {
     public ResponseEntity<?> getLoyaltyInDays() {
         var aggregation = newAggregation(
                 //match(Criteria.where("customer").is(391705)),
-                project("id", "customer", "date"),
+                project("id", "customer", "date", "action")
+                        .and("properties.subtotal").as("money"),
                 group("customer")
                         .min("date").as("optInDate")
-                        .max("date").as("lastEventDate"),
+                        .max("date").as("lastEventDate")
+                        .sum("money").as("spending"),
                 limit(1000),
-                project("optInDate", "lastEventDate")
+                project("optInDate", "lastEventDate", "spending")
                         .and("lastEventDate").minus("optInDate").as("loyalDays")
                         .and("customer").previousOperation()
         ).withOptions(AggregationOptions.builder().allowDiskUse(true).build());
