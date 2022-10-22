@@ -38,6 +38,9 @@ export default function Home() {
           <Link href={"/web/expiration-effect"}>
               Expiration effect
           </Link>
+          <Link href={"/web/daily-checkouts"}>
+              Daily checkouts
+          </Link>
       </main>
         PointsDifferencePage
 
