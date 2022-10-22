@@ -1,5 +1,6 @@
 package com.example.backend;
 
+import com.example.backend.dto.DailyCheckout;
 import com.example.backend.dto.WeeklyCheckouts;
 import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
@@ -35,8 +36,9 @@ public class WeeklyAnalysisController {
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
             @RequestParam(required = false, defaultValue = "1") int weeks
     ) {
+        var until = from != null ? from.plusWeeks(weeks) : null;
         var timeCriteria = from != null ?
-                Criteria.where("timestamp").gte(from).lte(from.plusWeeks(weeks)).nin()
+                Criteria.where("timestamp").gte(from).lte(until).nin()
                 : new Criteria();
         var dayOfWeek = DateOperators.DayOfWeek.dayOfWeek("timestamp");
         var aggregation = newAggregation(
@@ -47,7 +49,8 @@ public class WeeklyAnalysisController {
                 project("numberOfCheckouts").and("dayOfWeek").previousOperation(),
                 sort(Sort.Direction.ASC, "dayOfWeek")
         );
-        var result = mongoTemplate.aggregate(aggregation, Event.class, WeeklyCheckouts.class);
-        return ResponseEntity.ok(result.getMappedResults());
+        var dailyCheckouts = mongoTemplate.aggregate(aggregation, Event.class, DailyCheckout.class);
+        var response = new WeeklyCheckouts(from, until, weeks, dailyCheckouts.getMappedResults());
+        return ResponseEntity.ok(response);
     }
 }
