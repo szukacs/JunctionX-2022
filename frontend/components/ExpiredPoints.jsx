@@ -7,10 +7,11 @@ import {
     Tooltip,
     Legend,
     PointElement,
-    LineElement, Filler
+    LineElement, Filler, TimeScale
 } from 'chart.js'
 import {Line} from 'react-chartjs-2'
-import data from '../src/data/weeklyCheckouts.json'
+import 'chartjs-adapter-moment'
+import data from '../src/data/pointsExpiredEvent.json'
 
 ChartJS.register(CategoryScale,
     LinearScale,
@@ -19,8 +20,8 @@ ChartJS.register(CategoryScale,
     Title,
     Tooltip,
     Filler,
-    Legend)
-const labels = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+    Legend, TimeScale)
+
 export const ExpiredPoints = () => {
     return (
         <Line
@@ -36,13 +37,37 @@ export const ExpiredPoints = () => {
                         text: 'Chart.js Bar Chart',
                     },
                 },
+                scales: {
+                    x: {
+                        type: "time"
+                    },
+                    y: {
+                        type: 'linear',
+                        display: true,
+                        position: 'left',
+                    },
+                    y1: {
+                        type: 'linear',
+                        display: true,
+                        position: 'right',
+                        grid: {
+                            drawOnChartArea: false,
+                        },
+                    },
+                },
             }}
             data={{
-                labels,
+                labels: data.map((expiration) => expiration.date),
                 datasets: [
                     {
-                        label: 'Daily checkouts',
-                        data: data.dailyCheckouts.map((checkout) => checkout.numberOfCheckouts),
+                        label: 'Number Of Expires',
+                        data: data.map((expiration) => expiration.numberOfExpires),
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Expired Points',
+                        data: data.map((expiration) => expiration.expiredPoints),
+                        yAxisID: 'y1'
                     },
                 ],
             }}
