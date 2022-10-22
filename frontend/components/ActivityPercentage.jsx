@@ -13,6 +13,8 @@ import {Line} from 'react-chartjs-2'
 import 'chartjs-adapter-moment'
 import grantedPointsData from '../src/data/pointsGrantedAt.json'
 import activitiesData from '../src/data/activitiesAt.json'
+import { useMantineTheme } from '@mantine/core'
+import { transparentize } from 'polished'
 
 ChartJS.register(CategoryScale,
     LinearScale,
@@ -33,7 +35,9 @@ export const sortByDate = (a, b) => {
     return 0;
 }
 
-export const ActivityPercentage = () => {
+export const ActivityPercentage = ({min, max}) => {
+    const theme = useMantineTheme()
+
     return (
         <Line
             options={{
@@ -43,14 +47,12 @@ export const ActivityPercentage = () => {
                     legend: {
                         position: 'top',
                     },
-                    title: {
-                        display: true,
-                        text: 'Chart.js Bar Chart',
-                    },
                 },
                 scales: {
                     x: {
-                        type: "time"
+                        type: "time",
+                        min,
+                        max,
                     },
                     y: {
                         type: 'linear',
@@ -73,12 +75,16 @@ export const ActivityPercentage = () => {
                     {
                         label: 'Points Rewarded for Activity',
                         data: activitiesData.map((expiration) => expiration.rewardedPoints),
-                        yAxisID: 'y'
+                        yAxisID: 'y',
+                        borderColor: theme.colors.indigo[5],
+                        backgroundColor: transparentize(0.5, theme.colors.indigo[3])
                     },
                     {
                         label: 'Granted Points',
                         data: grantedPointsData.map((expiration) => expiration.grantedPoints),
-                        yAxisID: 'y1'
+                        yAxisID: 'y1',
+                        borderColor: theme.colors.teal[5],
+                        backgroundColor: transparentize(0.5, theme.colors.teal[3])
                     },
                 ],
             }}

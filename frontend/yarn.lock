@@ -416,7 +416,7 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
-"@mantine/core@^5.6.1":
+"@mantine/core@^5.6.1", "@mantine/core@5.6.1":
   "integrity" "sha512-QzX7uzlK6t/EzMzBBY5+G+qTtwOL0ULajzofvLMhh+y5dftMxoBbJaGu3X3/xWvHZwgJuFWCbZb0XCyicrFuSQ=="
   "resolved" "https://registry.npmjs.org/@mantine/core/-/core-5.6.1.tgz"
   "version" "5.6.1"
@@ -426,6 +426,13 @@
     "@mantine/utils" "5.6.1"
     "@radix-ui/react-scroll-area" "1.0.0"
     "react-textarea-autosize" "8.3.4"
+
+"@mantine/dates@^5.6.1":
+  "integrity" "sha512-XFIuW0bCbYzWbNPOV0j9uFxt2Ic2UCx2SYhx109kYGufJoUGj7TcXO5HZ/JbbVe5bhvqOB5F9TRWpUFiWf3mNw=="
+  "resolved" "https://registry.npmjs.org/@mantine/dates/-/dates-5.6.1.tgz"
+  "version" "5.6.1"
+  dependencies:
+    "@mantine/utils" "5.6.1"
 
 "@mantine/hooks@^5.6.1", "@mantine/hooks@5.6.1":
   "integrity" "sha512-IkRJ2D047egMwJj4CB3NeDe1wVpukiEhg3R3mKZVNYYnKZdUGypFI4rX648Eck9aFFWJulg7JqhnF9W65n7bDA=="
@@ -937,6 +944,11 @@
   "integrity" "sha512-sdQSFB7+llfUcQHUQO3+B8ERRj0Oa4w9POWMI/puGtuf7gFywGmkaLCElnudfTiKZV+NvHqL0ifzdrI8Ro7ESA=="
   "resolved" "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz"
   "version" "1.0.8"
+
+"dayjs@^1.11.6", "dayjs@>=1.0.0":
+  "integrity" "sha512-zZbY5giJAinCG+7AGaw0wIhNZ6J8AhWuSXKvuc1KAyMiRsvGQWqh4L+MomvhdAYjN+lqvVCMq1I41e3YHvXkyQ=="
+  "resolved" "https://registry.npmjs.org/dayjs/-/dayjs-1.11.6.tgz"
+  "version" "1.11.6"
 
 "debug@^2.6.9":
   "integrity" "sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
