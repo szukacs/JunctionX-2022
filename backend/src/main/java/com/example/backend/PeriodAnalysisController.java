@@ -38,11 +38,12 @@ public class PeriodAnalysisController {
         var aggregation = newAggregation(
                 match(timeCriteria),
                 match(Criteria.where("action").is(action)),
-                project("id", "date", "points"),
+                project("id", "date", "points").and("properties.total").as("prc"),
                 group("date")
                         .count().as("count")
-                        .sum(absoluteValueOf("points")).as("pts"),
-                project("count", "pts").and("date").previousOperation(),
+                        .sum(absoluteValueOf("points")).as("pts")
+                        .sum(absoluteValueOf("prc")).as("spending"),
+                project("count", "pts", "spending").and("date").previousOperation(),
                 sort(Sort.Direction.ASC, "date")
         );
         return mongoTemplate.aggregate(aggregation, Event.class, PointsByDate.class).getMappedResults();
