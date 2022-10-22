@@ -12,6 +12,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDate;
+import java.util.stream.Collectors;
 
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 
@@ -44,7 +45,10 @@ public class WeeklyAnalysisController {
         );
         var dailyCheckouts = mongoTemplate.aggregate(aggregation, Event.class, DailyCheckout.class);
         var response = new WeeklyCheckouts(from, until, weeks,
-                dailyCheckouts.getMappedResults());
+                dailyCheckouts.getMappedResults().stream().map(checkout -> {
+                    checkout.setNumberOfCheckouts(checkout.getNumberOfCheckouts() / weeks);
+                    return checkout;
+                }).collect(Collectors.toList()));
         return ResponseEntity.ok(response);
     }
 }

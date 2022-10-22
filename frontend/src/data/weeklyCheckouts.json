@@ -5,43 +5,43 @@
   "dailyCheckouts": [
     {
       "dayOfWeek": 1,
-      "numberOfCheckouts": 17666,
+      "numberOfCheckouts": 883,
       "avgPoints": 72,
       "avgSpending": 65
     },
     {
       "dayOfWeek": 2,
-      "numberOfCheckouts": 20665,
+      "numberOfCheckouts": 1033,
       "avgPoints": 77,
       "avgSpending": 68
     },
     {
       "dayOfWeek": 3,
-      "numberOfCheckouts": 14184,
+      "numberOfCheckouts": 709,
       "avgPoints": 85,
       "avgSpending": 74
     },
     {
       "dayOfWeek": 4,
-      "numberOfCheckouts": 20541,
+      "numberOfCheckouts": 1027,
       "avgPoints": 89,
       "avgSpending": 73
     },
     {
       "dayOfWeek": 5,
-      "numberOfCheckouts": 16223,
+      "numberOfCheckouts": 811,
       "avgPoints": 86,
       "avgSpending": 75
     },
     {
       "dayOfWeek": 6,
-      "numberOfCheckouts": 23970,
+      "numberOfCheckouts": 1198,
       "avgPoints": 73,
       "avgSpending": 67
     },
     {
       "dayOfWeek": 7,
-      "numberOfCheckouts": 21113,
+      "numberOfCheckouts": 1055,
       "avgPoints": 70,
       "avgSpending": 64
     }
