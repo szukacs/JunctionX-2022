@@ -24,7 +24,7 @@ ChartJS.register(CategoryScale,
     Filler,
     Legend, TimeScale)
 
-export const RewardClaim = () => {
+export const RewardClaim = ({min, max}) => {
   const theme = useMantineTheme()
 
   return (
@@ -39,7 +39,9 @@ export const RewardClaim = () => {
             },
             scales: {
               x: {
-                type: "time"
+                type: "time",
+                min,
+                max
               },
             },
           }}
@@ -50,8 +52,8 @@ export const RewardClaim = () => {
                 label: 'Average points / claim',
                 data: data.map((claim) => (claim.usedPoints/claim.numberOfRewardClaims)),
                 yAxisID: 'y',
-                borderColor: theme.colors.indigo[5],
-                backgroundColor: transparentize(0.5, theme.colors.indigo[3])
+                borderColor: theme.colors.teal[5],
+                backgroundColor: transparentize(0.5, theme.colors.teal[3])
               },
 
             ],

@@ -3,6 +3,7 @@ import { ActivityPercentage } from '../../../components/ActivityPercentage'
 import { ExpiredPoints } from '../../../components/ExpiredPoints'
 import { GrantedPoints } from '../../../components/GrantedPoints'
 import { WeeklyCheckoutsChart } from '../../../components/WeeklyCheckoutsChart'
+import { RewardClaim } from '../../../components/RewardClaim'
 import { DatePicker, DateRangePickerValue } from '@mantine/dates'
 import { useState } from 'react'
 
@@ -39,9 +40,9 @@ const ChartsPage = () => {
                     <Card shadow="sm" p="lg" radius="md" withBorder>
                         <Stack>
                             <Title align="center" order={3}>
-                                Granted Points
+                                Average points / claim
                             </Title>
-                            <GrantedPoints min={startDate} max={endDate}/>
+                            <RewardClaim min={startDate} max={endDate}/>
                         </Stack>
                     </Card>
                     <Card shadow="sm" p="lg" radius="md" withBorder>
