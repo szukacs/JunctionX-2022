@@ -5,9 +5,12 @@ import { GrantedPoints } from '../../../components/GrantedPoints'
 import { WeeklyCheckoutsChart } from '../../../components/WeeklyCheckoutsChart'
 import { RewardClaim } from '../../../components/RewardClaim'
 import { DailyCheckoutChart } from '../../../components/DailyCheckoutChart'
+import { Donut } from '../../../components/Donut'
+import { BubbleChart } from '../../../components/Bubble'
 import { DatePicker, DateRangePickerValue } from '@mantine/dates'
 import { useState } from 'react'
 import { ExpirationEffect } from '../../../components/ExpirationEffect'
+import { BubbleChart2 } from '../../../components/Bubble2'
 
 const ChartsPage = () => {
     const [startDate, setStartDate] = useState(undefined)
@@ -18,11 +21,27 @@ const ChartsPage = () => {
             <Stack>
                 <Box sx={{ position: 'sticky', top: 0, zIndex: 1, backgroundColor: '#fff', paddingBottom: 8 }}>
                     <Group>
-                        <DatePicker label="From" value={startDate} onChange={setStartDate} />
-                        <DatePicker label="To" value={endDate} onChange={setEndDate} />
+                        <DatePicker label="Period start" value={startDate} onChange={setStartDate} />
+                        <DatePicker label="Period end" value={endDate} onChange={setEndDate} />
                     </Group>
                 </Box>
                 <SimpleGrid cols={2}>
+                    <Card shadow="sm" p="lg" radius="md" withBorder>
+                        <Stack>
+                            <Title align="center" order={3}>
+                                Relation between loyality and reward claims on spending
+                            </Title>
+                            <BubbleChart2 />
+                        </Stack>
+                    </Card>
+                    <Card shadow="sm" p="lg" radius="md" withBorder>
+                        <Stack>
+                            <Title align="center" order={3}>
+                                Relation between loyality and reward claims on spending
+                            </Title>
+                            <BubbleChart />
+                        </Stack>
+                    </Card>
                     <Card shadow="sm" p="lg" radius="md" withBorder>
                         <Stack>
                             <Title align="center" order={3}>
@@ -70,7 +89,7 @@ const ChartsPage = () => {
                         <Stack>
                             <div>
                                 <Title align="center" order={3}>
-                                    Checkouts 
+                                    Checkouts
                                 </Title>
                             </div>
                             <DailyCheckoutChart min={startDate} max={endDate} />
