@@ -16,9 +16,12 @@ export default function Home() {
         <Link href={"/web/weekly-checkouts"}>
           Weekly Checkouts Chart
         </Link>
-          <Link href={"/web/expired-points"}>
-              Expired Points
-          </Link>
+        <Link href={"/web/expired-points"}>
+            Expired Points
+        </Link>
+        <Link href={"/web/granted-points"}>
+            Granted Points
+        </Link>
       </main>
 
       <footer className={styles.footer}>

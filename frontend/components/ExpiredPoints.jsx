@@ -11,7 +11,7 @@ import {
 } from 'chart.js'
 import {Line} from 'react-chartjs-2'
 import 'chartjs-adapter-moment'
-import data from '../src/data/pointsExpiredEvent.json'
+import data from '../src/data/pointsExpireAt.json'
 
 ChartJS.register(CategoryScale,
     LinearScale,
