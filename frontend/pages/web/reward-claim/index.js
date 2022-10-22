@@ -4,7 +4,7 @@ const RewardClaimPage = (props) => {
   return(
       <>
       <h1>
-          Reward Claimed
+          Average points/claim
       </h1>
           <RewardClaim />
       </>
