@@ -32,6 +32,9 @@ export default function Home() {
           <Link href={"/web/activity-percentage"}>
               Activity percentage
           </Link>
+          <Link href={"/web/reward-claim"}>
+              Reward Claimed
+          </Link>
       </main>
         PointsDifferencePage
 
