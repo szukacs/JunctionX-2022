@@ -1,0 +1,2927 @@
+[
+  {
+    "date": "2021-01-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 2081,
+    "grantedPoints": 199317
+  },
+  {
+    "date": "2021-01-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 2280,
+    "grantedPoints": 225080
+  },
+  {
+    "date": "2021-01-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2069,
+    "grantedPoints": 198138
+  },
+  {
+    "date": "2021-01-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1885,
+    "grantedPoints": 190821
+  },
+  {
+    "date": "2021-01-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1652,
+    "grantedPoints": 174084
+  },
+  {
+    "date": "2021-01-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 2030,
+    "grantedPoints": 212417
+  },
+  {
+    "date": "2021-01-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1574,
+    "grantedPoints": 153589
+  },
+  {
+    "date": "2021-01-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1736,
+    "grantedPoints": 175149
+  },
+  {
+    "date": "2021-01-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2431,
+    "grantedPoints": 235099
+  },
+  {
+    "date": "2021-01-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2026,
+    "grantedPoints": 201462
+  },
+  {
+    "date": "2021-01-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 2121,
+    "grantedPoints": 207349
+  },
+  {
+    "date": "2021-01-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1862,
+    "grantedPoints": 191445
+  },
+  {
+    "date": "2021-01-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 3147,
+    "grantedPoints": 317433
+  },
+  {
+    "date": "2021-01-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2128,
+    "grantedPoints": 221706
+  },
+  {
+    "date": "2021-01-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 2331,
+    "grantedPoints": 229573
+  },
+  {
+    "date": "2021-01-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 2957,
+    "grantedPoints": 297491
+  },
+  {
+    "date": "2021-01-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 2566,
+    "grantedPoints": 247634
+  },
+  {
+    "date": "2021-01-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 2748,
+    "grantedPoints": 277760
+  },
+  {
+    "date": "2021-01-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 2572,
+    "grantedPoints": 259351
+  },
+  {
+    "date": "2021-01-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 3016,
+    "grantedPoints": 285581
+  },
+  {
+    "date": "2021-01-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 2054,
+    "grantedPoints": 208183
+  },
+  {
+    "date": "2021-01-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 2567,
+    "grantedPoints": 274308
+  },
+  {
+    "date": "2021-01-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 3168,
+    "grantedPoints": 329785
+  },
+  {
+    "date": "2021-01-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 2715,
+    "grantedPoints": 290785
+  },
+  {
+    "date": "2021-01-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 3110,
+    "grantedPoints": 330841
+  },
+  {
+    "date": "2021-01-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 2329,
+    "grantedPoints": 247567
+  },
+  {
+    "date": "2021-01-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 3236,
+    "grantedPoints": 367576
+  },
+  {
+    "date": "2021-01-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2948,
+    "grantedPoints": 317066
+  },
+  {
+    "date": "2021-01-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 3242,
+    "grantedPoints": 321375
+  },
+  {
+    "date": "2021-01-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 3382,
+    "grantedPoints": 323999
+  },
+  {
+    "date": "2021-01-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 3599,
+    "grantedPoints": 347988
+  },
+  {
+    "date": "2021-02-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 3779,
+    "grantedPoints": 339460
+  },
+  {
+    "date": "2021-02-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 3128,
+    "grantedPoints": 278831
+  },
+  {
+    "date": "2021-02-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 3594,
+    "grantedPoints": 319764
+  },
+  {
+    "date": "2021-02-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 2799,
+    "grantedPoints": 248543
+  },
+  {
+    "date": "2021-02-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2973,
+    "grantedPoints": 262530
+  },
+  {
+    "date": "2021-02-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 3459,
+    "grantedPoints": 297560
+  },
+  {
+    "date": "2021-02-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 3459,
+    "grantedPoints": 300415
+  },
+  {
+    "date": "2021-02-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 3459,
+    "grantedPoints": 308012
+  },
+  {
+    "date": "2021-02-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2763,
+    "grantedPoints": 240357
+  },
+  {
+    "date": "2021-02-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2997,
+    "grantedPoints": 250526
+  },
+  {
+    "date": "2021-02-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 2203,
+    "grantedPoints": 184110
+  },
+  {
+    "date": "2021-02-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 684,
+    "grantedPoints": 55077
+  },
+  {
+    "date": "2021-02-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1402,
+    "grantedPoints": 112989
+  },
+  {
+    "date": "2021-02-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1588,
+    "grantedPoints": 126733
+  },
+  {
+    "date": "2021-02-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 2011,
+    "grantedPoints": 169805
+  },
+  {
+    "date": "2021-02-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1997,
+    "grantedPoints": 169708
+  },
+  {
+    "date": "2021-02-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 2196,
+    "grantedPoints": 184556
+  },
+  {
+    "date": "2021-02-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1430,
+    "grantedPoints": 124562
+  },
+  {
+    "date": "2021-02-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1779,
+    "grantedPoints": 151135
+  },
+  {
+    "date": "2021-02-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1951,
+    "grantedPoints": 164487
+  },
+  {
+    "date": "2021-02-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1550,
+    "grantedPoints": 130323
+  },
+  {
+    "date": "2021-02-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1432,
+    "grantedPoints": 120616
+  },
+  {
+    "date": "2021-02-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1130,
+    "grantedPoints": 98287
+  },
+  {
+    "date": "2021-02-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1281,
+    "grantedPoints": 104125
+  },
+  {
+    "date": "2021-02-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1000,
+    "grantedPoints": 80076
+  },
+  {
+    "date": "2021-02-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1635,
+    "grantedPoints": 124146
+  },
+  {
+    "date": "2021-02-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 1879,
+    "grantedPoints": 143511
+  },
+  {
+    "date": "2021-02-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1637,
+    "grantedPoints": 134086
+  },
+  {
+    "date": "2021-03-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1330,
+    "grantedPoints": 100039
+  },
+  {
+    "date": "2021-03-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1112,
+    "grantedPoints": 91058
+  },
+  {
+    "date": "2021-03-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1782,
+    "grantedPoints": 149303
+  },
+  {
+    "date": "2021-03-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1248,
+    "grantedPoints": 107332
+  },
+  {
+    "date": "2021-03-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1377,
+    "grantedPoints": 118066
+  },
+  {
+    "date": "2021-03-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1640,
+    "grantedPoints": 135207
+  },
+  {
+    "date": "2021-03-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1449,
+    "grantedPoints": 120360
+  },
+  {
+    "date": "2021-03-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1361,
+    "grantedPoints": 119343
+  },
+  {
+    "date": "2021-03-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1271,
+    "grantedPoints": 114656
+  },
+  {
+    "date": "2021-03-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1685,
+    "grantedPoints": 154329
+  },
+  {
+    "date": "2021-03-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 2389,
+    "grantedPoints": 252495
+  },
+  {
+    "date": "2021-03-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1489,
+    "grantedPoints": 137162
+  },
+  {
+    "date": "2021-03-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1913,
+    "grantedPoints": 172297
+  },
+  {
+    "date": "2021-03-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1886,
+    "grantedPoints": 178126
+  },
+  {
+    "date": "2021-03-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1586,
+    "grantedPoints": 148649
+  },
+  {
+    "date": "2021-03-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 3061,
+    "grantedPoints": 301388
+  },
+  {
+    "date": "2021-03-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 9664,
+    "grantedPoints": 892538
+  },
+  {
+    "date": "2021-03-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1652,
+    "grantedPoints": 151186
+  },
+  {
+    "date": "2021-03-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 2459,
+    "grantedPoints": 200722
+  },
+  {
+    "date": "2021-03-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 2112,
+    "grantedPoints": 181910
+  },
+  {
+    "date": "2021-03-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1887,
+    "grantedPoints": 167376
+  },
+  {
+    "date": "2021-03-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 2698,
+    "grantedPoints": 260579
+  },
+  {
+    "date": "2021-03-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1505,
+    "grantedPoints": 137842
+  },
+  {
+    "date": "2021-03-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 2758,
+    "grantedPoints": 264472
+  },
+  {
+    "date": "2021-03-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1539,
+    "grantedPoints": 141450
+  },
+  {
+    "date": "2021-03-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1880,
+    "grantedPoints": 170913
+  },
+  {
+    "date": "2021-03-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2171,
+    "grantedPoints": 189569
+  },
+  {
+    "date": "2021-03-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1853,
+    "grantedPoints": 169644
+  },
+  {
+    "date": "2021-03-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1914,
+    "grantedPoints": 192142
+  },
+  {
+    "date": "2021-03-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1918,
+    "grantedPoints": 197902
+  },
+  {
+    "date": "2021-03-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 2115,
+    "grantedPoints": 220349
+  },
+  {
+    "date": "2021-04-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 2112,
+    "grantedPoints": 208089
+  },
+  {
+    "date": "2021-04-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 2942,
+    "grantedPoints": 283815
+  },
+  {
+    "date": "2021-04-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2827,
+    "grantedPoints": 267433
+  },
+  {
+    "date": "2021-04-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 2436,
+    "grantedPoints": 236393
+  },
+  {
+    "date": "2021-04-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2891,
+    "grantedPoints": 265844
+  },
+  {
+    "date": "2021-04-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1953,
+    "grantedPoints": 180302
+  },
+  {
+    "date": "2021-04-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 2884,
+    "grantedPoints": 268256
+  },
+  {
+    "date": "2021-04-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1799,
+    "grantedPoints": 159999
+  },
+  {
+    "date": "2021-04-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2777,
+    "grantedPoints": 251371
+  },
+  {
+    "date": "2021-04-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2986,
+    "grantedPoints": 258770
+  },
+  {
+    "date": "2021-04-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 3084,
+    "grantedPoints": 275088
+  },
+  {
+    "date": "2021-04-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 2271,
+    "grantedPoints": 202423
+  },
+  {
+    "date": "2021-04-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1741,
+    "grantedPoints": 155579
+  },
+  {
+    "date": "2021-04-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2469,
+    "grantedPoints": 220219
+  },
+  {
+    "date": "2021-04-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1902,
+    "grantedPoints": 170353
+  },
+  {
+    "date": "2021-04-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 2229,
+    "grantedPoints": 305472
+  },
+  {
+    "date": "2021-04-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 2590,
+    "grantedPoints": 338836
+  },
+  {
+    "date": "2021-04-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 2501,
+    "grantedPoints": 326938
+  },
+  {
+    "date": "2021-04-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 2130,
+    "grantedPoints": 193079
+  },
+  {
+    "date": "2021-04-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1493,
+    "grantedPoints": 130066
+  },
+  {
+    "date": "2021-04-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1666,
+    "grantedPoints": 140609
+  },
+  {
+    "date": "2021-04-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1538,
+    "grantedPoints": 128860
+  },
+  {
+    "date": "2021-04-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1668,
+    "grantedPoints": 241907
+  },
+  {
+    "date": "2021-04-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1968,
+    "grantedPoints": 285616
+  },
+  {
+    "date": "2021-04-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1816,
+    "grantedPoints": 268186
+  },
+  {
+    "date": "2021-04-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1554,
+    "grantedPoints": 130295
+  },
+  {
+    "date": "2021-04-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2031,
+    "grantedPoints": 186230
+  },
+  {
+    "date": "2021-04-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2478,
+    "grantedPoints": 190378
+  },
+  {
+    "date": "2021-04-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1662,
+    "grantedPoints": 139659
+  },
+  {
+    "date": "2021-04-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1881,
+    "grantedPoints": 157995
+  },
+  {
+    "date": "2021-05-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1948,
+    "grantedPoints": 165413
+  },
+  {
+    "date": "2021-05-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1737,
+    "grantedPoints": 149973
+  },
+  {
+    "date": "2021-05-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1731,
+    "grantedPoints": 161986
+  },
+  {
+    "date": "2021-05-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1269,
+    "grantedPoints": 111314
+  },
+  {
+    "date": "2021-05-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1842,
+    "grantedPoints": 157699
+  },
+  {
+    "date": "2021-05-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1418,
+    "grantedPoints": 128020
+  },
+  {
+    "date": "2021-05-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1578,
+    "grantedPoints": 137643
+  },
+  {
+    "date": "2021-05-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1944,
+    "grantedPoints": 170085
+  },
+  {
+    "date": "2021-05-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1534,
+    "grantedPoints": 141345
+  },
+  {
+    "date": "2021-05-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1625,
+    "grantedPoints": 155195
+  },
+  {
+    "date": "2021-05-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1317,
+    "grantedPoints": 118073
+  },
+  {
+    "date": "2021-05-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1793,
+    "grantedPoints": 172822
+  },
+  {
+    "date": "2021-05-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1799,
+    "grantedPoints": 163612
+  },
+  {
+    "date": "2021-05-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1296,
+    "grantedPoints": 116770
+  },
+  {
+    "date": "2021-05-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1350,
+    "grantedPoints": 122643
+  },
+  {
+    "date": "2021-05-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 977,
+    "grantedPoints": 89739
+  },
+  {
+    "date": "2021-05-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1450,
+    "grantedPoints": 142994
+  },
+  {
+    "date": "2021-05-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1158,
+    "grantedPoints": 118403
+  },
+  {
+    "date": "2021-05-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1143,
+    "grantedPoints": 118543
+  },
+  {
+    "date": "2021-05-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 790,
+    "grantedPoints": 73257
+  },
+  {
+    "date": "2021-05-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 998,
+    "grantedPoints": 100007
+  },
+  {
+    "date": "2021-05-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1036,
+    "grantedPoints": 102673
+  },
+  {
+    "date": "2021-05-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 846,
+    "grantedPoints": 78854
+  },
+  {
+    "date": "2021-05-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 3132,
+    "grantedPoints": 398460
+  },
+  {
+    "date": "2021-05-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 6657,
+    "grantedPoints": 727688
+  },
+  {
+    "date": "2021-05-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 4357,
+    "grantedPoints": 441160
+  },
+  {
+    "date": "2021-05-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2640,
+    "grantedPoints": 257585
+  },
+  {
+    "date": "2021-05-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2132,
+    "grantedPoints": 207514
+  },
+  {
+    "date": "2021-05-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 3099,
+    "grantedPoints": 284593
+  },
+  {
+    "date": "2021-05-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 2767,
+    "grantedPoints": 257362
+  },
+  {
+    "date": "2021-05-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 2717,
+    "grantedPoints": 260193
+  },
+  {
+    "date": "2021-06-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 516,
+    "grantedPoints": 46183
+  },
+  {
+    "date": "2021-06-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 756,
+    "grantedPoints": 64234
+  },
+  {
+    "date": "2021-06-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 561,
+    "grantedPoints": 52568
+  },
+  {
+    "date": "2021-06-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 811,
+    "grantedPoints": 71327
+  },
+  {
+    "date": "2021-06-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 850,
+    "grantedPoints": 73913
+  },
+  {
+    "date": "2021-06-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 729,
+    "grantedPoints": 67547
+  },
+  {
+    "date": "2021-06-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1111,
+    "grantedPoints": 99261
+  },
+  {
+    "date": "2021-06-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1014,
+    "grantedPoints": 96536
+  },
+  {
+    "date": "2021-06-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1109,
+    "grantedPoints": 101786
+  },
+  {
+    "date": "2021-06-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 906,
+    "grantedPoints": 83634
+  },
+  {
+    "date": "2021-06-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1074,
+    "grantedPoints": 102255
+  },
+  {
+    "date": "2021-06-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1092,
+    "grantedPoints": 106692
+  },
+  {
+    "date": "2021-06-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 992,
+    "grantedPoints": 93732
+  },
+  {
+    "date": "2021-06-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1357,
+    "grantedPoints": 135008
+  },
+  {
+    "date": "2021-06-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 881,
+    "grantedPoints": 92593
+  },
+  {
+    "date": "2021-06-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1655,
+    "grantedPoints": 154626
+  },
+  {
+    "date": "2021-06-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1308,
+    "grantedPoints": 121986
+  },
+  {
+    "date": "2021-06-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1403,
+    "grantedPoints": 144088
+  },
+  {
+    "date": "2021-06-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1097,
+    "grantedPoints": 94089
+  },
+  {
+    "date": "2021-06-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 848,
+    "grantedPoints": 74070
+  },
+  {
+    "date": "2021-06-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1206,
+    "grantedPoints": 110134
+  },
+  {
+    "date": "2021-06-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1127,
+    "grantedPoints": 100990
+  },
+  {
+    "date": "2021-06-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1421,
+    "grantedPoints": 132414
+  },
+  {
+    "date": "2021-06-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1050,
+    "grantedPoints": 97023
+  },
+  {
+    "date": "2021-06-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1461,
+    "grantedPoints": 123213
+  },
+  {
+    "date": "2021-06-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1776,
+    "grantedPoints": 146307
+  },
+  {
+    "date": "2021-06-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 1740,
+    "grantedPoints": 148734
+  },
+  {
+    "date": "2021-06-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1126,
+    "grantedPoints": 104234
+  },
+  {
+    "date": "2021-06-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1061,
+    "grantedPoints": 98014
+  },
+  {
+    "date": "2021-06-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1065,
+    "grantedPoints": 104992
+  },
+  {
+    "date": "2021-07-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 971,
+    "grantedPoints": 87288
+  },
+  {
+    "date": "2021-07-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1162,
+    "grantedPoints": 103959
+  },
+  {
+    "date": "2021-07-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1464,
+    "grantedPoints": 126905
+  },
+  {
+    "date": "2021-07-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1304,
+    "grantedPoints": 117591
+  },
+  {
+    "date": "2021-07-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1079,
+    "grantedPoints": 96568
+  },
+  {
+    "date": "2021-07-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1128,
+    "grantedPoints": 104029
+  },
+  {
+    "date": "2021-07-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1372,
+    "grantedPoints": 125991
+  },
+  {
+    "date": "2021-07-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1209,
+    "grantedPoints": 113412
+  },
+  {
+    "date": "2021-07-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1300,
+    "grantedPoints": 109444
+  },
+  {
+    "date": "2021-07-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1829,
+    "grantedPoints": 170005
+  },
+  {
+    "date": "2021-07-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1650,
+    "grantedPoints": 151232
+  },
+  {
+    "date": "2021-07-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1240,
+    "grantedPoints": 117134
+  },
+  {
+    "date": "2021-07-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1484,
+    "grantedPoints": 151069
+  },
+  {
+    "date": "2021-07-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1616,
+    "grantedPoints": 150598
+  },
+  {
+    "date": "2021-07-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1035,
+    "grantedPoints": 99083
+  },
+  {
+    "date": "2021-07-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1217,
+    "grantedPoints": 109616
+  },
+  {
+    "date": "2021-07-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1556,
+    "grantedPoints": 139169
+  },
+  {
+    "date": "2021-07-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1361,
+    "grantedPoints": 123968
+  },
+  {
+    "date": "2021-07-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1352,
+    "grantedPoints": 117709
+  },
+  {
+    "date": "2021-07-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1320,
+    "grantedPoints": 120917
+  },
+  {
+    "date": "2021-07-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1286,
+    "grantedPoints": 113200
+  },
+  {
+    "date": "2021-07-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 955,
+    "grantedPoints": 87513
+  },
+  {
+    "date": "2021-07-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1856,
+    "grantedPoints": 182919
+  },
+  {
+    "date": "2021-07-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1295,
+    "grantedPoints": 120587
+  },
+  {
+    "date": "2021-07-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 946,
+    "grantedPoints": 87559
+  },
+  {
+    "date": "2021-07-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1072,
+    "grantedPoints": 103686
+  },
+  {
+    "date": "2021-07-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 978,
+    "grantedPoints": 89687
+  },
+  {
+    "date": "2021-07-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1133,
+    "grantedPoints": 108666
+  },
+  {
+    "date": "2021-07-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1085,
+    "grantedPoints": 101825
+  },
+  {
+    "date": "2021-07-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1254,
+    "grantedPoints": 123340
+  },
+  {
+    "date": "2021-07-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 1386,
+    "grantedPoints": 128308
+  },
+  {
+    "date": "2021-08-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1007,
+    "grantedPoints": 92013
+  },
+  {
+    "date": "2021-08-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1128,
+    "grantedPoints": 106614
+  },
+  {
+    "date": "2021-08-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 947,
+    "grantedPoints": 91049
+  },
+  {
+    "date": "2021-08-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1224,
+    "grantedPoints": 113468
+  },
+  {
+    "date": "2021-08-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 924,
+    "grantedPoints": 93964
+  },
+  {
+    "date": "2021-08-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1051,
+    "grantedPoints": 97167
+  },
+  {
+    "date": "2021-08-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1274,
+    "grantedPoints": 111867
+  },
+  {
+    "date": "2021-08-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1119,
+    "grantedPoints": 97048
+  },
+  {
+    "date": "2021-08-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1099,
+    "grantedPoints": 101178
+  },
+  {
+    "date": "2021-08-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1066,
+    "grantedPoints": 92987
+  },
+  {
+    "date": "2021-08-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1041,
+    "grantedPoints": 100387
+  },
+  {
+    "date": "2021-08-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1180,
+    "grantedPoints": 109391
+  },
+  {
+    "date": "2021-08-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1166,
+    "grantedPoints": 99278
+  },
+  {
+    "date": "2021-08-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1510,
+    "grantedPoints": 131953
+  },
+  {
+    "date": "2021-08-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1321,
+    "grantedPoints": 125337
+  },
+  {
+    "date": "2021-08-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1470,
+    "grantedPoints": 135960
+  },
+  {
+    "date": "2021-08-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1339,
+    "grantedPoints": 130222
+  },
+  {
+    "date": "2021-08-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1398,
+    "grantedPoints": 133999
+  },
+  {
+    "date": "2021-08-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1156,
+    "grantedPoints": 107954
+  },
+  {
+    "date": "2021-08-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1322,
+    "grantedPoints": 117812
+  },
+  {
+    "date": "2021-08-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1604,
+    "grantedPoints": 137850
+  },
+  {
+    "date": "2021-08-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1343,
+    "grantedPoints": 121072
+  },
+  {
+    "date": "2021-08-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1678,
+    "grantedPoints": 157102
+  },
+  {
+    "date": "2021-08-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1266,
+    "grantedPoints": 113257
+  },
+  {
+    "date": "2021-08-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1127,
+    "grantedPoints": 105676
+  },
+  {
+    "date": "2021-08-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1074,
+    "grantedPoints": 101181
+  },
+  {
+    "date": "2021-08-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 3075,
+    "grantedPoints": 340588
+  },
+  {
+    "date": "2021-08-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 3441,
+    "grantedPoints": 383593
+  },
+  {
+    "date": "2021-08-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 4204,
+    "grantedPoints": 492038
+  },
+  {
+    "date": "2021-08-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1369,
+    "grantedPoints": 128995
+  },
+  {
+    "date": "2021-08-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 1284,
+    "grantedPoints": 124689
+  },
+  {
+    "date": "2021-09-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1218,
+    "grantedPoints": 105142
+  },
+  {
+    "date": "2021-09-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1133,
+    "grantedPoints": 107250
+  },
+  {
+    "date": "2021-09-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1436,
+    "grantedPoints": 122404
+  },
+  {
+    "date": "2021-09-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1695,
+    "grantedPoints": 142778
+  },
+  {
+    "date": "2021-09-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1513,
+    "grantedPoints": 136633
+  },
+  {
+    "date": "2021-09-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1596,
+    "grantedPoints": 142570
+  },
+  {
+    "date": "2021-09-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1228,
+    "grantedPoints": 110220
+  },
+  {
+    "date": "2021-09-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1223,
+    "grantedPoints": 115570
+  },
+  {
+    "date": "2021-09-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1148,
+    "grantedPoints": 104530
+  },
+  {
+    "date": "2021-09-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1285,
+    "grantedPoints": 116821
+  },
+  {
+    "date": "2021-09-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1623,
+    "grantedPoints": 145596
+  },
+  {
+    "date": "2021-09-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1333,
+    "grantedPoints": 121767
+  },
+  {
+    "date": "2021-09-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1228,
+    "grantedPoints": 120851
+  },
+  {
+    "date": "2021-09-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1109,
+    "grantedPoints": 107074
+  },
+  {
+    "date": "2021-09-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1374,
+    "grantedPoints": 140616
+  },
+  {
+    "date": "2021-09-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1345,
+    "grantedPoints": 133083
+  },
+  {
+    "date": "2021-09-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1446,
+    "grantedPoints": 136097
+  },
+  {
+    "date": "2021-09-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1847,
+    "grantedPoints": 169004
+  },
+  {
+    "date": "2021-09-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1584,
+    "grantedPoints": 160942
+  },
+  {
+    "date": "2021-09-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1745,
+    "grantedPoints": 170217
+  },
+  {
+    "date": "2021-09-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1776,
+    "grantedPoints": 191687
+  },
+  {
+    "date": "2021-09-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1680,
+    "grantedPoints": 171971
+  },
+  {
+    "date": "2021-09-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1237,
+    "grantedPoints": 114610
+  },
+  {
+    "date": "2021-09-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1530,
+    "grantedPoints": 136561
+  },
+  {
+    "date": "2021-09-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1778,
+    "grantedPoints": 164682
+  },
+  {
+    "date": "2021-09-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1507,
+    "grantedPoints": 139827
+  },
+  {
+    "date": "2021-09-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 1335,
+    "grantedPoints": 133087
+  },
+  {
+    "date": "2021-09-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1042,
+    "grantedPoints": 102462
+  },
+  {
+    "date": "2021-09-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1408,
+    "grantedPoints": 135707
+  },
+  {
+    "date": "2021-09-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1302,
+    "grantedPoints": 142035
+  },
+  {
+    "date": "2021-10-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1523,
+    "grantedPoints": 136183
+  },
+  {
+    "date": "2021-10-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1827,
+    "grantedPoints": 156256
+  },
+  {
+    "date": "2021-10-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1694,
+    "grantedPoints": 155062
+  },
+  {
+    "date": "2021-10-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1441,
+    "grantedPoints": 126107
+  },
+  {
+    "date": "2021-10-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1195,
+    "grantedPoints": 109976
+  },
+  {
+    "date": "2021-10-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1708,
+    "grantedPoints": 154741
+  },
+  {
+    "date": "2021-10-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1523,
+    "grantedPoints": 138574
+  },
+  {
+    "date": "2021-10-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1881,
+    "grantedPoints": 156374
+  },
+  {
+    "date": "2021-10-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2400,
+    "grantedPoints": 202823
+  },
+  {
+    "date": "2021-10-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2111,
+    "grantedPoints": 181689
+  },
+  {
+    "date": "2021-10-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1601,
+    "grantedPoints": 142296
+  },
+  {
+    "date": "2021-10-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1404,
+    "grantedPoints": 130219
+  },
+  {
+    "date": "2021-10-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1603,
+    "grantedPoints": 144734
+  },
+  {
+    "date": "2021-10-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1481,
+    "grantedPoints": 130372
+  },
+  {
+    "date": "2021-10-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1592,
+    "grantedPoints": 129064
+  },
+  {
+    "date": "2021-10-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 2004,
+    "grantedPoints": 166816
+  },
+  {
+    "date": "2021-10-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1690,
+    "grantedPoints": 141996
+  },
+  {
+    "date": "2021-10-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1308,
+    "grantedPoints": 110999
+  },
+  {
+    "date": "2021-10-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1339,
+    "grantedPoints": 117362
+  },
+  {
+    "date": "2021-10-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1399,
+    "grantedPoints": 119596
+  },
+  {
+    "date": "2021-10-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1280,
+    "grantedPoints": 109367
+  },
+  {
+    "date": "2021-10-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1779,
+    "grantedPoints": 148224
+  },
+  {
+    "date": "2021-10-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 2043,
+    "grantedPoints": 164369
+  },
+  {
+    "date": "2021-10-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1851,
+    "grantedPoints": 157080
+  },
+  {
+    "date": "2021-10-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1538,
+    "grantedPoints": 127320
+  },
+  {
+    "date": "2021-10-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1314,
+    "grantedPoints": 117938
+  },
+  {
+    "date": "2021-10-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 1564,
+    "grantedPoints": 137613
+  },
+  {
+    "date": "2021-10-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1485,
+    "grantedPoints": 135520
+  },
+  {
+    "date": "2021-10-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1651,
+    "grantedPoints": 132284
+  },
+  {
+    "date": "2021-10-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 2290,
+    "grantedPoints": 189948
+  },
+  {
+    "date": "2021-10-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 1972,
+    "grantedPoints": 171357
+  },
+  {
+    "date": "2021-11-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1143,
+    "grantedPoints": 91966
+  },
+  {
+    "date": "2021-11-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 3727,
+    "grantedPoints": 422893
+  },
+  {
+    "date": "2021-11-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 6325,
+    "grantedPoints": 676170
+  },
+  {
+    "date": "2021-11-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 5141,
+    "grantedPoints": 490108
+  },
+  {
+    "date": "2021-11-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 3279,
+    "grantedPoints": 306898
+  },
+  {
+    "date": "2021-11-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 3670,
+    "grantedPoints": 329944
+  },
+  {
+    "date": "2021-11-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 3436,
+    "grantedPoints": 315722
+  },
+  {
+    "date": "2021-11-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 2454,
+    "grantedPoints": 222024
+  },
+  {
+    "date": "2021-11-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2152,
+    "grantedPoints": 187389
+  },
+  {
+    "date": "2021-11-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2658,
+    "grantedPoints": 241477
+  },
+  {
+    "date": "2021-11-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 3661,
+    "grantedPoints": 339436
+  },
+  {
+    "date": "2021-11-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 4211,
+    "grantedPoints": 385984
+  },
+  {
+    "date": "2021-11-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1833,
+    "grantedPoints": 143725
+  },
+  {
+    "date": "2021-11-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1451,
+    "grantedPoints": 115886
+  },
+  {
+    "date": "2021-11-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1230,
+    "grantedPoints": 102438
+  },
+  {
+    "date": "2021-11-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1397,
+    "grantedPoints": 126438
+  },
+  {
+    "date": "2021-11-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1399,
+    "grantedPoints": 117616
+  },
+  {
+    "date": "2021-11-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1114,
+    "grantedPoints": 99277
+  },
+  {
+    "date": "2021-11-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1368,
+    "grantedPoints": 117277
+  },
+  {
+    "date": "2021-11-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1860,
+    "grantedPoints": 164752
+  },
+  {
+    "date": "2021-11-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1542,
+    "grantedPoints": 139389
+  },
+  {
+    "date": "2021-11-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1379,
+    "grantedPoints": 126182
+  },
+  {
+    "date": "2021-11-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1398,
+    "grantedPoints": 127479
+  },
+  {
+    "date": "2021-11-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1347,
+    "grantedPoints": 120087
+  },
+  {
+    "date": "2021-11-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1614,
+    "grantedPoints": 137491
+  },
+  {
+    "date": "2021-11-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 2839,
+    "grantedPoints": 249899
+  },
+  {
+    "date": "2021-11-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2810,
+    "grantedPoints": 234611
+  },
+  {
+    "date": "2021-11-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2738,
+    "grantedPoints": 232287
+  },
+  {
+    "date": "2021-11-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1975,
+    "grantedPoints": 187339
+  },
+  {
+    "date": "2021-11-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1839,
+    "grantedPoints": 164892
+  },
+  {
+    "date": "2021-12-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1872,
+    "grantedPoints": 164470
+  },
+  {
+    "date": "2021-12-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1849,
+    "grantedPoints": 167251
+  },
+  {
+    "date": "2021-12-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2315,
+    "grantedPoints": 199706
+  },
+  {
+    "date": "2021-12-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 2622,
+    "grantedPoints": 226806
+  },
+  {
+    "date": "2021-12-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2397,
+    "grantedPoints": 207226
+  },
+  {
+    "date": "2021-12-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1927,
+    "grantedPoints": 168780
+  },
+  {
+    "date": "2021-12-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1655,
+    "grantedPoints": 138722
+  },
+  {
+    "date": "2021-12-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 2305,
+    "grantedPoints": 193705
+  },
+  {
+    "date": "2021-12-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1847,
+    "grantedPoints": 169334
+  },
+  {
+    "date": "2021-12-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2460,
+    "grantedPoints": 228455
+  },
+  {
+    "date": "2021-12-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 2434,
+    "grantedPoints": 216085
+  },
+  {
+    "date": "2021-12-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 3014,
+    "grantedPoints": 280287
+  },
+  {
+    "date": "2021-12-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 2980,
+    "grantedPoints": 318743
+  },
+  {
+    "date": "2021-12-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1872,
+    "grantedPoints": 163934
+  },
+  {
+    "date": "2021-12-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 2420,
+    "grantedPoints": 216678
+  },
+  {
+    "date": "2021-12-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 2402,
+    "grantedPoints": 218793
+  },
+  {
+    "date": "2021-12-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 2522,
+    "grantedPoints": 224039
+  },
+  {
+    "date": "2021-12-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 2570,
+    "grantedPoints": 216236
+  },
+  {
+    "date": "2021-12-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 2452,
+    "grantedPoints": 205212
+  },
+  {
+    "date": "2021-12-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 4251,
+    "grantedPoints": 396801
+  },
+  {
+    "date": "2021-12-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 2760,
+    "grantedPoints": 322940
+  },
+  {
+    "date": "2021-12-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 3015,
+    "grantedPoints": 348969
+  },
+  {
+    "date": "2021-12-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 4348,
+    "grantedPoints": 416911
+  },
+  {
+    "date": "2021-12-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 3365,
+    "grantedPoints": 451666
+  },
+  {
+    "date": "2021-12-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 3017,
+    "grantedPoints": 432608
+  },
+  {
+    "date": "2021-12-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 3116,
+    "grantedPoints": 458765
+  },
+  {
+    "date": "2021-12-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2759,
+    "grantedPoints": 357430
+  },
+  {
+    "date": "2021-12-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2603,
+    "grantedPoints": 321378
+  },
+  {
+    "date": "2021-12-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 5108,
+    "grantedPoints": 486957
+  },
+  {
+    "date": "2021-12-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 2761,
+    "grantedPoints": 353250
+  },
+  {
+    "date": "2021-12-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 2959,
+    "grantedPoints": 367375
+  },
+  {
+    "date": "2022-01-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 2678,
+    "grantedPoints": 233138
+  },
+  {
+    "date": "2022-01-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 2819,
+    "grantedPoints": 250860
+  },
+  {
+    "date": "2022-01-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2624,
+    "grantedPoints": 243905
+  },
+  {
+    "date": "2022-01-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 3508,
+    "grantedPoints": 268762
+  },
+  {
+    "date": "2022-01-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2946,
+    "grantedPoints": 289969
+  },
+  {
+    "date": "2022-01-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 2357,
+    "grantedPoints": 233980
+  },
+  {
+    "date": "2022-01-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 2528,
+    "grantedPoints": 231973
+  },
+  {
+    "date": "2022-01-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 3945,
+    "grantedPoints": 363579
+  },
+  {
+    "date": "2022-01-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 3629,
+    "grantedPoints": 353609
+  },
+  {
+    "date": "2022-01-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 3292,
+    "grantedPoints": 315691
+  },
+  {
+    "date": "2022-01-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 2731,
+    "grantedPoints": 265088
+  },
+  {
+    "date": "2022-01-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 3550,
+    "grantedPoints": 392431
+  },
+  {
+    "date": "2022-01-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 3039,
+    "grantedPoints": 323483
+  },
+  {
+    "date": "2022-01-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 3629,
+    "grantedPoints": 368458
+  },
+  {
+    "date": "2022-01-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 4151,
+    "grantedPoints": 415739
+  },
+  {
+    "date": "2022-01-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 4293,
+    "grantedPoints": 407296
+  },
+  {
+    "date": "2022-01-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 3764,
+    "grantedPoints": 358841
+  },
+  {
+    "date": "2022-01-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 4059,
+    "grantedPoints": 398158
+  },
+  {
+    "date": "2022-01-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 4296,
+    "grantedPoints": 416964
+  },
+  {
+    "date": "2022-01-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 3917,
+    "grantedPoints": 322467
+  },
+  {
+    "date": "2022-01-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 4499,
+    "grantedPoints": 362384
+  },
+  {
+    "date": "2022-01-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 5072,
+    "grantedPoints": 417043
+  },
+  {
+    "date": "2022-01-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 5269,
+    "grantedPoints": 432137
+  },
+  {
+    "date": "2022-01-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 3985,
+    "grantedPoints": 324458
+  },
+  {
+    "date": "2022-01-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 3879,
+    "grantedPoints": 298664
+  },
+  {
+    "date": "2022-01-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 3982,
+    "grantedPoints": 324083
+  },
+  {
+    "date": "2022-01-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2811,
+    "grantedPoints": 238159
+  },
+  {
+    "date": "2022-01-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2994,
+    "grantedPoints": 257225
+  },
+  {
+    "date": "2022-01-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 3325,
+    "grantedPoints": 282417
+  },
+  {
+    "date": "2022-01-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 3372,
+    "grantedPoints": 281627
+  },
+  {
+    "date": "2022-01-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 6992,
+    "grantedPoints": 445552
+  },
+  {
+    "date": "2022-02-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1131,
+    "grantedPoints": 94734
+  },
+  {
+    "date": "2022-02-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1650,
+    "grantedPoints": 137186
+  },
+  {
+    "date": "2022-02-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2305,
+    "grantedPoints": 177588
+  },
+  {
+    "date": "2022-02-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 2230,
+    "grantedPoints": 178612
+  },
+  {
+    "date": "2022-02-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2271,
+    "grantedPoints": 181162
+  },
+  {
+    "date": "2022-02-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 2034,
+    "grantedPoints": 163789
+  },
+  {
+    "date": "2022-02-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 2627,
+    "grantedPoints": 199766
+  },
+  {
+    "date": "2022-02-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1755,
+    "grantedPoints": 145971
+  },
+  {
+    "date": "2022-02-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2255,
+    "grantedPoints": 193070
+  },
+  {
+    "date": "2022-02-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1716,
+    "grantedPoints": 144426
+  },
+  {
+    "date": "2022-02-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1836,
+    "grantedPoints": 149832
+  },
+  {
+    "date": "2022-02-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 2279,
+    "grantedPoints": 185250
+  },
+  {
+    "date": "2022-02-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 2282,
+    "grantedPoints": 183984
+  },
+  {
+    "date": "2022-02-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2114,
+    "grantedPoints": 163177
+  },
+  {
+    "date": "2022-02-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1481,
+    "grantedPoints": 122963
+  },
+  {
+    "date": "2022-02-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1741,
+    "grantedPoints": 152354
+  },
+  {
+    "date": "2022-02-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1734,
+    "grantedPoints": 149979
+  },
+  {
+    "date": "2022-02-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1880,
+    "grantedPoints": 157894
+  },
+  {
+    "date": "2022-02-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 2202,
+    "grantedPoints": 186093
+  },
+  {
+    "date": "2022-02-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 2281,
+    "grantedPoints": 198449
+  },
+  {
+    "date": "2022-02-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 2567,
+    "grantedPoints": 191868
+  },
+  {
+    "date": "2022-02-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 6165,
+    "grantedPoints": 348720
+  },
+  {
+    "date": "2022-02-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 2945,
+    "grantedPoints": 212885
+  },
+  {
+    "date": "2022-02-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1472,
+    "grantedPoints": 115092
+  },
+  {
+    "date": "2022-02-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1200,
+    "grantedPoints": 110900
+  },
+  {
+    "date": "2022-02-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 3014,
+    "grantedPoints": 219998
+  },
+  {
+    "date": "2022-02-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2268,
+    "grantedPoints": 179762
+  },
+  {
+    "date": "2022-02-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2855,
+    "grantedPoints": 231925
+  },
+  {
+    "date": "2022-03-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1509,
+    "grantedPoints": 118913
+  },
+  {
+    "date": "2022-03-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1487,
+    "grantedPoints": 122425
+  },
+  {
+    "date": "2022-03-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1521,
+    "grantedPoints": 127602
+  },
+  {
+    "date": "2022-03-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1934,
+    "grantedPoints": 168127
+  },
+  {
+    "date": "2022-03-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2256,
+    "grantedPoints": 182157
+  },
+  {
+    "date": "2022-03-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 2002,
+    "grantedPoints": 169154
+  },
+  {
+    "date": "2022-03-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1693,
+    "grantedPoints": 136471
+  },
+  {
+    "date": "2022-03-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1511,
+    "grantedPoints": 131458
+  },
+  {
+    "date": "2022-03-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 1892,
+    "grantedPoints": 166070
+  },
+  {
+    "date": "2022-03-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1576,
+    "grantedPoints": 140148
+  },
+  {
+    "date": "2022-03-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1801,
+    "grantedPoints": 148363
+  },
+  {
+    "date": "2022-03-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 2103,
+    "grantedPoints": 176183
+  },
+  {
+    "date": "2022-03-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 2120,
+    "grantedPoints": 183394
+  },
+  {
+    "date": "2022-03-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2048,
+    "grantedPoints": 176176
+  },
+  {
+    "date": "2022-03-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1489,
+    "grantedPoints": 121496
+  },
+  {
+    "date": "2022-03-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1835,
+    "grantedPoints": 158497
+  },
+  {
+    "date": "2022-03-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1726,
+    "grantedPoints": 151455
+  },
+  {
+    "date": "2022-03-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 1762,
+    "grantedPoints": 151980
+  },
+  {
+    "date": "2022-03-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 2078,
+    "grantedPoints": 171294
+  },
+  {
+    "date": "2022-03-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 2226,
+    "grantedPoints": 192677
+  },
+  {
+    "date": "2022-03-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1811,
+    "grantedPoints": 158906
+  },
+  {
+    "date": "2022-03-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1492,
+    "grantedPoints": 136708
+  },
+  {
+    "date": "2022-03-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 2152,
+    "grantedPoints": 196598
+  },
+  {
+    "date": "2022-03-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 1874,
+    "grantedPoints": 170416
+  },
+  {
+    "date": "2022-03-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 1980,
+    "grantedPoints": 176483
+  },
+  {
+    "date": "2022-03-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 2304,
+    "grantedPoints": 201974
+  },
+  {
+    "date": "2022-03-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2210,
+    "grantedPoints": 202333
+  },
+  {
+    "date": "2022-03-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1901,
+    "grantedPoints": 172273
+  },
+  {
+    "date": "2022-03-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 1701,
+    "grantedPoints": 140556
+  },
+  {
+    "date": "2022-03-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 1829,
+    "grantedPoints": 157490
+  },
+  {
+    "date": "2022-03-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 2008,
+    "grantedPoints": 180531
+  },
+  {
+    "date": "2022-04-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1716,
+    "grantedPoints": 155005
+  },
+  {
+    "date": "2022-04-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 2226,
+    "grantedPoints": 184856
+  },
+  {
+    "date": "2022-04-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 1964,
+    "grantedPoints": 177241
+  },
+  {
+    "date": "2022-04-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1950,
+    "grantedPoints": 167630
+  },
+  {
+    "date": "2022-04-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1770,
+    "grantedPoints": 155477
+  },
+  {
+    "date": "2022-04-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 2212,
+    "grantedPoints": 194873
+  },
+  {
+    "date": "2022-04-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 2025,
+    "grantedPoints": 178029
+  },
+  {
+    "date": "2022-04-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 2097,
+    "grantedPoints": 182786
+  },
+  {
+    "date": "2022-04-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2654,
+    "grantedPoints": 228274
+  },
+  {
+    "date": "2022-04-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2436,
+    "grantedPoints": 219094
+  },
+  {
+    "date": "2022-04-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1916,
+    "grantedPoints": 169487
+  },
+  {
+    "date": "2022-04-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 2208,
+    "grantedPoints": 203240
+  },
+  {
+    "date": "2022-04-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 2724,
+    "grantedPoints": 258652
+  },
+  {
+    "date": "2022-04-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2817,
+    "grantedPoints": 268803
+  },
+  {
+    "date": "2022-04-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 3536,
+    "grantedPoints": 332546
+  },
+  {
+    "date": "2022-04-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 3186,
+    "grantedPoints": 291464
+  },
+  {
+    "date": "2022-04-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 3062,
+    "grantedPoints": 284244
+  },
+  {
+    "date": "2022-04-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 3454,
+    "grantedPoints": 334551
+  },
+  {
+    "date": "2022-04-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 3281,
+    "grantedPoints": 313859
+  },
+  {
+    "date": "2022-04-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 2208,
+    "grantedPoints": 196645
+  },
+  {
+    "date": "2022-04-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1822,
+    "grantedPoints": 155976
+  },
+  {
+    "date": "2022-04-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1966,
+    "grantedPoints": 166011
+  },
+  {
+    "date": "2022-04-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 2451,
+    "grantedPoints": 209060
+  },
+  {
+    "date": "2022-04-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 2420,
+    "grantedPoints": 205819
+  },
+  {
+    "date": "2022-04-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 2346,
+    "grantedPoints": 206748
+  },
+  {
+    "date": "2022-04-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1954,
+    "grantedPoints": 167621
+  },
+  {
+    "date": "2022-04-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2040,
+    "grantedPoints": 179470
+  },
+  {
+    "date": "2022-04-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2137,
+    "grantedPoints": 195599
+  },
+  {
+    "date": "2022-04-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 2228,
+    "grantedPoints": 197160
+  },
+  {
+    "date": "2022-04-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 2711,
+    "grantedPoints": 239505
+  },
+  {
+    "date": "2022-05-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 2751,
+    "grantedPoints": 246326
+  },
+  {
+    "date": "2022-05-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 3372,
+    "grantedPoints": 319171
+  },
+  {
+    "date": "2022-05-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 3403,
+    "grantedPoints": 322891
+  },
+  {
+    "date": "2022-05-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 2171,
+    "grantedPoints": 184304
+  },
+  {
+    "date": "2022-05-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1905,
+    "grantedPoints": 163530
+  },
+  {
+    "date": "2022-05-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 2002,
+    "grantedPoints": 173063
+  },
+  {
+    "date": "2022-05-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 2332,
+    "grantedPoints": 192707
+  },
+  {
+    "date": "2022-05-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 2140,
+    "grantedPoints": 179373
+  },
+  {
+    "date": "2022-05-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2263,
+    "grantedPoints": 237446
+  },
+  {
+    "date": "2022-05-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 1872,
+    "grantedPoints": 175662
+  },
+  {
+    "date": "2022-05-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 1683,
+    "grantedPoints": 160455
+  },
+  {
+    "date": "2022-05-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 2212,
+    "grantedPoints": 259539
+  },
+  {
+    "date": "2022-05-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 2613,
+    "grantedPoints": 368444
+  },
+  {
+    "date": "2022-05-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2774,
+    "grantedPoints": 302627
+  },
+  {
+    "date": "2022-05-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 2463,
+    "grantedPoints": 255727
+  },
+  {
+    "date": "2022-05-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 2095,
+    "grantedPoints": 216945
+  },
+  {
+    "date": "2022-05-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 2777,
+    "grantedPoints": 274476
+  },
+  {
+    "date": "2022-05-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 3331,
+    "grantedPoints": 327435
+  },
+  {
+    "date": "2022-05-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 3207,
+    "grantedPoints": 332030
+  },
+  {
+    "date": "2022-05-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 3769,
+    "grantedPoints": 490444
+  },
+  {
+    "date": "2022-05-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 2916,
+    "grantedPoints": 289479
+  },
+  {
+    "date": "2022-05-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 2555,
+    "grantedPoints": 260635
+  },
+  {
+    "date": "2022-05-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 3713,
+    "grantedPoints": 319056
+  },
+  {
+    "date": "2022-05-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 2162,
+    "grantedPoints": 215459
+  },
+  {
+    "date": "2022-05-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 2625,
+    "grantedPoints": 258462
+  },
+  {
+    "date": "2022-05-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 2125,
+    "grantedPoints": 209020
+  },
+  {
+    "date": "2022-05-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2323,
+    "grantedPoints": 241946
+  },
+  {
+    "date": "2022-05-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2830,
+    "grantedPoints": 288395
+  },
+  {
+    "date": "2022-05-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 2671,
+    "grantedPoints": 269918
+  },
+  {
+    "date": "2022-05-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 3535,
+    "grantedPoints": 428979
+  },
+  {
+    "date": "2022-05-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 9378,
+    "grantedPoints": 783525
+  },
+  {
+    "date": "2022-06-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 1668,
+    "grantedPoints": 152327
+  },
+  {
+    "date": "2022-06-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 3942,
+    "grantedPoints": 445731
+  },
+  {
+    "date": "2022-06-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 8622,
+    "grantedPoints": 899727
+  },
+  {
+    "date": "2022-06-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 7075,
+    "grantedPoints": 672243
+  },
+  {
+    "date": "2022-06-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 5823,
+    "grantedPoints": 537025
+  },
+  {
+    "date": "2022-06-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 3868,
+    "grantedPoints": 335065
+  },
+  {
+    "date": "2022-06-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 3543,
+    "grantedPoints": 304524
+  },
+  {
+    "date": "2022-06-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 3629,
+    "grantedPoints": 314181
+  },
+  {
+    "date": "2022-06-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 3224,
+    "grantedPoints": 270101
+  },
+  {
+    "date": "2022-06-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 3816,
+    "grantedPoints": 319440
+  },
+  {
+    "date": "2022-06-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 4468,
+    "grantedPoints": 356183
+  },
+  {
+    "date": "2022-06-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 5586,
+    "grantedPoints": 469512
+  },
+  {
+    "date": "2022-06-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 2267,
+    "grantedPoints": 190364
+  },
+  {
+    "date": "2022-06-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 1575,
+    "grantedPoints": 122854
+  },
+  {
+    "date": "2022-06-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1778,
+    "grantedPoints": 145200
+  },
+  {
+    "date": "2022-06-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 1518,
+    "grantedPoints": 124746
+  },
+  {
+    "date": "2022-06-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 1725,
+    "grantedPoints": 131035
+  },
+  {
+    "date": "2022-06-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 2043,
+    "grantedPoints": 153225
+  },
+  {
+    "date": "2022-06-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1771,
+    "grantedPoints": 136531
+  },
+  {
+    "date": "2022-06-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1891,
+    "grantedPoints": 150973
+  },
+  {
+    "date": "2022-06-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1521,
+    "grantedPoints": 117704
+  },
+  {
+    "date": "2022-06-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 1745,
+    "grantedPoints": 137308
+  },
+  {
+    "date": "2022-06-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 1706,
+    "grantedPoints": 139044
+  },
+  {
+    "date": "2022-06-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 2349,
+    "grantedPoints": 178976
+  },
+  {
+    "date": "2022-06-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 2080,
+    "grantedPoints": 156907
+  },
+  {
+    "date": "2022-06-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1814,
+    "grantedPoints": 139975
+  },
+  {
+    "date": "2022-06-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 2098,
+    "grantedPoints": 168991
+  },
+  {
+    "date": "2022-06-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 1505,
+    "grantedPoints": 116034
+  },
+  {
+    "date": "2022-06-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 2109,
+    "grantedPoints": 169017
+  },
+  {
+    "date": "2022-06-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 2146,
+    "grantedPoints": 169520
+  },
+  {
+    "date": "2022-07-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 2187,
+    "grantedPoints": 175865
+  },
+  {
+    "date": "2022-07-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 2374,
+    "grantedPoints": 189566
+  },
+  {
+    "date": "2022-07-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2278,
+    "grantedPoints": 182557
+  },
+  {
+    "date": "2022-07-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1761,
+    "grantedPoints": 151789
+  },
+  {
+    "date": "2022-07-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 1606,
+    "grantedPoints": 132045
+  },
+  {
+    "date": "2022-07-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1599,
+    "grantedPoints": 132834
+  },
+  {
+    "date": "2022-07-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1577,
+    "grantedPoints": 124600
+  },
+  {
+    "date": "2022-07-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 1992,
+    "grantedPoints": 154317
+  },
+  {
+    "date": "2022-07-09T00:00:00.000+00:00",
+    "numberOfPointGrants": 2328,
+    "grantedPoints": 182408
+  },
+  {
+    "date": "2022-07-10T00:00:00.000+00:00",
+    "numberOfPointGrants": 2164,
+    "grantedPoints": 172110
+  },
+  {
+    "date": "2022-07-11T00:00:00.000+00:00",
+    "numberOfPointGrants": 2082,
+    "grantedPoints": 169609
+  },
+  {
+    "date": "2022-07-12T00:00:00.000+00:00",
+    "numberOfPointGrants": 1953,
+    "grantedPoints": 208501
+  },
+  {
+    "date": "2022-07-13T00:00:00.000+00:00",
+    "numberOfPointGrants": 1569,
+    "grantedPoints": 163556
+  },
+  {
+    "date": "2022-07-14T00:00:00.000+00:00",
+    "numberOfPointGrants": 2552,
+    "grantedPoints": 261446
+  },
+  {
+    "date": "2022-07-15T00:00:00.000+00:00",
+    "numberOfPointGrants": 1967,
+    "grantedPoints": 169451
+  },
+  {
+    "date": "2022-07-16T00:00:00.000+00:00",
+    "numberOfPointGrants": 2551,
+    "grantedPoints": 210019
+  },
+  {
+    "date": "2022-07-17T00:00:00.000+00:00",
+    "numberOfPointGrants": 2270,
+    "grantedPoints": 182799
+  },
+  {
+    "date": "2022-07-18T00:00:00.000+00:00",
+    "numberOfPointGrants": 2477,
+    "grantedPoints": 210625
+  },
+  {
+    "date": "2022-07-19T00:00:00.000+00:00",
+    "numberOfPointGrants": 1864,
+    "grantedPoints": 156896
+  },
+  {
+    "date": "2022-07-20T00:00:00.000+00:00",
+    "numberOfPointGrants": 1955,
+    "grantedPoints": 151029
+  },
+  {
+    "date": "2022-07-21T00:00:00.000+00:00",
+    "numberOfPointGrants": 1981,
+    "grantedPoints": 154856
+  },
+  {
+    "date": "2022-07-22T00:00:00.000+00:00",
+    "numberOfPointGrants": 2141,
+    "grantedPoints": 167582
+  },
+  {
+    "date": "2022-07-23T00:00:00.000+00:00",
+    "numberOfPointGrants": 2542,
+    "grantedPoints": 197417
+  },
+  {
+    "date": "2022-07-24T00:00:00.000+00:00",
+    "numberOfPointGrants": 2324,
+    "grantedPoints": 182869
+  },
+  {
+    "date": "2022-07-25T00:00:00.000+00:00",
+    "numberOfPointGrants": 2178,
+    "grantedPoints": 179141
+  },
+  {
+    "date": "2022-07-26T00:00:00.000+00:00",
+    "numberOfPointGrants": 1973,
+    "grantedPoints": 160874
+  },
+  {
+    "date": "2022-07-27T00:00:00.000+00:00",
+    "numberOfPointGrants": 3240,
+    "grantedPoints": 283337
+  },
+  {
+    "date": "2022-07-28T00:00:00.000+00:00",
+    "numberOfPointGrants": 2479,
+    "grantedPoints": 207140
+  },
+  {
+    "date": "2022-07-29T00:00:00.000+00:00",
+    "numberOfPointGrants": 2566,
+    "grantedPoints": 206895
+  },
+  {
+    "date": "2022-07-30T00:00:00.000+00:00",
+    "numberOfPointGrants": 2977,
+    "grantedPoints": 239808
+  },
+  {
+    "date": "2022-07-31T00:00:00.000+00:00",
+    "numberOfPointGrants": 2977,
+    "grantedPoints": 237035
+  },
+  {
+    "date": "2022-08-01T00:00:00.000+00:00",
+    "numberOfPointGrants": 2344,
+    "grantedPoints": 198762
+  },
+  {
+    "date": "2022-08-02T00:00:00.000+00:00",
+    "numberOfPointGrants": 1996,
+    "grantedPoints": 170836
+  },
+  {
+    "date": "2022-08-03T00:00:00.000+00:00",
+    "numberOfPointGrants": 2001,
+    "grantedPoints": 163057
+  },
+  {
+    "date": "2022-08-04T00:00:00.000+00:00",
+    "numberOfPointGrants": 1710,
+    "grantedPoints": 136189
+  },
+  {
+    "date": "2022-08-05T00:00:00.000+00:00",
+    "numberOfPointGrants": 2052,
+    "grantedPoints": 167547
+  },
+  {
+    "date": "2022-08-06T00:00:00.000+00:00",
+    "numberOfPointGrants": 1724,
+    "grantedPoints": 138299
+  },
+  {
+    "date": "2022-08-07T00:00:00.000+00:00",
+    "numberOfPointGrants": 1079,
+    "grantedPoints": 86607
+  },
+  {
+    "date": "2022-08-08T00:00:00.000+00:00",
+    "numberOfPointGrants": 606,
+    "grantedPoints": 49559
+  }
+]
