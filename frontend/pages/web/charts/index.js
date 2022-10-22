@@ -3,7 +3,7 @@ import { ExpiredPoints } from '../../../components/ExpiredPoints'
 import GrantedPoints from '../../../components/GrantedPoints'
 import { WeeklyCheckoutsChart } from '../../../components/WeeklyCheckoutsChart'
 
-export const ChartsPage = () => {
+const ChartsPage = () => {
     return (
         <Box p={16}>
             <SimpleGrid cols={2}>
