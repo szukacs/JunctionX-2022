@@ -3,7 +3,7 @@ import { Bar } from 'react-chartjs-2'
 import data from '../src/data/weeklyCheckouts.json'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
-
+const labels = ['Monday' ,'Tuesday' ,'Wednesday' ,'Thursday' ,'Friday' ,'Saturday' ,'Sunday'];
 export const WeeklyCheckoutsChart = () => {
     return (
         <Bar
@@ -20,7 +20,7 @@ export const WeeklyCheckoutsChart = () => {
                 },
             }}
             data={{
-                labels: data.dailyCheckouts.map((checkout) => checkout.dayOfWeek),
+                labels,
                 datasets: [
                     {
                         label: 'Daily checkouts',
