@@ -14,6 +14,9 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <Link href={"/web/charts"}>
+          All Charts
+        </Link>
         <Link href={"/web/weekly-checkouts"}>
           Weekly Checkouts Chart
         </Link>

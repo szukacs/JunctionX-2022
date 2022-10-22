@@ -1,9 +1,6 @@
 package com.example.backend;
 
-import com.example.backend.dto.DailyCheckout;
-import com.example.backend.dto.DailyExpire;
-import com.example.backend.dto.DailyGrant;
-import com.example.backend.dto.WeeklyCheckouts;
+import com.example.backend.dto.*;
 import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
@@ -93,6 +90,27 @@ public class WeeklyAnalysisController {
                 sort(Sort.Direction.ASC, "date")
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyGrant.class);
+        return ResponseEntity.ok(dailyExpires.getMappedResults());
+    }
+
+    @GetMapping("/claimedRewards")
+    public ResponseEntity<?> getClaimedRewards(
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
+    ) {
+        var timeCriteria = Criteria.where("date").gte(from).lte(until);
+        var aggregation = newAggregation(
+                match(timeCriteria),
+                match(Criteria.where("action").is("reward")),
+                project("id", "date", "points"),
+                group("date")
+                        .count().as("numberOfRewardClaims")
+                        .sum(absoluteValueOf("points")).as("usedPoints"),
+                project("numberOfRewardClaims", "usedPoints").and("date").previousOperation(),
+
+                sort(Sort.Direction.ASC, "date")
+        );
+        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyRewardClaim.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 }
