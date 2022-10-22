@@ -58,7 +58,7 @@ export const BubbleChart2 = () => {
                     },
                     y: {
                         title: {display: true, text: 'Rewards claimed'},
-                        ticks: {stepSize: 1}
+                        ticks: {stepSize: 2}
                     },
                 },
             }}
@@ -67,7 +67,7 @@ export const BubbleChart2 = () => {
                 datasets: [
                     {
                         label: 'Dollars spend',
-                        data: data.filter(data => data.loyalDays >= 400 && data.loyalDays <= 700).map((data) => ({
+                        data: data.filter(data => data.loyalDays >= 400).map((data) => ({
                             x: data.loyalDays,
                             r: data.spending / 415,
                             y: data.rewardsClaimed,
