@@ -1,11 +1,14 @@
 package com.example.backend;
 
 import com.example.backend.dto.DailyCheckout;
+import com.example.backend.dto.DailyExpire;
 import com.example.backend.dto.WeeklyCheckouts;
 import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.aggregation.AggregationExpression;
+import org.springframework.data.mongodb.core.aggregation.ArithmeticOperators;
 import org.springframework.data.mongodb.core.aggregation.DateOperators;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
@@ -23,13 +26,6 @@ import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 public class WeeklyAnalysisController {
 
     private final MongoTemplate mongoTemplate;
-
-    @GetMapping("/customer/{customerId}")
-    public ResponseEntity<?> getCustomerEvents(@PathVariable long customerId) {
-        var query = new Query();
-        query.addCriteria(Criteria.where("customer").is(customerId));
-        return ResponseEntity.ok(mongoTemplate.find(query, Event.class));
-    }
 
     @GetMapping("/checkouts")
     public ResponseEntity<?> getWeeklyCheckouts(
@@ -52,5 +48,25 @@ public class WeeklyAnalysisController {
         var dailyCheckouts = mongoTemplate.aggregate(aggregation, Event.class, DailyCheckout.class);
         var response = new WeeklyCheckouts(from, until, weeks, dailyCheckouts.getMappedResults());
         return ResponseEntity.ok(response);
+    }
+
+    @GetMapping("/expiredPoints")
+    public ResponseEntity<?> getWeeklyExpiredPoints(
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
+    ) {
+        var timeCriteria = Criteria.where("timestamp").gte(from).lte(until);
+        var aggregation = newAggregation(
+                match(timeCriteria),
+                //match(Criteria.where("action").is("points_expired")),
+                match(Criteria.where("expdate").exists(true)),
+                project("id", "date", "points"),
+                group("date").count().as("numberOfExpires").sum(ArithmeticOperators.Abs.absoluteValueOf("points")).as("expiredPoints"),
+                project("numberOfExpires", "expiredPoints").and("date").previousOperation(),
+
+                sort(Sort.Direction.ASC, "date")
+        );
+        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
+        return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 }
