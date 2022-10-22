@@ -1,0 +1,6002 @@
+[
+  {
+    "optInDate": "2022-03-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 695758
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "100787"
+  },
+  {
+    "optInDate": "2021-11-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 621604
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 65491200000,
+    "customer": "43486"
+  },
+  {
+    "optInDate": "2021-07-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": "580741"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 16156800000,
+    "customer": "350641"
+  },
+  {
+    "optInDate": "2020-07-21T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 37756800000,
+    "customer": "419227"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "14004"
+  },
+  {
+    "optInDate": "2021-08-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 20563200000,
+    "customer": 587311
+  },
+  {
+    "optInDate": "2020-09-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 60134400000,
+    "customer": "457748"
+  },
+  {
+    "optInDate": "2022-07-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1116332
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57456000000,
+    "customer": "146268"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "185476"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "69226"
+  },
+  {
+    "optInDate": "2021-01-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": 510968
+  },
+  {
+    "optInDate": "2021-02-23T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 535865
+  },
+  {
+    "optInDate": "2021-04-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 550992
+  },
+  {
+    "optInDate": "2021-09-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 599953
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "111904"
+  },
+  {
+    "optInDate": "2021-06-23T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 576224
+  },
+  {
+    "optInDate": "2021-02-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 530697
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "139389"
+  },
+  {
+    "optInDate": "2021-09-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 25228800000,
+    "customer": 599016
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "107483"
+  },
+  {
+    "optInDate": "2022-01-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 658504
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 57381
+  },
+  {
+    "optInDate": "2020-11-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 485920
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 17193600000,
+    "customer": 77273
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 239142
+  },
+  {
+    "optInDate": "2020-06-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 53827200000,
+    "customer": 395263
+  },
+  {
+    "optInDate": "2022-03-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 707906
+  },
+  {
+    "optInDate": "2020-11-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 33264000000,
+    "customer": "491976"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "221410"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "28379"
+  },
+  {
+    "optInDate": "2020-11-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 43027200000,
+    "customer": "493305"
+  },
+  {
+    "optInDate": "2021-02-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 34300800000,
+    "customer": "537302"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "81811"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 364150
+  },
+  {
+    "optInDate": "2021-04-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33868800000,
+    "customer": "550102"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 44755200000,
+    "customer": 78279
+  },
+  {
+    "optInDate": "2021-04-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 35769600000,
+    "customer": "553101"
+  },
+  {
+    "optInDate": "2022-04-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 708304
+  },
+  {
+    "optInDate": "2020-10-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 34732800000,
+    "customer": "483934"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "120679"
+  },
+  {
+    "optInDate": "2021-11-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 432000000,
+    "customer": 620120
+  },
+  {
+    "optInDate": "2021-06-20T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 6048000000,
+    "customer": 575395
+  },
+  {
+    "optInDate": "2022-01-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 5270400000,
+    "customer": 649694
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 60134400000,
+    "customer": 98456
+  },
+  {
+    "optInDate": "2022-01-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 650753
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 99133
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 349198
+  },
+  {
+    "optInDate": "2021-03-22T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 545427
+  },
+  {
+    "optInDate": "2022-01-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 665995
+  },
+  {
+    "optInDate": "2020-07-08T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 407905
+  },
+  {
+    "optInDate": "2021-12-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 636335
+  },
+  {
+    "optInDate": "2022-03-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 707658
+  },
+  {
+    "optInDate": "2021-02-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 536871
+  },
+  {
+    "optInDate": "2022-07-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1112180
+  },
+  {
+    "optInDate": "2022-06-12T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 777600000,
+    "customer": 751996
+  },
+  {
+    "optInDate": "2022-01-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 656282
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "93771"
+  },
+  {
+    "optInDate": "2020-11-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32745600000,
+    "customer": "489205"
+  },
+  {
+    "optInDate": "2020-11-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 34646400000,
+    "customer": "495133"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "145464"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "84826"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "53692"
+  },
+  {
+    "optInDate": "2021-01-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32140800000,
+    "customer": "521605"
+  },
+  {
+    "optInDate": "2020-12-29T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 509723
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 22809600000,
+    "customer": 172039
+  },
+  {
+    "optInDate": "2021-04-14T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 553471
+  },
+  {
+    "optInDate": "2022-05-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 728273
+  },
+  {
+    "optInDate": "2022-04-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 714651
+  },
+  {
+    "optInDate": "2022-05-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 733985
+  },
+  {
+    "optInDate": "2021-01-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 46915200000,
+    "customer": 515953
+  },
+  {
+    "optInDate": "2020-08-30T00:00:00.000+00:00",
+    "lastEventDate": "2020-09-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 1900800000,
+    "customer": 434521
+  },
+  {
+    "optInDate": "2021-10-22T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 612240
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 21600000000,
+    "customer": 91163
+  },
+  {
+    "optInDate": "2022-02-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 690168
+  },
+  {
+    "optInDate": "2021-06-30T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 578096
+  },
+  {
+    "optInDate": "2021-08-01T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 2332800000,
+    "customer": 586992
+  },
+  {
+    "optInDate": "2022-01-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 664814
+  },
+  {
+    "optInDate": "2021-08-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 594669
+  },
+  {
+    "optInDate": "2022-02-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 688750
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 88407
+  },
+  {
+    "optInDate": "2022-06-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 748490
+  },
+  {
+    "optInDate": "2022-02-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 690062
+  },
+  {
+    "optInDate": "2020-11-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 45014400000,
+    "customer": 490356
+  },
+  {
+    "optInDate": "2020-06-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 46656000000,
+    "customer": "383917"
+  },
+  {
+    "optInDate": "2022-07-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1120000
+  },
+  {
+    "optInDate": "2020-08-31T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 39744000000,
+    "customer": "454100"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 54777600000,
+    "customer": "197149"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 60307200000,
+    "customer": "17449"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "159972"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 41904000000,
+    "customer": 151555
+  },
+  {
+    "optInDate": "2020-07-25T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 422095
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 58579200000,
+    "customer": 70797
+  },
+  {
+    "optInDate": "2022-01-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 651235
+  },
+  {
+    "optInDate": "2022-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 744308
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "326392"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49680000000,
+    "customer": "354978"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52963200000,
+    "customer": "246120"
+  },
+  {
+    "optInDate": "2020-11-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 51408000000,
+    "customer": "491954"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62812800000,
+    "customer": "141427"
+  },
+  {
+    "optInDate": "2020-09-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 45792000000,
+    "customer": "471604"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "132944"
+  },
+  {
+    "optInDate": "2021-08-16T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 591125
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "36805"
+  },
+  {
+    "optInDate": "2020-06-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 46828800000,
+    "customer": "380608"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "106882"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 64886400000,
+    "customer": 13812
+  },
+  {
+    "optInDate": "2020-12-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 15552000000,
+    "customer": 500494
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "115940"
+  },
+  {
+    "optInDate": "2022-07-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1122084
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "31699"
+  },
+  {
+    "optInDate": "2020-07-16T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 43718400000,
+    "customer": "415057"
+  },
+  {
+    "optInDate": "2021-11-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 629450
+  },
+  {
+    "optInDate": "2022-06-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 751287
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 63590400000,
+    "customer": "361717"
+  },
+  {
+    "optInDate": "2020-10-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 36892800000,
+    "customer": "476923"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47433600000,
+    "customer": "200937"
+  },
+  {
+    "optInDate": "2020-12-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 32486400000,
+    "customer": "505949"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "101973"
+  },
+  {
+    "optInDate": "2022-01-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 660782
+  },
+  {
+    "optInDate": "2022-03-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 700757
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52358400000,
+    "customer": "245838"
+  },
+  {
+    "optInDate": "2021-08-24T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "593444"
+  },
+  {
+    "optInDate": "2021-10-21T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "611793"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "143584"
+  },
+  {
+    "optInDate": "2021-03-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 43632000000,
+    "customer": 538401
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "53358"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "147049"
+  },
+  {
+    "optInDate": "2021-02-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33696000000,
+    "customer": "527443"
+  },
+  {
+    "optInDate": "2021-04-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32486400000,
+    "customer": "555541"
+  },
+  {
+    "optInDate": "2022-03-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 705502
+  },
+  {
+    "optInDate": "2022-02-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 692123
+  },
+  {
+    "optInDate": "2021-05-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31622400000,
+    "customer": "570949"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "333280"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "163772"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "26417"
+  },
+  {
+    "optInDate": "2021-05-21T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 565668
+  },
+  {
+    "optInDate": "2020-12-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 32486400000,
+    "customer": "505814"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 27561600000,
+    "customer": 248709
+  },
+  {
+    "optInDate": "2021-12-08T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 633709
+  },
+  {
+    "optInDate": "2020-11-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 44150400000,
+    "customer": "486611"
+  },
+  {
+    "optInDate": "2021-11-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "622875"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 62294400000,
+    "customer": 115127
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": 43355
+  },
+  {
+    "optInDate": "2021-08-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 1382400000,
+    "customer": 590218
+  },
+  {
+    "optInDate": "2020-12-20T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 504720
+  },
+  {
+    "optInDate": "2021-02-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": 529524
+  },
+  {
+    "optInDate": "2020-08-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 33004800000,
+    "customer": "439051"
+  },
+  {
+    "optInDate": "2022-01-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 649013
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 350239
+  },
+  {
+    "optInDate": "2022-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 345600000,
+    "customer": 745722
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 8586
+  },
+  {
+    "optInDate": "2020-06-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 399169
+  },
+  {
+    "optInDate": "2021-12-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 3715200000,
+    "customer": 636551
+  },
+  {
+    "optInDate": "2022-02-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 679346
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 67996800000,
+    "customer": "182017"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 60220800000,
+    "customer": 35962
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "71479"
+  },
+  {
+    "optInDate": "2022-07-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1116077
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 292189
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62812800000,
+    "customer": "33637"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 74278
+  },
+  {
+    "optInDate": "2022-01-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 655033
+  },
+  {
+    "optInDate": "2020-09-21T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32400000000,
+    "customer": "473485"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "183376"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 66960000000,
+    "customer": 52517
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 55555200000,
+    "customer": 70504
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 63244800000,
+    "customer": 182280
+  },
+  {
+    "optInDate": "2021-11-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 617024
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "35662"
+  },
+  {
+    "optInDate": "2022-01-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 671410
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "175963"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "89646"
+  },
+  {
+    "optInDate": "2021-09-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 604368
+  },
+  {
+    "optInDate": "2021-11-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 629518
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "207899"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "194431"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "56988"
+  },
+  {
+    "optInDate": "2020-06-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 46742400000,
+    "customer": "382510"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62812800000,
+    "customer": "141887"
+  },
+  {
+    "optInDate": "2020-10-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 38966400000,
+    "customer": "477976"
+  },
+  {
+    "optInDate": "2020-07-11T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 411196
+  },
+  {
+    "optInDate": "2020-12-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 498136
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 23781
+  },
+  {
+    "optInDate": "2022-08-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1122715
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 152499
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "417496"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 108289
+  },
+  {
+    "optInDate": "2022-02-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 684796
+  },
+  {
+    "optInDate": "2022-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 744237
+  },
+  {
+    "optInDate": "2021-04-08T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 551311
+  },
+  {
+    "optInDate": "2020-11-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 44064000000,
+    "customer": 493684
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 54950400000,
+    "customer": "164636"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 162753
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 60912000000,
+    "customer": "387172"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 61948800000,
+    "customer": "149099"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52444800000,
+    "customer": "162785"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "176159"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 54777600000,
+    "customer": "138637"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 65664000000,
+    "customer": 137724
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 65491200000,
+    "customer": 135706
+  },
+  {
+    "optInDate": "2020-09-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 22291200000,
+    "customer": 464368
+  },
+  {
+    "optInDate": "2022-02-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 677749
+  },
+  {
+    "optInDate": "2021-01-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 43200000000,
+    "customer": "517673"
+  },
+  {
+    "optInDate": "2020-09-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33436800000,
+    "customer": "463193"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 59616000000,
+    "customer": 53245
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "5905"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "41267"
+  },
+  {
+    "optInDate": "2020-10-24T00:00:00.000+00:00",
+    "lastEventDate": "2020-10-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 482674
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "173476"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "179978"
+  },
+  {
+    "optInDate": "2021-03-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33609600000,
+    "customer": "540257"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 27043200000,
+    "customer": 157256
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 68428800000,
+    "customer": 1944
+  },
+  {
+    "optInDate": "2021-03-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 36979200000,
+    "customer": 545316
+  },
+  {
+    "optInDate": "2021-03-31T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 548576
+  },
+  {
+    "optInDate": "2021-07-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32486400000,
+    "customer": "584153"
+  },
+  {
+    "optInDate": "2021-04-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 34646400000,
+    "customer": "557476"
+  },
+  {
+    "optInDate": "2020-09-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 37411200000,
+    "customer": "475207"
+  },
+  {
+    "optInDate": "2021-05-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 568953
+  },
+  {
+    "optInDate": "2021-02-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33609600000,
+    "customer": "528334"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "123849"
+  },
+  {
+    "optInDate": "2020-09-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-09-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 457004
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 48470400000,
+    "customer": 67076
+  },
+  {
+    "optInDate": "2022-03-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 701918
+  },
+  {
+    "optInDate": "2022-08-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1124280
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "325531"
+  },
+  {
+    "optInDate": "2021-10-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 609176
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 127735
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "63418"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 61603200000,
+    "customer": 135235
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "32803"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 31881600000,
+    "customer": 106767
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "79609"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "50445"
+  },
+  {
+    "optInDate": "2021-03-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32832000000,
+    "customer": "543496"
+  },
+  {
+    "optInDate": "2020-08-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 48211200000,
+    "customer": "441619"
+  },
+  {
+    "optInDate": "2022-02-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 690362
+  },
+  {
+    "optInDate": "2021-02-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 537515
+  },
+  {
+    "optInDate": "2022-02-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 692255
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52444800000,
+    "customer": "77929"
+  },
+  {
+    "optInDate": "2021-01-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 37152000000,
+    "customer": "522504"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "159514"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "184611"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "193459"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 357833
+  },
+  {
+    "optInDate": "2020-10-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 55814400000,
+    "customer": "482816"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "123493"
+  },
+  {
+    "optInDate": "2021-12-18T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 638884
+  },
+  {
+    "optInDate": "2021-10-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "613456"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 63331200000,
+    "customer": 174957
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "82114"
+  },
+  {
+    "optInDate": "2021-03-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "538297"
+  },
+  {
+    "optInDate": "2021-04-27T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31881600000,
+    "customer": "557908"
+  },
+  {
+    "optInDate": "2020-07-25T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 1036800000,
+    "customer": 421699
+  },
+  {
+    "optInDate": "2020-11-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 44150400000,
+    "customer": 492349
+  },
+  {
+    "optInDate": "2022-03-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 699775
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "254619"
+  },
+  {
+    "optInDate": "2021-05-14T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 563906
+  },
+  {
+    "optInDate": "2021-02-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 42163200000,
+    "customer": "537327"
+  },
+  {
+    "optInDate": "2021-01-08T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 2332800000,
+    "customer": 513907
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "326233"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 63158400000,
+    "customer": 328510
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57456000000,
+    "customer": "190524"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 52099200000,
+    "customer": "9063"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 254019
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 157156
+  },
+  {
+    "optInDate": "2022-04-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 709315
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62899200000,
+    "customer": "41383"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 41904000000,
+    "customer": "116853"
+  },
+  {
+    "optInDate": "2021-12-19T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 639258
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "87057"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "144825"
+  },
+  {
+    "optInDate": "2021-04-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 549980
+  },
+  {
+    "optInDate": "2021-05-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 561378
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 35856000000,
+    "customer": 123595
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 54864000000,
+    "customer": "78732"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 50371200000,
+    "customer": 144922
+  },
+  {
+    "optInDate": "2021-11-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 618841
+  },
+  {
+    "optInDate": "2021-08-31T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "595826"
+  },
+  {
+    "optInDate": "2020-06-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 62208000000,
+    "customer": 391945
+  },
+  {
+    "optInDate": "2021-01-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 43113600000,
+    "customer": 513860
+  },
+  {
+    "optInDate": "2022-08-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1123988
+  },
+  {
+    "optInDate": "2022-08-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1125978
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 16243200000,
+    "customer": "293104"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "188901"
+  },
+  {
+    "optInDate": "2020-12-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 32227200000,
+    "customer": "507659"
+  },
+  {
+    "optInDate": "2021-01-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 31708800000,
+    "customer": "525488"
+  },
+  {
+    "optInDate": "2021-04-27T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31881600000,
+    "customer": "557798"
+  },
+  {
+    "optInDate": "2022-02-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 689621
+  },
+  {
+    "optInDate": "2021-11-01T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 172800000,
+    "customer": 615498
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "53801"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 13910400000,
+    "customer": 44697
+  },
+  {
+    "optInDate": "2021-03-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 14601600000,
+    "customer": 546526
+  },
+  {
+    "optInDate": "2022-05-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 739177
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 33621
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 116543
+  },
+  {
+    "optInDate": "2021-07-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 579572
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "188013"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 60646
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "295759"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "76513"
+  },
+  {
+    "optInDate": "2022-03-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 703458
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "104358"
+  },
+  {
+    "optInDate": "2021-01-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": "514147"
+  },
+  {
+    "optInDate": "2022-04-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 720908
+  },
+  {
+    "optInDate": "2021-03-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33177600000,
+    "customer": "541758"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 49852800000,
+    "customer": "104019"
+  },
+  {
+    "optInDate": "2020-09-14T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33004800000,
+    "customer": "469027"
+  },
+  {
+    "optInDate": "2022-06-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1100009
+  },
+  {
+    "optInDate": "2021-01-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 48211200000,
+    "customer": "518970"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "24136"
+  },
+  {
+    "optInDate": "2021-09-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 600972
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 58233600000,
+    "customer": 77504
+  },
+  {
+    "optInDate": "2022-02-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 10281600000,
+    "customer": 692657
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 65145600000,
+    "customer": 109806
+  },
+  {
+    "optInDate": "2022-02-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 687982
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 63158400000,
+    "customer": "49883"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 4838400000,
+    "customer": 118270
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "199608"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "61562"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 64022400000,
+    "customer": 255960
+  },
+  {
+    "optInDate": "2022-06-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 742939
+  },
+  {
+    "optInDate": "2021-04-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33004800000,
+    "customer": "553219"
+  },
+  {
+    "optInDate": "2022-02-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 680066
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 162773
+  },
+  {
+    "optInDate": "2020-10-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 36720000000,
+    "customer": "477506"
+  },
+  {
+    "optInDate": "2021-09-15T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 600244
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 16156800000,
+    "customer": "334009"
+  },
+  {
+    "optInDate": "2021-04-24T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 556728
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 68083200000,
+    "customer": "23921"
+  },
+  {
+    "optInDate": "2022-07-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1119714
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "182536"
+  },
+  {
+    "optInDate": "2021-12-24T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 642201
+  },
+  {
+    "optInDate": "2020-12-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 32659200000,
+    "customer": 499279
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 49507200000,
+    "customer": 33040
+  },
+  {
+    "optInDate": "2022-03-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 703031
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 60220800000,
+    "customer": 150228
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 140650
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "339139"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 45446400000,
+    "customer": 144799
+  },
+  {
+    "optInDate": "2021-10-30T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 614839
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 6402
+  },
+  {
+    "optInDate": "2020-11-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 41817600000,
+    "customer": 495237
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 63590400000,
+    "customer": 51943
+  },
+  {
+    "optInDate": "2021-10-08T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 607345
+  },
+  {
+    "optInDate": "2022-07-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1113144
+  },
+  {
+    "optInDate": "2021-03-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 37756800000,
+    "customer": "545146"
+  },
+  {
+    "optInDate": "2020-11-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 44150400000,
+    "customer": "486717"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "147488"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "329569"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "141522"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "169042"
+  },
+  {
+    "optInDate": "2021-12-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 14774400000,
+    "customer": 642679
+  },
+  {
+    "optInDate": "2022-01-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 659627
+  },
+  {
+    "optInDate": "2022-04-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 716886
+  },
+  {
+    "optInDate": "2020-09-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 54777600000,
+    "customer": 467974
+  },
+  {
+    "optInDate": "2021-08-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 518400000,
+    "customer": 588382
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "256635"
+  },
+  {
+    "optInDate": "2022-01-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 3888000000,
+    "customer": 653286
+  },
+  {
+    "optInDate": "2021-02-18T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 534164
+  },
+  {
+    "optInDate": "2022-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 746996
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "375943"
+  },
+  {
+    "optInDate": "2021-11-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 616215
+  },
+  {
+    "optInDate": "2022-04-12T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 172800000,
+    "customer": 714476
+  },
+  {
+    "optInDate": "2021-01-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 40953600000,
+    "customer": 524916
+  },
+  {
+    "optInDate": "2021-11-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 622159
+  },
+  {
+    "optInDate": "2022-05-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 737398
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 176340
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 44668800000,
+    "customer": "200619"
+  },
+  {
+    "optInDate": "2021-08-30T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 595767
+  },
+  {
+    "optInDate": "2021-10-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 12787200000,
+    "customer": 612532
+  },
+  {
+    "optInDate": "2022-04-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 724187
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57628800000,
+    "customer": "118182"
+  },
+  {
+    "optInDate": "2020-11-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 486143
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 166668
+  },
+  {
+    "optInDate": "2020-09-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 53395200000,
+    "customer": "473677"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "131517"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "69442"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "62523"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 175545
+  },
+  {
+    "optInDate": "2021-02-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 532184
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "261465"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "42969"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "30868"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 51321600000,
+    "customer": 180088
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "204234"
+  },
+  {
+    "optInDate": "2020-11-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 7689600000,
+    "customer": 490120
+  },
+  {
+    "optInDate": "2020-10-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 50025600000,
+    "customer": "484291"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 19267200000,
+    "customer": 57735
+  },
+  {
+    "optInDate": "2022-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 172800000,
+    "customer": 744502
+  },
+  {
+    "optInDate": "2021-02-02T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 526815
+  },
+  {
+    "optInDate": "2021-02-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 32313600000,
+    "customer": 529969
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 58492800000,
+    "customer": 332353
+  },
+  {
+    "optInDate": "2022-05-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 739708
+  },
+  {
+    "optInDate": "2022-07-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1117930
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "194761"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 65318400000,
+    "customer": 134138
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 316627
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "214843"
+  },
+  {
+    "optInDate": "2022-02-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 691347
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "130225"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "113504"
+  },
+  {
+    "optInDate": "2021-04-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33609600000,
+    "customer": "551001"
+  },
+  {
+    "optInDate": "2021-02-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 43718400000,
+    "customer": 527041
+  },
+  {
+    "optInDate": "2021-04-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 550669
+  },
+  {
+    "optInDate": "2022-02-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 679124
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 18374
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 191261
+  },
+  {
+    "optInDate": "2022-06-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 749936
+  },
+  {
+    "optInDate": "2022-02-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 690294
+  },
+  {
+    "optInDate": "2022-04-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 720807
+  },
+  {
+    "optInDate": "2022-08-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1125909
+  },
+  {
+    "optInDate": "2021-11-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 625064
+  },
+  {
+    "optInDate": "2021-01-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 49852800000,
+    "customer": 512654
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 60134400000,
+    "customer": "21058"
+  },
+  {
+    "optInDate": "2021-04-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 551527
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 36633600000,
+    "customer": "227953"
+  },
+  {
+    "optInDate": "2021-06-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": 572330
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "124010"
+  },
+  {
+    "optInDate": "2020-10-27T00:00:00.000+00:00",
+    "lastEventDate": "2020-10-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 483534
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57628800000,
+    "customer": "206107"
+  },
+  {
+    "optInDate": "2020-06-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 48816000000,
+    "customer": "385834"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "20337"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 13564800000,
+    "customer": 278327
+  },
+  {
+    "optInDate": "2021-01-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33868800000,
+    "customer": "512954"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "249171"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 36720000000,
+    "customer": "80248"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 67996800000,
+    "customer": 53579
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "77108"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "183678"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "119432"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 61430400000,
+    "customer": 31669
+  },
+  {
+    "optInDate": "2022-04-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 715319
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "214933"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "186321"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "162233"
+  },
+  {
+    "optInDate": "2020-06-11T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "revoke_22098"
+  },
+  {
+    "optInDate": "2020-12-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 32745600000,
+    "customer": "504211"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "122337"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "208057"
+  },
+  {
+    "optInDate": "2020-12-24T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 506932
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "96821"
+  },
+  {
+    "optInDate": "2022-04-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 718453
+  },
+  {
+    "optInDate": "2021-02-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 2160000000,
+    "customer": 529374
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "111800"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 64713600000,
+    "customer": 141135
+  },
+  {
+    "optInDate": "2021-03-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 43632000000,
+    "customer": "542313"
+  },
+  {
+    "optInDate": "2020-07-19T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 1728000000,
+    "customer": 418375
+  },
+  {
+    "optInDate": "2021-05-31T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 571360
+  },
+  {
+    "optInDate": "2021-04-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31708800000,
+    "customer": "558552"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "195302"
+  },
+  {
+    "optInDate": "2021-04-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 28857600000,
+    "customer": 555178
+  },
+  {
+    "optInDate": "2021-01-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 31795200000,
+    "customer": "524605"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 59961600000,
+    "customer": 12699
+  },
+  {
+    "optInDate": "2022-07-12T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1110891
+  },
+  {
+    "optInDate": "2021-10-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 614016
+  },
+  {
+    "optInDate": "2022-01-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 1814400000,
+    "customer": 652660
+  },
+  {
+    "optInDate": "2022-07-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1110514
+  },
+  {
+    "optInDate": "2021-05-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32140800000,
+    "customer": "566665"
+  },
+  {
+    "optInDate": "2020-10-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 34905600000,
+    "customer": "483414"
+  },
+  {
+    "optInDate": "2021-02-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 527430
+  },
+  {
+    "optInDate": "2020-12-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 50889600000,
+    "customer": "505144"
+  },
+  {
+    "optInDate": "2022-07-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1120415
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "364213"
+  },
+  {
+    "optInDate": "2020-12-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 31708800000,
+    "customer": "510624"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 42163200000,
+    "customer": "421210"
+  },
+  {
+    "optInDate": "2021-07-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 11145600000,
+    "customer": 579126
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 247131
+  },
+  {
+    "optInDate": "2021-01-12T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33264000000,
+    "customer": "515564"
+  },
+  {
+    "optInDate": "2021-03-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 31881600000,
+    "customer": 542599
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 119258
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "291832"
+  },
+  {
+    "optInDate": "2022-01-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 659839
+  },
+  {
+    "optInDate": "2022-01-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 647409
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "72896"
+  },
+  {
+    "optInDate": "2021-05-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32918400000,
+    "customer": "564537"
+  },
+  {
+    "optInDate": "2021-12-31T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 647027
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 6825600000,
+    "customer": 132575
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 7171200000,
+    "customer": 110754
+  },
+  {
+    "optInDate": "2022-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 746173
+  },
+  {
+    "optInDate": "2021-09-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 600925
+  },
+  {
+    "optInDate": "2021-01-16T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 19612800000,
+    "customer": 517074
+  },
+  {
+    "optInDate": "2020-11-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 32054400000,
+    "customer": "495783"
+  },
+  {
+    "optInDate": "2021-02-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 531516
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "11587"
+  },
+  {
+    "optInDate": "2021-01-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33609600000,
+    "customer": "513648"
+  },
+  {
+    "optInDate": "2020-06-16T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 46310400000,
+    "customer": "392878"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 19526400000,
+    "customer": 362245
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 39830400000,
+    "customer": 145889
+  },
+  {
+    "optInDate": "2022-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 4233600000,
+    "customer": 744664
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 300902
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 846
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "351454"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "204504"
+  },
+  {
+    "optInDate": "2022-01-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 665795
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "109955"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 36633600000,
+    "customer": "279389"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "30344"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "112847"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 22656
+  },
+  {
+    "optInDate": "2021-02-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33868800000,
+    "customer": "526720"
+  },
+  {
+    "optInDate": "2021-03-27T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31968000000,
+    "customer": "546935"
+  },
+  {
+    "optInDate": "2022-05-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 739408
+  },
+  {
+    "optInDate": "2022-02-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 688387
+  },
+  {
+    "optInDate": "2020-09-14T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33004800000,
+    "customer": "469240"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "191539"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 42163200000,
+    "customer": "248790"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "56520"
+  },
+  {
+    "optInDate": "2022-02-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 681591
+  },
+  {
+    "optInDate": "2021-01-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 522604
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 164905
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 32745600000,
+    "customer": 313795
+  },
+  {
+    "optInDate": "2021-03-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33696000000,
+    "customer": "540061"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "52746"
+  },
+  {
+    "optInDate": "2020-10-17T00:00:00.000+00:00",
+    "lastEventDate": "2020-10-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 481014
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "59743"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 341551
+  },
+  {
+    "optInDate": "2022-02-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 681522
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 95019
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "319813"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 59875200000,
+    "customer": 81183
+  },
+  {
+    "optInDate": "2022-01-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 659788
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "350077"
+  },
+  {
+    "optInDate": "2020-11-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 22464000000,
+    "customer": 491174
+  },
+  {
+    "optInDate": "2020-08-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62467200000,
+    "customer": "431929"
+  },
+  {
+    "optInDate": "2022-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 745047
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 53654400000,
+    "customer": "92630"
+  },
+  {
+    "optInDate": "2021-10-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "608626"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "131474"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "78199"
+  },
+  {
+    "optInDate": "2022-06-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 749693
+  },
+  {
+    "optInDate": "2022-07-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1118005
+  },
+  {
+    "optInDate": "2022-04-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 719430
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "161467"
+  },
+  {
+    "optInDate": "2021-01-18T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 518250
+  },
+  {
+    "optInDate": "2022-07-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1105383
+  },
+  {
+    "optInDate": "2020-10-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 36547200000,
+    "customer": "478110"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "290170"
+  },
+  {
+    "optInDate": "2020-10-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 36201600000,
+    "customer": "479352"
+  },
+  {
+    "optInDate": "2020-08-20T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 39744000000,
+    "customer": 442135
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 17020800000,
+    "customer": 279845
+  },
+  {
+    "optInDate": "2021-01-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 28166400000,
+    "customer": 523570
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": 136873
+  },
+  {
+    "optInDate": "2020-06-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 46656000000,
+    "customer": "385093"
+  },
+  {
+    "optInDate": "2021-01-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 42422400000,
+    "customer": 520604
+  },
+  {
+    "optInDate": "2022-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 743855
+  },
+  {
+    "optInDate": "2020-09-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33436800000,
+    "customer": "463442"
+  },
+  {
+    "optInDate": "2021-04-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 550845
+  },
+  {
+    "optInDate": "2020-08-11T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 434119
+  },
+  {
+    "optInDate": "2020-11-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "485585"
+  },
+  {
+    "optInDate": "2021-09-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 172800000,
+    "customer": "599012"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "219166"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "58191"
+  },
+  {
+    "optInDate": "2021-02-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 35769600000,
+    "customer": "531890"
+  },
+  {
+    "optInDate": "2020-09-18T00:00:00.000+00:00",
+    "lastEventDate": "2020-09-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 472250
+  },
+  {
+    "optInDate": "2020-08-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 59011200000,
+    "customer": 453314
+  },
+  {
+    "optInDate": "2022-04-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 3283200000,
+    "customer": 719315
+  },
+  {
+    "optInDate": "2021-11-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 628723
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 65318400000,
+    "customer": "125693"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "398035"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57456000000,
+    "customer": "154309"
+  },
+  {
+    "optInDate": "2022-02-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 692598
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57542400000,
+    "customer": "44034"
+  },
+  {
+    "optInDate": "2022-01-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 650422
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62812800000,
+    "customer": "133545"
+  },
+  {
+    "optInDate": "2020-12-07T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 1209600000,
+    "customer": 498771
+  },
+  {
+    "optInDate": "2022-08-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1124177
+  },
+  {
+    "optInDate": "2021-02-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33868800000,
+    "customer": "526359"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 55036800000,
+    "customer": 378214
+  },
+  {
+    "optInDate": "2021-11-21T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 626094
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 30585600000,
+    "customer": 102244
+  },
+  {
+    "optInDate": "2022-04-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 720246
+  },
+  {
+    "optInDate": "2021-11-27T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 11491200000,
+    "customer": 628425
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 50371200000,
+    "customer": 169139
+  },
+  {
+    "optInDate": "2020-11-27T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 518400000,
+    "customer": 495635
+  },
+  {
+    "optInDate": "2021-12-23T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 641935
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 55641600000,
+    "customer": "403882"
+  },
+  {
+    "optInDate": "2022-06-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1099824
+  },
+  {
+    "optInDate": "2021-04-20T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 555428
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "10495"
+  },
+  {
+    "optInDate": "2021-04-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 549574
+  },
+  {
+    "optInDate": "2021-05-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 561238
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 61862400000,
+    "customer": 140872
+  },
+  {
+    "optInDate": "2022-04-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 718416
+  },
+  {
+    "optInDate": "2022-01-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 1382400000,
+    "customer": 656437
+  },
+  {
+    "optInDate": "2022-03-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 699940
+  },
+  {
+    "optInDate": "2022-05-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 738297
+  },
+  {
+    "optInDate": "2020-11-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36288000000,
+    "customer": "487857"
+  },
+  {
+    "optInDate": "2020-12-23T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 506500
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "10436"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "122462"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "27769"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "115706"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "107574"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 168321
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "198169"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "165554"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 162403
+  },
+  {
+    "optInDate": "2020-07-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 422266
+  },
+  {
+    "optInDate": "2021-01-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31881600000,
+    "customer": "523179"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57628800000,
+    "customer": "53592"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "171571"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "196091"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "138433"
+  },
+  {
+    "optInDate": "2021-01-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 36115200000,
+    "customer": 520808
+  },
+  {
+    "optInDate": "2020-09-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 43977600000,
+    "customer": "463217"
+  },
+  {
+    "optInDate": "2020-12-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 46396800000,
+    "customer": "500395"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "102552"
+  },
+  {
+    "optInDate": "2021-04-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31708800000,
+    "customer": "558429"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 62985600000,
+    "customer": "103780"
+  },
+  {
+    "optInDate": "2022-02-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 4147200000,
+    "customer": 686409
+  },
+  {
+    "optInDate": "2020-08-22T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 443947
+  },
+  {
+    "optInDate": "2020-06-12T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 383248
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "2709"
+  },
+  {
+    "optInDate": "2020-10-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 55209600000,
+    "customer": 482666
+  },
+  {
+    "optInDate": "2021-04-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31622400000,
+    "customer": "559037"
+  },
+  {
+    "optInDate": "2020-08-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52704000000,
+    "customer": "451333"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "109257"
+  },
+  {
+    "optInDate": "2022-04-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 723752
+  },
+  {
+    "optInDate": "2020-11-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 486132
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 61776000000,
+    "customer": 254511
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 21513600000,
+    "customer": 17759
+  },
+  {
+    "optInDate": "2022-03-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 704238
+  },
+  {
+    "optInDate": "2022-05-27T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 739878
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "31567"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57456000000,
+    "customer": "203053"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49680000000,
+    "customer": "96863"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 52444800000,
+    "customer": "4852"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 61257600000,
+    "customer": 347437
+  },
+  {
+    "optInDate": "2021-05-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 568815
+  },
+  {
+    "optInDate": "2022-07-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1109240
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 65318400000,
+    "customer": "175947"
+  },
+  {
+    "optInDate": "2022-03-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 702054
+  },
+  {
+    "optInDate": "2022-01-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 649755
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47433600000,
+    "customer": "98035"
+  },
+  {
+    "optInDate": "2022-07-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1120525
+  },
+  {
+    "optInDate": "2022-07-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1105300
+  },
+  {
+    "optInDate": "2022-05-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 735352
+  },
+  {
+    "optInDate": "2021-09-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 600782
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 122445
+  },
+  {
+    "optInDate": "2021-12-14T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 636771
+  },
+  {
+    "optInDate": "2020-10-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 48470400000,
+    "customer": "481105"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 41904000000,
+    "customer": "175961"
+  },
+  {
+    "optInDate": "2020-11-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 48556800000,
+    "customer": "494285"
+  },
+  {
+    "optInDate": "2021-07-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33609600000,
+    "customer": "580149"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "43976"
+  },
+  {
+    "optInDate": "2022-02-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 684537
+  },
+  {
+    "optInDate": "2020-12-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 35510400000,
+    "customer": "503277"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 54864000000,
+    "customer": "197082"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "3265"
+  },
+  {
+    "optInDate": "2022-01-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 345600000,
+    "customer": 656933
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "198675"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 241389
+  },
+  {
+    "optInDate": "2020-12-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 31968000000,
+    "customer": "509113"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 6998400000,
+    "customer": 1983
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 17971200000,
+    "customer": 86726
+  },
+  {
+    "optInDate": "2022-01-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 672510
+  },
+  {
+    "optInDate": "2020-09-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 37411200000,
+    "customer": "475234"
+  },
+  {
+    "optInDate": "2022-02-22T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 684967
+  },
+  {
+    "optInDate": "2021-02-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 33264000000,
+    "customer": "531041"
+  },
+  {
+    "optInDate": "2022-05-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 777600000,
+    "customer": 726173
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": 41555
+  },
+  {
+    "optInDate": "2020-12-29T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 509682
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 62985600000,
+    "customer": 36391
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "172387"
+  },
+  {
+    "optInDate": "2022-03-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 696251
+  },
+  {
+    "optInDate": "2020-09-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33609600000,
+    "customer": "461511"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 65404800000,
+    "customer": "78108"
+  },
+  {
+    "optInDate": "2021-03-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "538739"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "230625"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "128386"
+  },
+  {
+    "optInDate": "2021-01-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": 512944
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 322171
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 25747200000,
+    "customer": 2749
+  },
+  {
+    "optInDate": "2021-01-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 39312000000,
+    "customer": 512253
+  },
+  {
+    "optInDate": "2022-05-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 732943
+  },
+  {
+    "optInDate": "2022-05-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 733720
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 65404800000,
+    "customer": "83880"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 65318400000,
+    "customer": "358795"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "103121"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "168217"
+  },
+  {
+    "optInDate": "2020-12-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 497883
+  },
+  {
+    "optInDate": "2021-04-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 551728
+  },
+  {
+    "optInDate": "2022-04-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 709582
+  },
+  {
+    "optInDate": "2021-07-21T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32486400000,
+    "customer": "584034"
+  },
+  {
+    "optInDate": "2021-12-18T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 638571
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "91386"
+  },
+  {
+    "optInDate": "2021-04-25T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 557403
+  },
+  {
+    "optInDate": "2022-02-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 693977
+  },
+  {
+    "optInDate": "2021-03-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 542077
+  },
+  {
+    "optInDate": "2021-11-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 621098
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 45619200000,
+    "customer": 103075
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 68083200000,
+    "customer": "1871"
+  },
+  {
+    "optInDate": "2020-08-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 39916800000,
+    "customer": "451654"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62812800000,
+    "customer": "100030"
+  },
+  {
+    "optInDate": "2021-01-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 44668800000,
+    "customer": 511844
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 45014400000,
+    "customer": 17904
+  },
+  {
+    "optInDate": "2021-10-08T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "607298"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "182568"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "200982"
+  },
+  {
+    "optInDate": "2021-01-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 522471
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 113694
+  },
+  {
+    "optInDate": "2021-12-25T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 643315
+  },
+  {
+    "optInDate": "2020-07-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 31881600000,
+    "customer": "424666"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57628800000,
+    "customer": "221548"
+  },
+  {
+    "optInDate": "2022-02-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": 693702
+  },
+  {
+    "optInDate": "2021-06-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33264000000,
+    "customer": "573260"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "274850"
+  },
+  {
+    "optInDate": "2022-03-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 12096000000,
+    "customer": 702207
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "210675"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "192730"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "15179"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 46569600000,
+    "customer": 81437
+  },
+  {
+    "optInDate": "2020-06-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 45360000000,
+    "customer": "399961"
+  },
+  {
+    "optInDate": "2020-12-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 32400000000,
+    "customer": "506511"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62899200000,
+    "customer": "188424"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "201041"
+  },
+  {
+    "optInDate": "2020-06-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 62121600000,
+    "customer": "381841"
+  },
+  {
+    "optInDate": "2021-03-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32918400000,
+    "customer": "543270"
+  },
+  {
+    "optInDate": "2021-05-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 31622400000,
+    "customer": "570883"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 64281600000,
+    "customer": 102973
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 172290
+  },
+  {
+    "optInDate": "2021-01-01T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 511027
+  },
+  {
+    "optInDate": "2020-11-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 12268800000,
+    "customer": 491739
+  },
+  {
+    "optInDate": "2021-09-22T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 602529
+  },
+  {
+    "optInDate": "2022-05-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 741298
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "28346"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 128394
+  },
+  {
+    "optInDate": "2020-09-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49420800000,
+    "customer": "459904"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 24883200000,
+    "customer": 346591
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "25019"
+  },
+  {
+    "optInDate": "2021-06-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 18662400000,
+    "customer": 572995
+  },
+  {
+    "optInDate": "2020-08-10T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 433447
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49766400000,
+    "customer": "150845"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 54864000000,
+    "customer": 165761
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "60328"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "132361"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 333430
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33955200000,
+    "customer": "349465"
+  },
+  {
+    "optInDate": "2021-11-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 623495
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 58579200000,
+    "customer": "103492"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 5702400000,
+    "customer": 144387
+  },
+  {
+    "optInDate": "2021-11-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 616610
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47433600000,
+    "customer": "162381"
+  },
+  {
+    "optInDate": "2021-04-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": "551217"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "152479"
+  },
+  {
+    "optInDate": "2021-02-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 1296000000,
+    "customer": 529977
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 68428800000,
+    "customer": 121799
+  },
+  {
+    "optInDate": "2021-01-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 34128000000,
+    "customer": "511610"
+  },
+  {
+    "optInDate": "2021-01-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32572800000,
+    "customer": "519233"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 53660
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 67737600000,
+    "customer": 4550
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 92992
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 30758400000,
+    "customer": 105321
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 16156800000,
+    "customer": "259303"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47433600000,
+    "customer": "100916"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 369760
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 63244800000,
+    "customer": 192092
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 62812800000,
+    "customer": "362914"
+  },
+  {
+    "optInDate": "2020-07-16T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32918400000,
+    "customer": "415270"
+  },
+  {
+    "optInDate": "2022-01-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 674648
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2020-09-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 9417600000,
+    "customer": 370000
+  },
+  {
+    "optInDate": "2021-04-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 37497600000,
+    "customer": 555144
+  },
+  {
+    "optInDate": "2021-02-20T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 1209600000,
+    "customer": 534986
+  },
+  {
+    "optInDate": "2021-11-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 4060800000,
+    "customer": 616372
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 269075
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 204860
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 214321
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 50371200000,
+    "customer": 54413
+  },
+  {
+    "optInDate": "2022-05-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 732535
+  },
+  {
+    "optInDate": "2022-05-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 604800000,
+    "customer": 729143
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "177711"
+  },
+  {
+    "optInDate": "2020-10-02T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 36979200000,
+    "customer": "476691"
+  },
+  {
+    "optInDate": "2022-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 744976
+  },
+  {
+    "optInDate": "2020-07-17T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 415699
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 61862400000,
+    "customer": "116047"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "207146"
+  },
+  {
+    "optInDate": "2022-04-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 711382
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 49507200000,
+    "customer": 147361
+  },
+  {
+    "optInDate": "2020-08-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 33350400000,
+    "customer": "435469"
+  },
+  {
+    "optInDate": "2021-09-14T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 600044
+  },
+  {
+    "optInDate": "2021-12-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 631898
+  },
+  {
+    "optInDate": "2022-01-19T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "660210"
+  },
+  {
+    "optInDate": "2020-08-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 39916800000,
+    "customer": "450892"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-09-14T00:00:00.000+00:00",
+    "loyalMilliseconds": 8899200000,
+    "customer": 128896
+  },
+  {
+    "optInDate": "2022-01-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 674944
+  },
+  {
+    "optInDate": "2022-02-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 679677
+  },
+  {
+    "optInDate": "2021-03-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32140800000,
+    "customer": "546341"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "144501"
+  },
+  {
+    "optInDate": "2022-04-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 722939
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "42087"
+  },
+  {
+    "optInDate": "2020-07-09T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": "408871"
+  },
+  {
+    "optInDate": "2022-01-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 659186
+  },
+  {
+    "optInDate": "2021-07-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33696000000,
+    "customer": "580045"
+  },
+  {
+    "optInDate": "2021-09-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 599342
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "123526"
+  },
+  {
+    "optInDate": "2021-10-25T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "613229"
+  },
+  {
+    "optInDate": "2021-05-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 22723200000,
+    "customer": 561444
+  },
+  {
+    "optInDate": "2021-05-25T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 567256
+  },
+  {
+    "optInDate": "2020-06-12T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 63417600000,
+    "customer": 385936
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "335692"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 5043
+  },
+  {
+    "optInDate": "2022-03-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 6048000000,
+    "customer": 707320
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 195435
+  },
+  {
+    "optInDate": "2022-02-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 693880
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 68083200000,
+    "customer": "100892"
+  },
+  {
+    "optInDate": "2020-09-22T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 37843200000,
+    "customer": "473724"
+  },
+  {
+    "optInDate": "2021-04-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36720000000,
+    "customer": "548959"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "98974"
+  },
+  {
+    "optInDate": "2021-09-15T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 600295
+  },
+  {
+    "optInDate": "2022-02-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 690399
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 22118400000,
+    "customer": 131786
+  },
+  {
+    "optInDate": "2020-12-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 49248000000,
+    "customer": 499296
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 57283200000,
+    "customer": 289309
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 65491200000,
+    "customer": "73621"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 49852800000,
+    "customer": "186121"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 64281600000,
+    "customer": 117044
+  },
+  {
+    "optInDate": "2020-12-10T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 499608
+  },
+  {
+    "optInDate": "2021-10-16T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 12787200000,
+    "customer": 610434
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "52070"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-02-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 21254400000,
+    "customer": 204389
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "34525"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "26822"
+  },
+  {
+    "optInDate": "2020-07-09T00:00:00.000+00:00",
+    "lastEventDate": "2020-07-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 408745
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "86676"
+  },
+  {
+    "optInDate": "2021-12-14T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 3024000000,
+    "customer": 636574
+  },
+  {
+    "optInDate": "2020-08-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 33004800000,
+    "customer": "439810"
+  },
+  {
+    "optInDate": "2021-10-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-10-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 613680
+  },
+  {
+    "optInDate": "2021-11-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 1296000000,
+    "customer": 619213
+  },
+  {
+    "optInDate": "2021-06-24T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-24T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 576404
+  },
+  {
+    "optInDate": "2022-04-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 714789
+  },
+  {
+    "optInDate": "2022-01-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 670883
+  },
+  {
+    "optInDate": "2022-04-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 724214
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 185918
+  },
+  {
+    "optInDate": "2022-05-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 727420
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 76810
+  },
+  {
+    "optInDate": "2022-05-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 6307200000,
+    "customer": 739307
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "125939"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "186633"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 30844800000,
+    "customer": 68749
+  },
+  {
+    "optInDate": "2021-04-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 36720000000,
+    "customer": 556446
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-04-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 27907200000,
+    "customer": 251466
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 157600
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 28173
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "175611"
+  },
+  {
+    "optInDate": "2021-01-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-11T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 515124
+  },
+  {
+    "optInDate": "2022-02-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 680995
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 34387200000,
+    "customer": 148222
+  },
+  {
+    "optInDate": "2020-07-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 58492800000,
+    "customer": "421111"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 14688000000,
+    "customer": 194923
+  },
+  {
+    "optInDate": "2020-06-28T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 401008
+  },
+  {
+    "optInDate": "2022-07-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-08T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1108617
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 123345
+  },
+  {
+    "optInDate": "2020-08-02T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "427081"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": "178838"
+  },
+  {
+    "optInDate": "2022-02-26T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 172800000,
+    "customer": 691909
+  },
+  {
+    "optInDate": "2022-05-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 1814400000,
+    "customer": 733432
+  },
+  {
+    "optInDate": "2020-11-08T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36201600000,
+    "customer": "489174"
+  },
+  {
+    "optInDate": "2021-01-02T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 511710
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 52963200000,
+    "customer": "8818"
+  },
+  {
+    "optInDate": "2021-01-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33696000000,
+    "customer": "513565"
+  },
+  {
+    "optInDate": "2021-06-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36115200000,
+    "customer": "572663"
+  },
+  {
+    "optInDate": "2022-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 746975
+  },
+  {
+    "optInDate": "2021-12-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 604800000,
+    "customer": 645888
+  },
+  {
+    "optInDate": "2021-09-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 7948800000,
+    "customer": 597865
+  },
+  {
+    "optInDate": "2021-09-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 604110
+  },
+  {
+    "optInDate": "2020-11-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 32918400000,
+    "customer": "492922"
+  },
+  {
+    "optInDate": "2022-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 746917
+  },
+  {
+    "optInDate": "2020-10-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 36201600000,
+    "customer": "479504"
+  },
+  {
+    "optInDate": "2021-03-12T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 22982400000,
+    "customer": 541674
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "152474"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 221959
+  },
+  {
+    "optInDate": "2021-11-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 1296000000,
+    "customer": "618797"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "311770"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "134911"
+  },
+  {
+    "optInDate": "2020-12-25T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 39916800000,
+    "customer": "507288"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 57196800000,
+    "customer": 274328
+  },
+  {
+    "optInDate": "2021-05-21T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-22T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 565748
+  },
+  {
+    "optInDate": "2021-11-22T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 626725
+  },
+  {
+    "optInDate": "2021-04-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36115200000,
+    "customer": "551434"
+  },
+  {
+    "optInDate": "2021-07-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 10972800000,
+    "customer": 578721
+  },
+  {
+    "optInDate": "2021-12-08T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 633742
+  },
+  {
+    "optInDate": "2022-02-17T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-17T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 682690
+  },
+  {
+    "optInDate": "2020-08-07T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 62726400000,
+    "customer": "431092"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "226888"
+  },
+  {
+    "optInDate": "2022-02-06T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 678147
+  },
+  {
+    "optInDate": "2020-08-29T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 58060800000,
+    "customer": 451732
+  },
+  {
+    "optInDate": "2022-05-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 730921
+  },
+  {
+    "optInDate": "2020-08-21T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-21T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 443473
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52358400000,
+    "customer": "301235"
+  },
+  {
+    "optInDate": "2022-06-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 749353
+  },
+  {
+    "optInDate": "2021-01-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36720000000,
+    "customer": "525480"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "57423"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "250071"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "10997"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 62899200000,
+    "customer": 175975
+  },
+  {
+    "optInDate": "2021-04-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36806400000,
+    "customer": "548617"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 253599
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "425614"
+  },
+  {
+    "optInDate": "2020-11-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 39657600000,
+    "customer": 493121
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 153215
+  },
+  {
+    "optInDate": "2021-11-20T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-20T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 625736
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-25T00:00:00.000+00:00",
+    "loyalMilliseconds": 62294400000,
+    "customer": 12170
+  },
+  {
+    "optInDate": "2021-06-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-06-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 576979
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 61689600000,
+    "customer": 2764
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 41410
+  },
+  {
+    "optInDate": "2021-10-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 1987200000,
+    "customer": 608590
+  },
+  {
+    "optInDate": "2021-12-30T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-30T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 646222
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 302597
+  },
+  {
+    "optInDate": "2021-03-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": "540583"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "16093"
+  },
+  {
+    "optInDate": "2022-05-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 733880
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "7767"
+  },
+  {
+    "optInDate": "2020-12-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 43113600000,
+    "customer": "503634"
+  },
+  {
+    "optInDate": "2022-05-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 259200000,
+    "customer": 740476
+  },
+  {
+    "optInDate": "2020-09-07T00:00:00.000+00:00",
+    "lastEventDate": "2020-09-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 461292
+  },
+  {
+    "optInDate": "2022-05-31T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 742135
+  },
+  {
+    "optInDate": "2022-07-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-09T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 1109127
+  },
+  {
+    "optInDate": "2021-08-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 587793
+  },
+  {
+    "optInDate": "2021-11-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 621530
+  },
+  {
+    "optInDate": "2021-06-20T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 19008000000,
+    "customer": 575480
+  },
+  {
+    "optInDate": "2021-12-28T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 604800000,
+    "customer": "645319"
+  },
+  {
+    "optInDate": "2022-04-09T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 2332800000,
+    "customer": 712137
+  },
+  {
+    "optInDate": "2020-08-10T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 33523200000,
+    "customer": "433630"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 58579200000,
+    "customer": 19438
+  },
+  {
+    "optInDate": "2022-01-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-23T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 666556
+  },
+  {
+    "optInDate": "2021-05-30T00:00:00.000+00:00",
+    "lastEventDate": "2022-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36979200000,
+    "customer": "570402"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 63244800000,
+    "customer": 73184
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "4946"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "52425"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 1123200000,
+    "customer": 260664
+  },
+  {
+    "optInDate": "2021-07-17T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-19T00:00:00.000+00:00",
+    "loyalMilliseconds": 13392000000,
+    "customer": 583048
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 63590400000,
+    "customer": 75492
+  },
+  {
+    "optInDate": "2021-03-28T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 547570
+  },
+  {
+    "optInDate": "2022-06-01T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 742549
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 224632
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-03-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 24624000000,
+    "customer": 155642
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 52358400000,
+    "customer": "201000"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "41820"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "12863"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 54864000000,
+    "customer": "107239"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 67564800000,
+    "customer": "84504"
+  },
+  {
+    "optInDate": "2021-03-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33868800000,
+    "customer": "539044"
+  },
+  {
+    "optInDate": "2021-04-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33782400000,
+    "customer": "550414"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "43643"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "189447"
+  },
+  {
+    "optInDate": "2021-11-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-06T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": "619091"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "205535"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 344011
+  },
+  {
+    "optInDate": "2022-03-10T00:00:00.000+00:00",
+    "lastEventDate": "2022-03-10T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 698209
+  },
+  {
+    "optInDate": "2021-06-24T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 30585600000,
+    "customer": 576270
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-08-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 36633600000,
+    "customer": 15402
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 235488
+  },
+  {
+    "optInDate": "2021-11-13T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 623779
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 44668800000,
+    "customer": 258208
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 51235200000,
+    "customer": 232101
+  },
+  {
+    "optInDate": "2020-07-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-15T00:00:00.000+00:00",
+    "loyalMilliseconds": 63072000000,
+    "customer": "414631"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49852800000,
+    "customer": "199455"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "88688"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49766400000,
+    "customer": "65649"
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "155455"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 124439
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 49766400000,
+    "customer": "19634"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "332431"
+  },
+  {
+    "optInDate": "2021-09-07T00:00:00.000+00:00",
+    "lastEventDate": "2021-09-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 598109
+  },
+  {
+    "optInDate": "2021-05-29T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 569880
+  },
+  {
+    "optInDate": "2021-03-23T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 32313600000,
+    "customer": "545527"
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-31T00:00:00.000+00:00",
+    "loyalMilliseconds": 52444800000,
+    "customer": 155296
+  },
+  {
+    "optInDate": "2021-11-27T00:00:00.000+00:00",
+    "lastEventDate": "2021-11-27T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 628164
+  },
+  {
+    "optInDate": "2022-01-15T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 656767
+  },
+  {
+    "optInDate": "2022-05-11T00:00:00.000+00:00",
+    "lastEventDate": "2022-05-12T00:00:00.000+00:00",
+    "loyalMilliseconds": 86400000,
+    "customer": 731465
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2022-07-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 66614400000,
+    "customer": 113300
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2022-04-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 57542400000,
+    "customer": "185549"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 293440
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "201502"
+  },
+  {
+    "optInDate": "2022-01-18T00:00:00.000+00:00",
+    "lastEventDate": "2022-01-18T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 658807
+  },
+  {
+    "optInDate": "2022-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-03T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 744002
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "47127"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "32003"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 154164
+  },
+  {
+    "optInDate": "2020-10-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-10-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 483501
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2021-07-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 34041600000,
+    "customer": "74292"
+  },
+  {
+    "optInDate": "2021-01-13T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 33177600000,
+    "customer": "515665"
+  },
+  {
+    "optInDate": "2020-10-13T00:00:00.000+00:00",
+    "lastEventDate": "2020-10-13T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 479819
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 18489600000,
+    "customer": 361333
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-02-02T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "314608"
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47260800000,
+    "customer": "11939"
+  },
+  {
+    "optInDate": "2021-01-26T00:00:00.000+00:00",
+    "lastEventDate": "2021-01-26T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 522203
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-12-28T00:00:00.000+00:00",
+    "loyalMilliseconds": 12700800000,
+    "customer": 304601
+  },
+  {
+    "optInDate": "2021-05-11T00:00:00.000+00:00",
+    "lastEventDate": "2021-05-16T00:00:00.000+00:00",
+    "loyalMilliseconds": 432000000,
+    "customer": 562883
+  },
+  {
+    "optInDate": "2020-06-05T00:00:00.000+00:00",
+    "lastEventDate": "2020-06-05T00:00:00.000+00:00",
+    "loyalMilliseconds": 0,
+    "customer": 340612
+  },
+  {
+    "optInDate": "2020-06-03T00:00:00.000+00:00",
+    "lastEventDate": "2022-06-01T00:00:00.000+00:00",
+    "loyalMilliseconds": 62899200000,
+    "customer": "219577"
+  },
+  {
+    "optInDate": "2020-08-26T00:00:00.000+00:00",
+    "lastEventDate": "2020-11-07T00:00:00.000+00:00",
+    "loyalMilliseconds": 6307200000,
+    "customer": 398713
+  },
+  {
+    "optInDate": "2020-06-06T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47174400000,
+    "customer": "115434"
+  },
+  {
+    "optInDate": "2020-08-03T00:00:00.000+00:00",
+    "lastEventDate": "2020-08-29T00:00:00.000+00:00",
+    "loyalMilliseconds": 2246400000,
+    "customer": "316801"
+  },
+  {
+    "optInDate": "2020-06-04T00:00:00.000+00:00",
+    "lastEventDate": "2021-12-04T00:00:00.000+00:00",
+    "loyalMilliseconds": 47347200000,
+    "customer": "16618"
+  }
+]

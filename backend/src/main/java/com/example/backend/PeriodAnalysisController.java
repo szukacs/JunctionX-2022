@@ -1,11 +1,14 @@
 package com.example.backend;
 
+import com.example.backend.dto.CustomerLoyalty;
 import com.example.backend.dto.DailyExpire;
 import com.example.backend.dto.PointsByDate;
 import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.aggregation.AggregationOptions;
+import org.springframework.data.mongodb.core.aggregation.DateOperators;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.ResponseEntity;
@@ -13,7 +16,9 @@ import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.temporal.ChronoUnit;
 import java.util.List;
+import java.util.Map;
 
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.sort;
@@ -70,5 +75,23 @@ public class PeriodAnalysisController {
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());
+    }
+
+    @GetMapping("/loyalty")
+    public ResponseEntity<?> getLoyaltyInDays() {
+        var aggregation = newAggregation(
+                //match(Criteria.where("customer").is(391705)),
+                project("id", "customer", "date"),
+                group("customer")
+                        .min("date").as("optInDate")
+                        .max("date").as("lastEventDate"),
+                limit(1000),
+                project("optInDate", "lastEventDate")
+                        .and("lastEventDate").minus("optInDate").as("loyalMilliseconds")
+                        .and("customer").previousOperation()
+        ).withOptions(AggregationOptions.builder().allowDiskUse(true).build());
+        //var result = mongoTemplate.aggregate(aggregation, Event.class, CustomerLoyalty.class);
+        var result = mongoTemplate.aggregate(aggregation, Event.class, Map.class);
+        return ResponseEntity.ok(result.getMappedResults());
     }
 }
