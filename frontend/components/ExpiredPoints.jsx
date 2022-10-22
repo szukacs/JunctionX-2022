@@ -24,7 +24,7 @@ ChartJS.register(CategoryScale,
     Filler,
     Legend, TimeScale)
 
-export const ExpiredPoints = () => {
+export const ExpiredPoints = ({min, max}) => {
     const theme = useMantineTheme()
 
     return (
@@ -39,7 +39,9 @@ export const ExpiredPoints = () => {
                 },
                 scales: {
                     x: {
-                        type: "time"
+                        type: "time",
+                        min,
+                        max
                     },
                     y: {
                         type: 'linear',
