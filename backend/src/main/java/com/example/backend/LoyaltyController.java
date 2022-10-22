@@ -24,7 +24,7 @@ import static org.springframework.data.mongodb.core.aggregation.Aggregation.proj
 public class LoyaltyController {
     private final MongoTemplate mongoTemplate;
 
-    @GetMapping("/")
+    @GetMapping
     public ResponseEntity<?> getLoyaltyInDays() {
         var options = AggregationOptions.builder().allowDiskUse(true).build();
         var aggregation = newAggregation(
@@ -37,7 +37,7 @@ public class LoyaltyController {
                         .max("date").as("lastEventDate")
                         .sum("money").as("spending")
                 ,
-                limit(1000),
+                //limit(1000),
                 project("optInDate", "lastEventDate", "spending")
                         .and("lastEventDate").minus("optInDate").as("loyalDays")
                         .and("customer").previousOperation()
