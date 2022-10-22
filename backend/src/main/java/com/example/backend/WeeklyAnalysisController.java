@@ -2,6 +2,8 @@ package com.example.backend;
 
 import com.example.backend.dto.*;
 import com.example.backend.schema.Event;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
@@ -16,6 +18,7 @@ import java.util.stream.Collectors;
 
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 
+@Tag(name = "Weekly Analysis API", description = "For getting event data projected to the days of the week")
 @RestController
 @RequestMapping("/week")
 @RequiredArgsConstructor
@@ -23,6 +26,7 @@ public class WeeklyAnalysisController {
 
     private final MongoTemplate mongoTemplate;
 
+    @Operation(summary = "Get the average weekly point gain and spending")
     @GetMapping("/checkouts")
     public ResponseEntity<?> getWeeklyCheckouts(
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,

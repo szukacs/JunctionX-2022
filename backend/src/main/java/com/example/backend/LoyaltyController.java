@@ -3,6 +3,8 @@ package com.example.backend;
 import com.example.backend.dto.CustomerLoyalty;
 import com.example.backend.dto.CustomerRewards;
 import com.example.backend.schema.Event;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.aggregation.AggregationOptions;
@@ -18,12 +20,14 @@ import java.util.stream.Collectors;
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.project;
 
+@Tag(name = "Loyalty API", description = "For finding correlation between customer spending, reward claims and time spent in the loyalty program")
 @RestController
 @RequestMapping("/loyalty")
 @RequiredArgsConstructor
 public class LoyaltyController {
     private final MongoTemplate mongoTemplate;
 
+    @Operation(summary = "Get the number of active days, opt-in date, last active day and total spending for each customer")
     @GetMapping
     public ResponseEntity<?> getLoyaltyInDays() {
         var options = AggregationOptions.builder().allowDiskUse(true).build();

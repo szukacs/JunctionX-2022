@@ -5,6 +5,8 @@ import com.example.backend.dto.DailyActions;
 import com.example.backend.dto.DailyExpire;
 import com.example.backend.dto.PointsByDate;
 import com.example.backend.schema.Event;
+import io.swagger.v3.oas.annotations.Operation;
+import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
@@ -24,13 +26,15 @@ import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.sort;
 import static org.springframework.data.mongodb.core.aggregation.ArithmeticOperators.Abs.absoluteValueOf;
 
+@Tag(name = "Period Analysis API", description = "For getting data about events restricted to the given time period")
 @RestController
 @RequestMapping("/period")
 @RequiredArgsConstructor
 public class PeriodAnalysisController {
     private final MongoTemplate mongoTemplate;
 
-    @GetMapping("/{action}")
+    @Operation(summary = "Get the count of events and the sum of points for the given action on every day in the given time period")
+    @GetMapping("/actions/{action}")
     public ResponseEntity<?> getPointsByDateForAction(
             @PathVariable String action,
             @RequestParam @DateTimeFormat(pattern = "yyyy-MM-dd_HH:mm:ss") LocalDateTime from,
@@ -55,7 +59,8 @@ public class PeriodAnalysisController {
         return mongoTemplate.aggregate(aggregation, Event.class, PointsByDate.class).getMappedResults();
     }
 
-    @GetMapping("/expiredPoints")
+    @Operation(summary = "Get the number of points that will expire on any day in the given time period")
+    @GetMapping("/expired-points")
     public ResponseEntity<?> getExpiredPoints(
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
@@ -77,6 +82,7 @@ public class PeriodAnalysisController {
         return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 
+    @Operation(summary = "Get the count of each event type(action) on every day in the given time period")
     @GetMapping("/actions")
     public ResponseEntity<?> getActionsByDay(
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
