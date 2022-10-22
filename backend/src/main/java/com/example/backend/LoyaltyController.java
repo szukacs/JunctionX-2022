@@ -37,7 +37,7 @@ public class LoyaltyController {
                         .max("date").as("lastEventDate")
                         .sum("money").as("spending")
                 ,
-                //limit(1000),
+                limit(5000),
                 project("optInDate", "lastEventDate", "spending")
                         .and("lastEventDate").minus("optInDate").as("loyalDays")
                         .and("customer").previousOperation()
