@@ -1,6 +1,6 @@
 package com.example.backend;
 
-import com.example.backend.dto.Weekly;
+import com.example.backend.dto.WeeklyCheckouts;
 import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
@@ -17,9 +17,9 @@ import java.time.LocalDate;
 import static org.springframework.data.mongodb.core.aggregation.Aggregation.*;
 
 @RestController
-@RequestMapping("/")
+@RequestMapping("/week")
 @RequiredArgsConstructor
-public class InsightController {
+public class WeeklyAnalysisController {
 
     private final MongoTemplate mongoTemplate;
 
@@ -30,15 +30,14 @@ public class InsightController {
         return ResponseEntity.ok(mongoTemplate.find(query, Event.class));
     }
 
-    @GetMapping("/weekly")
+    @GetMapping("/checkouts")
     public ResponseEntity<?> getWeeklyCheckouts(
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate to
+            @RequestParam(required = false, defaultValue = "1") int weeks
     ) {
-        var timeCriteria = from != null && to != null ?
-                Criteria.where("timestamp").gte(from).lte(to).nin()
-                : from != null ? Criteria.where("timestamp").gte(from)
-                : to != null ? Criteria.where("timestamp").lte(to) : new Criteria();
+        var timeCriteria = from != null ?
+                Criteria.where("timestamp").gte(from).lte(from.plusWeeks(weeks)).nin()
+                : new Criteria();
         var dayOfWeek = DateOperators.DayOfWeek.dayOfWeek("timestamp");
         var aggregation = newAggregation(
                 match(timeCriteria),
@@ -48,6 +47,7 @@ public class InsightController {
                 project("numberOfCheckouts").and("dayOfWeek").previousOperation(),
                 sort(Sort.Direction.ASC, "dayOfWeek")
         );
-        return ResponseEntity.ok(mongoTemplate.aggregate(aggregation, Event.class, Weekly.class).getMappedResults());
+        var result = mongoTemplate.aggregate(aggregation, Event.class, WeeklyCheckouts.class);
+        return ResponseEntity.ok(result.getMappedResults());
     }
 }
