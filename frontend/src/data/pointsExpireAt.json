@@ -1,0 +1,137 @@
+[
+  {
+    "expdate": "2021-06-30T00:00:00.000+00:00",
+    "numberOfExpires": 225256,
+    "expiredPoints": 11918345
+  },
+  {
+    "expdate": "2021-07-31T00:00:00.000+00:00",
+    "numberOfExpires": 27488,
+    "expiredPoints": 2981309
+  },
+  {
+    "expdate": "2021-08-31T00:00:00.000+00:00",
+    "numberOfExpires": 37245,
+    "expiredPoints": 3312772
+  },
+  {
+    "expdate": "2021-09-30T00:00:00.000+00:00",
+    "numberOfExpires": 41444,
+    "expiredPoints": 3849454
+  },
+  {
+    "expdate": "2021-10-31T00:00:00.000+00:00",
+    "numberOfExpires": 23151,
+    "expiredPoints": 2112809
+  },
+  {
+    "expdate": "2021-11-30T00:00:00.000+00:00",
+    "numberOfExpires": 47014,
+    "expiredPoints": 4629085
+  },
+  {
+    "expdate": "2021-12-31T00:00:00.000+00:00",
+    "numberOfExpires": 135849,
+    "expiredPoints": 13286215
+  },
+  {
+    "expdate": "2022-01-31T00:00:00.000+00:00",
+    "numberOfExpires": 77562,
+    "expiredPoints": 7859952
+  },
+  {
+    "expdate": "2022-02-28T00:00:00.000+00:00",
+    "numberOfExpires": 61195,
+    "expiredPoints": 5224330
+  },
+  {
+    "expdate": "2022-03-31T00:00:00.000+00:00",
+    "numberOfExpires": 64702,
+    "expiredPoints": 5938396
+  },
+  {
+    "expdate": "2022-04-30T00:00:00.000+00:00",
+    "numberOfExpires": 66279,
+    "expiredPoints": 6568060
+  },
+  {
+    "expdate": "2022-05-31T00:00:00.000+00:00",
+    "numberOfExpires": 60079,
+    "expiredPoints": 5831444
+  },
+  {
+    "expdate": "2022-06-30T00:00:00.000+00:00",
+    "numberOfExpires": 33106,
+    "expiredPoints": 3042365
+  },
+  {
+    "expdate": "2022-07-31T00:00:00.000+00:00",
+    "numberOfExpires": 39895,
+    "expiredPoints": 3682977
+  },
+  {
+    "expdate": "2022-08-31T00:00:00.000+00:00",
+    "numberOfExpires": 45207,
+    "expiredPoints": 4395689
+  },
+  {
+    "expdate": "2022-09-30T00:00:00.000+00:00",
+    "numberOfExpires": 42704,
+    "expiredPoints": 4041794
+  },
+  {
+    "expdate": "2022-10-31T00:00:00.000+00:00",
+    "numberOfExpires": 51491,
+    "expiredPoints": 4442259
+  },
+  {
+    "expdate": "2022-11-30T00:00:00.000+00:00",
+    "numberOfExpires": 73025,
+    "expiredPoints": 6720576
+  },
+  {
+    "expdate": "2022-12-31T00:00:00.000+00:00",
+    "numberOfExpires": 84036,
+    "expiredPoints": 8653293
+  },
+  {
+    "expdate": "2023-01-31T00:00:00.000+00:00",
+    "numberOfExpires": 113917,
+    "expiredPoints": 10108706
+  },
+  {
+    "expdate": "2023-02-28T00:00:00.000+00:00",
+    "numberOfExpires": 62303,
+    "expiredPoints": 4878290
+  },
+  {
+    "expdate": "2023-03-31T00:00:00.000+00:00",
+    "numberOfExpires": 57836,
+    "expiredPoints": 4991310
+  },
+  {
+    "expdate": "2023-04-30T00:00:00.000+00:00",
+    "numberOfExpires": 71680,
+    "expiredPoints": 6433543
+  },
+  {
+    "expdate": "2023-05-31T00:00:00.000+00:00",
+    "numberOfExpires": 87857,
+    "expiredPoints": 8738022
+  },
+  {
+    "expdate": "2023-06-30T00:00:00.000+00:00",
+    "numberOfExpires": 88933,
+    "expiredPoints": 7722537
+  },
+  {
+    "expdate": "2023-07-31T00:00:00.000+00:00",
+    "numberOfExpires": 68472,
+    "expiredPoints": 5697905
+  },
+  {
+    "expdate": "2023-08-31T00:00:00.000+00:00",
+    "numberOfExpires": 13350,
+    "expiredPoints": 1097772
+  }
+]
