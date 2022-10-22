@@ -1,0 +1,35 @@
+{
+  "from": "2020-06-06",
+  "until": "2020-06-13",
+  "weeks": 1,
+  "dailyCheckouts": [
+    {
+      "dayOfWeek": 1,
+      "numberOfCheckouts": 294
+    },
+    {
+      "dayOfWeek": 2,
+      "numberOfCheckouts": 608
+    },
+    {
+      "dayOfWeek": 3,
+      "numberOfCheckouts": 260
+    },
+    {
+      "dayOfWeek": 4,
+      "numberOfCheckouts": 238
+    },
+    {
+      "dayOfWeek": 5,
+      "numberOfCheckouts": 1343
+    },
+    {
+      "dayOfWeek": 6,
+      "numberOfCheckouts": 4383
+    },
+    {
+      "dayOfWeek": 7,
+      "numberOfCheckouts": 227
+    }
+  ]
+}

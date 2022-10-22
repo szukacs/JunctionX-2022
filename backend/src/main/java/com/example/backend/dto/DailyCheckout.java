@@ -5,7 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Weekly {
+public class DailyCheckout {
     private int dayOfWeek;
     private long numberOfCheckouts;
 }
