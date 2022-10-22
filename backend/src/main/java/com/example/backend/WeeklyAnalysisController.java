@@ -55,16 +55,16 @@ public class WeeklyAnalysisController {
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
             @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
     ) {
-        var timeCriteria = Criteria.where("timestamp").gte(from).lte(until);
+        var timeCriteria = Criteria.where("expdate").gte(from).lte(until);
         var aggregation = newAggregation(
                 match(timeCriteria),
                 //match(Criteria.where("action").is("points_expired")),
-                match(Criteria.where("expdate").exists(true)),
-                project("id", "date", "points"),
-                group("date").count().as("numberOfExpires").sum(ArithmeticOperators.Abs.absoluteValueOf("points")).as("expiredPoints"),
-                project("numberOfExpires", "expiredPoints").and("date").previousOperation(),
+                match(Criteria.where("expdate").exists(true).and("points").gt(0)),
+                project("id", "expdate", "points"),
+                group("expdate").count().as("numberOfExpires").sum(ArithmeticOperators.Abs.absoluteValueOf("points")).as("expiredPoints"),
+                project("numberOfExpires", "expiredPoints").and("expdate").previousOperation(),
 
-                sort(Sort.Direction.ASC, "date")
+                sort(Sort.Direction.ASC, "expdate")
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());

@@ -8,7 +8,7 @@ import java.util.Date;
 @Getter
 @Setter
 public class DailyExpire {
-    private Date date;
+    private Date expdate;
     private long numberOfExpires;
     private long expiredPoints;
 }
