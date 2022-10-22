@@ -7,8 +7,8 @@ import java.util.Date;
 
 @Getter
 @Setter
-public class DailyExpire {
+public class DailyActivity {
     private Date date;
-    private long numberOfExpires;
-    private long expiredPoints;
+    private long numberOfActivities;
+    private long rewardedPoints;
 }

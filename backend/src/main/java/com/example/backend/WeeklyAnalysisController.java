@@ -59,13 +59,13 @@ public class WeeklyAnalysisController {
                 match(timeCriteria),
                 //match(Criteria.where("action").is("points_expired")),
                 match(Criteria.where("expdate").exists(true).and("points").gt(0)),
-                project("id", "expdate", "points"),
-                group("expdate")
+                project("id", "points").and("expdate").as("date"),
+                group("date")
                         .count().as("numberOfExpires")
                         .sum(absoluteValueOf("points")).as("expiredPoints"),
-                project("numberOfExpires", "expiredPoints").and("expdate").previousOperation(),
+                project("numberOfExpires", "expiredPoints").and("date").previousOperation(),
 
-                sort(Sort.Direction.ASC, "expdate")
+                sort(Sort.Direction.ASC, "date")
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());
@@ -111,6 +111,27 @@ public class WeeklyAnalysisController {
                 sort(Sort.Direction.ASC, "date")
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyRewardClaim.class);
+        return ResponseEntity.ok(dailyExpires.getMappedResults());
+    }
+
+    @GetMapping("/activities")
+    public ResponseEntity<?> getActivities(
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
+            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
+    ) {
+        var timeCriteria = Criteria.where("date").gte(from).lte(until);
+        var aggregation = newAggregation(
+                match(timeCriteria),
+                match(Criteria.where("action").is("activity")),
+                project("id", "date", "points"),
+                group("date")
+                        .count().as("numberOfActivities")
+                        .sum(absoluteValueOf("points")).as("rewardedPoints"),
+                project("numberOfActivities", "rewardedPoints").and("date").previousOperation(),
+
+                sort(Sort.Direction.ASC, "date")
+        );
+        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyActivity.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 }
