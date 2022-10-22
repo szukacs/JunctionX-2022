@@ -8,7 +8,7 @@
 
 ### [Backend](./backend/README.md)
 * Created by [Spring Boot](https://spring.io/projects/spring-boot)
-* Local run [documented]() created by [Open API](https://www.openapis.org/)
+* Local [documented]() created by [Open API](https://www.openapis.org/)
 
 ## Created by:
 * [spiglebach](https://github.com/spiglebach)
