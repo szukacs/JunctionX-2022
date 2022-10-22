@@ -35,6 +35,9 @@ export default function Home() {
           <Link href={"/web/reward-claim"}>
               Reward Claimed
           </Link>
+          <Link href={"/web/expiration-effect"}>
+              Expiration effect
+          </Link>
       </main>
         PointsDifferencePage
 
