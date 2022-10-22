@@ -8,4 +8,6 @@ import lombok.Setter;
 public class DailyCheckout {
     private int dayOfWeek;
     private long numberOfCheckouts;
+    private long avgPoints;
+    private long avgSpending;
 }

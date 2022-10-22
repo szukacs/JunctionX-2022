@@ -1,35 +1,49 @@
 {
-  "from": "2020-06-06",
-  "until": "2020-06-13",
-  "weeks": 1,
+  "from": "2020-06-10",
+  "until": "2020-10-28",
+  "weeks": 20,
   "dailyCheckouts": [
     {
       "dayOfWeek": 1,
-      "numberOfCheckouts": 294
+      "numberOfCheckouts": 17666,
+      "avgPoints": 72,
+      "avgSpending": 65
     },
     {
       "dayOfWeek": 2,
-      "numberOfCheckouts": 608
+      "numberOfCheckouts": 20665,
+      "avgPoints": 77,
+      "avgSpending": 68
     },
     {
       "dayOfWeek": 3,
-      "numberOfCheckouts": 260
+      "numberOfCheckouts": 14184,
+      "avgPoints": 85,
+      "avgSpending": 74
     },
     {
       "dayOfWeek": 4,
-      "numberOfCheckouts": 238
+      "numberOfCheckouts": 20541,
+      "avgPoints": 89,
+      "avgSpending": 73
     },
     {
       "dayOfWeek": 5,
-      "numberOfCheckouts": 1343
+      "numberOfCheckouts": 16223,
+      "avgPoints": 86,
+      "avgSpending": 75
     },
     {
       "dayOfWeek": 6,
-      "numberOfCheckouts": 4383
+      "numberOfCheckouts": 23970,
+      "avgPoints": 73,
+      "avgSpending": 67
     },
     {
       "dayOfWeek": 7,
-      "numberOfCheckouts": 227
+      "numberOfCheckouts": 21113,
+      "avgPoints": 70,
+      "avgSpending": 64
     }
   ]
 }

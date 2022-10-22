@@ -35,13 +35,16 @@ public class WeeklyAnalysisController {
         var aggregation = newAggregation(
                 match(timeCriteria),
                 match(Criteria.where("action").is("checkout")),
-                project("id").and(dayOfWeek).as("dayOfWeek"),
-                group("dayOfWeek").count().as("numberOfCheckouts"),
-                project("numberOfCheckouts").and("dayOfWeek").previousOperation(),
+                project("id", "points").and(dayOfWeek).as("dayOfWeek").and("properties.total").as("price"),
+                group("dayOfWeek").count().as("numberOfCheckouts")
+                        .avg("points").as("avgPoints")
+                        .avg("price").as("avgSpending"),
+                project("numberOfCheckouts", "avgPoints", "avgSpending").and("dayOfWeek").previousOperation(),
                 sort(Sort.Direction.ASC, "dayOfWeek")
         );
         var dailyCheckouts = mongoTemplate.aggregate(aggregation, Event.class, DailyCheckout.class);
-        var response = new WeeklyCheckouts(from, until, weeks, dailyCheckouts.getMappedResults());
+        var response = new WeeklyCheckouts(from, until, weeks,
+                dailyCheckouts.getMappedResults());
         return ResponseEntity.ok(response);
     }
 }
