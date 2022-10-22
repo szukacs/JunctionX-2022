@@ -12,7 +12,7 @@ import {
 import {Line} from 'react-chartjs-2'
 import 'chartjs-adapter-moment'
 import grantedPointsData from '../src/data/pointsGrantedAt.json'
-import expiredPointsData from '../src/data/pointsExpireAt.json'
+import activitiesData from '../src/data/activitiesAt.json'
 
 ChartJS.register(CategoryScale,
     LinearScale,
@@ -33,7 +33,7 @@ export const sortByDate = (a, b) => {
     return 0;
 }
 
-export const PointsDifference = () => {
+export const ActivityPercentage = () => {
     return (
         <Line
             options={{
@@ -68,11 +68,11 @@ export const PointsDifference = () => {
                 },
             }}
             data={{
-                labels: [...grantedPointsData.map((grantedPoints) => grantedPoints.date), ...expiredPointsData.map((expiredPoints) => expiredPoints.date)],
+                labels: [...grantedPointsData.map((grantedPoints) => grantedPoints.date), ...activitiesData.map((expiredPoints) => expiredPoints.date)],
                 datasets: [
                     {
-                        label: 'Expired Points',
-                        data: expiredPointsData.map((expiration) => expiration.expiredPoints),
+                        label: 'Points Rewarded for Activity',
+                        data: activitiesData.map((expiration) => expiration.rewardedPoints),
                         yAxisID: 'y'
                     },
                     {
@@ -85,3 +85,4 @@ export const PointsDifference = () => {
         />
     )
 }
+
