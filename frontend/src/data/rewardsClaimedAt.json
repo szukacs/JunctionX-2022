@@ -1,0 +1,2927 @@
+[
+  {
+    "date": "2021-01-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 550,
+    "usedPoints": 19550
+  },
+  {
+    "date": "2021-01-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 613,
+    "usedPoints": 30200
+  },
+  {
+    "date": "2021-01-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 558,
+    "usedPoints": 23300
+  },
+  {
+    "date": "2021-01-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 389,
+    "usedPoints": 24400
+  },
+  {
+    "date": "2021-01-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 353,
+    "usedPoints": 27950
+  },
+  {
+    "date": "2021-01-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 414,
+    "usedPoints": 28100
+  },
+  {
+    "date": "2021-01-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1023,
+    "usedPoints": 14350
+  },
+  {
+    "date": "2021-01-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 420,
+    "usedPoints": 20000
+  },
+  {
+    "date": "2021-01-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 620,
+    "usedPoints": 17850
+  },
+  {
+    "date": "2021-01-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 499,
+    "usedPoints": 20000
+  },
+  {
+    "date": "2021-01-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 418,
+    "usedPoints": 25250
+  },
+  {
+    "date": "2021-01-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 441,
+    "usedPoints": 26600
+  },
+  {
+    "date": "2021-01-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 551,
+    "usedPoints": 24800
+  },
+  {
+    "date": "2021-01-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 398,
+    "usedPoints": 15950
+  },
+  {
+    "date": "2021-01-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 509,
+    "usedPoints": 21750
+  },
+  {
+    "date": "2021-01-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 680,
+    "usedPoints": 21250
+  },
+  {
+    "date": "2021-01-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 580,
+    "usedPoints": 18160
+  },
+  {
+    "date": "2021-01-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 556,
+    "usedPoints": 30750
+  },
+  {
+    "date": "2021-01-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 594,
+    "usedPoints": 50750
+  },
+  {
+    "date": "2021-01-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 570,
+    "usedPoints": 32450
+  },
+  {
+    "date": "2021-01-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 449,
+    "usedPoints": 12450
+  },
+  {
+    "date": "2021-01-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 580,
+    "usedPoints": 23400
+  },
+  {
+    "date": "2021-01-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 797,
+    "usedPoints": 31860
+  },
+  {
+    "date": "2021-01-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 623,
+    "usedPoints": 16960
+  },
+  {
+    "date": "2021-01-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 636,
+    "usedPoints": 46150
+  },
+  {
+    "date": "2021-01-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 546,
+    "usedPoints": 25300
+  },
+  {
+    "date": "2021-01-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 600,
+    "usedPoints": 41100
+  },
+  {
+    "date": "2021-01-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 699,
+    "usedPoints": 26450
+  },
+  {
+    "date": "2021-01-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 709,
+    "usedPoints": 28950
+  },
+  {
+    "date": "2021-01-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 767,
+    "usedPoints": 32200
+  },
+  {
+    "date": "2021-01-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 864,
+    "usedPoints": 23850
+  },
+  {
+    "date": "2021-02-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 868,
+    "usedPoints": 49400
+  },
+  {
+    "date": "2021-02-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 746,
+    "usedPoints": 41600
+  },
+  {
+    "date": "2021-02-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 739,
+    "usedPoints": 57500
+  },
+  {
+    "date": "2021-02-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 615,
+    "usedPoints": 28250
+  },
+  {
+    "date": "2021-02-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 683,
+    "usedPoints": 27000
+  },
+  {
+    "date": "2021-02-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 865,
+    "usedPoints": 51385
+  },
+  {
+    "date": "2021-02-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 858,
+    "usedPoints": 30955
+  },
+  {
+    "date": "2021-02-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 662,
+    "usedPoints": 47615
+  },
+  {
+    "date": "2021-02-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 607,
+    "usedPoints": 21310
+  },
+  {
+    "date": "2021-02-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 932,
+    "usedPoints": 32450
+  },
+  {
+    "date": "2021-02-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 534,
+    "usedPoints": 12525
+  },
+  {
+    "date": "2021-02-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 202,
+    "usedPoints": 15300
+  },
+  {
+    "date": "2021-02-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 389,
+    "usedPoints": 10975
+  },
+  {
+    "date": "2021-02-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 450,
+    "usedPoints": 10650
+  },
+  {
+    "date": "2021-02-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 416,
+    "usedPoints": 28280
+  },
+  {
+    "date": "2021-02-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 407,
+    "usedPoints": 47650
+  },
+  {
+    "date": "2021-02-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 425,
+    "usedPoints": 19225
+  },
+  {
+    "date": "2021-02-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 335,
+    "usedPoints": 21925
+  },
+  {
+    "date": "2021-02-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 402,
+    "usedPoints": 26075
+  },
+  {
+    "date": "2021-02-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 480,
+    "usedPoints": 21400
+  },
+  {
+    "date": "2021-02-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 395,
+    "usedPoints": 15050
+  },
+  {
+    "date": "2021-02-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 321,
+    "usedPoints": 28775
+  },
+  {
+    "date": "2021-02-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 293,
+    "usedPoints": 15250
+  },
+  {
+    "date": "2021-02-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 468,
+    "usedPoints": 33850
+  },
+  {
+    "date": "2021-02-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 351,
+    "usedPoints": 21725
+  },
+  {
+    "date": "2021-02-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 387,
+    "usedPoints": 30400
+  },
+  {
+    "date": "2021-02-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 710,
+    "usedPoints": 57900
+  },
+  {
+    "date": "2021-02-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 493,
+    "usedPoints": 38080
+  },
+  {
+    "date": "2021-03-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1248,
+    "usedPoints": 24155
+  },
+  {
+    "date": "2021-03-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1068,
+    "usedPoints": 18600
+  },
+  {
+    "date": "2021-03-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 692,
+    "usedPoints": 41300
+  },
+  {
+    "date": "2021-03-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 367,
+    "usedPoints": 26050
+  },
+  {
+    "date": "2021-03-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 408,
+    "usedPoints": 26050
+  },
+  {
+    "date": "2021-03-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 522,
+    "usedPoints": 23250
+  },
+  {
+    "date": "2021-03-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 484,
+    "usedPoints": 25650
+  },
+  {
+    "date": "2021-03-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 511,
+    "usedPoints": 37700
+  },
+  {
+    "date": "2021-03-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 360,
+    "usedPoints": 36460
+  },
+  {
+    "date": "2021-03-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 433,
+    "usedPoints": 22600
+  },
+  {
+    "date": "2021-03-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 381,
+    "usedPoints": 14700
+  },
+  {
+    "date": "2021-03-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 403,
+    "usedPoints": 22500
+  },
+  {
+    "date": "2021-03-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 582,
+    "usedPoints": 19160
+  },
+  {
+    "date": "2021-03-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 560,
+    "usedPoints": 28050
+  },
+  {
+    "date": "2021-03-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 395,
+    "usedPoints": 23750
+  },
+  {
+    "date": "2021-03-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 375,
+    "usedPoints": 27275
+  },
+  {
+    "date": "2021-03-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 514,
+    "usedPoints": 33300
+  },
+  {
+    "date": "2021-03-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 428,
+    "usedPoints": 39475
+  },
+  {
+    "date": "2021-03-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 458,
+    "usedPoints": 19150
+  },
+  {
+    "date": "2021-03-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 511,
+    "usedPoints": 21500
+  },
+  {
+    "date": "2021-03-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 458,
+    "usedPoints": 22450
+  },
+  {
+    "date": "2021-03-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 391,
+    "usedPoints": 48600
+  },
+  {
+    "date": "2021-03-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 361,
+    "usedPoints": 28950
+  },
+  {
+    "date": "2021-03-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 341,
+    "usedPoints": 26750
+  },
+  {
+    "date": "2021-03-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 374,
+    "usedPoints": 23950
+  },
+  {
+    "date": "2021-03-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 436,
+    "usedPoints": 33200
+  },
+  {
+    "date": "2021-03-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 578,
+    "usedPoints": 45800
+  },
+  {
+    "date": "2021-03-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 457,
+    "usedPoints": 36850
+  },
+  {
+    "date": "2021-03-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 441,
+    "usedPoints": 47400
+  },
+  {
+    "date": "2021-03-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 408,
+    "usedPoints": 53600
+  },
+  {
+    "date": "2021-03-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 506,
+    "usedPoints": 44950
+  },
+  {
+    "date": "2021-04-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 372,
+    "usedPoints": 26500
+  },
+  {
+    "date": "2021-04-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 564,
+    "usedPoints": 31100
+  },
+  {
+    "date": "2021-04-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 562,
+    "usedPoints": 38400
+  },
+  {
+    "date": "2021-04-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 466,
+    "usedPoints": 18450
+  },
+  {
+    "date": "2021-04-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 455,
+    "usedPoints": 40960
+  },
+  {
+    "date": "2021-04-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 365,
+    "usedPoints": 32850
+  },
+  {
+    "date": "2021-04-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 447,
+    "usedPoints": 38200
+  },
+  {
+    "date": "2021-04-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 344,
+    "usedPoints": 23050
+  },
+  {
+    "date": "2021-04-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 455,
+    "usedPoints": 39000
+  },
+  {
+    "date": "2021-04-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 552,
+    "usedPoints": 27700
+  },
+  {
+    "date": "2021-04-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 503,
+    "usedPoints": 21050
+  },
+  {
+    "date": "2021-04-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 400,
+    "usedPoints": 28770
+  },
+  {
+    "date": "2021-04-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 330,
+    "usedPoints": 25950
+  },
+  {
+    "date": "2021-04-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 386,
+    "usedPoints": 32050
+  },
+  {
+    "date": "2021-04-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 355,
+    "usedPoints": 28300
+  },
+  {
+    "date": "2021-04-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 408,
+    "usedPoints": 30600
+  },
+  {
+    "date": "2021-04-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 548,
+    "usedPoints": 33850
+  },
+  {
+    "date": "2021-04-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 529,
+    "usedPoints": 32750
+  },
+  {
+    "date": "2021-04-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 404,
+    "usedPoints": 27150
+  },
+  {
+    "date": "2021-04-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 652,
+    "usedPoints": 24300
+  },
+  {
+    "date": "2021-04-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 396,
+    "usedPoints": 22150
+  },
+  {
+    "date": "2021-04-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 440,
+    "usedPoints": 21550
+  },
+  {
+    "date": "2021-04-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 400,
+    "usedPoints": 26750
+  },
+  {
+    "date": "2021-04-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 499,
+    "usedPoints": 29200
+  },
+  {
+    "date": "2021-04-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 465,
+    "usedPoints": 21700
+  },
+  {
+    "date": "2021-04-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 446,
+    "usedPoints": 33970
+  },
+  {
+    "date": "2021-04-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 381,
+    "usedPoints": 51750
+  },
+  {
+    "date": "2021-04-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 420,
+    "usedPoints": 35900
+  },
+  {
+    "date": "2021-04-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 418,
+    "usedPoints": 33100
+  },
+  {
+    "date": "2021-04-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 557,
+    "usedPoints": 29350
+  },
+  {
+    "date": "2021-05-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 582,
+    "usedPoints": 38910
+  },
+  {
+    "date": "2021-05-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 547,
+    "usedPoints": 31060
+  },
+  {
+    "date": "2021-05-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 412,
+    "usedPoints": 46600
+  },
+  {
+    "date": "2021-05-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 314,
+    "usedPoints": 15900
+  },
+  {
+    "date": "2021-05-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 454,
+    "usedPoints": 44850
+  },
+  {
+    "date": "2021-05-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 372,
+    "usedPoints": 21600
+  },
+  {
+    "date": "2021-05-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 585,
+    "usedPoints": 31350
+  },
+  {
+    "date": "2021-05-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1589,
+    "usedPoints": 27700
+  },
+  {
+    "date": "2021-05-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 440,
+    "usedPoints": 20100
+  },
+  {
+    "date": "2021-05-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 382,
+    "usedPoints": 31400
+  },
+  {
+    "date": "2021-05-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 356,
+    "usedPoints": 23860
+  },
+  {
+    "date": "2021-05-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 442,
+    "usedPoints": 36500
+  },
+  {
+    "date": "2021-05-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 461,
+    "usedPoints": 32000
+  },
+  {
+    "date": "2021-05-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 357,
+    "usedPoints": 21300
+  },
+  {
+    "date": "2021-05-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 358,
+    "usedPoints": 21160
+  },
+  {
+    "date": "2021-05-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 279,
+    "usedPoints": 15350
+  },
+  {
+    "date": "2021-05-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 331,
+    "usedPoints": 51950
+  },
+  {
+    "date": "2021-05-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 308,
+    "usedPoints": 41250
+  },
+  {
+    "date": "2021-05-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 313,
+    "usedPoints": 19350
+  },
+  {
+    "date": "2021-05-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 255,
+    "usedPoints": 18500
+  },
+  {
+    "date": "2021-05-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 312,
+    "usedPoints": 22700
+  },
+  {
+    "date": "2021-05-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 361,
+    "usedPoints": 23960
+  },
+  {
+    "date": "2021-05-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 298,
+    "usedPoints": 18660
+  },
+  {
+    "date": "2021-05-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 577,
+    "usedPoints": 85510
+  },
+  {
+    "date": "2021-05-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1175,
+    "usedPoints": 86300
+  },
+  {
+    "date": "2021-05-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1014,
+    "usedPoints": 31860
+  },
+  {
+    "date": "2021-05-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 717,
+    "usedPoints": 25650
+  },
+  {
+    "date": "2021-05-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 606,
+    "usedPoints": 18350
+  },
+  {
+    "date": "2021-05-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 750,
+    "usedPoints": 27800
+  },
+  {
+    "date": "2021-05-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 732,
+    "usedPoints": 25350
+  },
+  {
+    "date": "2021-05-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 588,
+    "usedPoints": 24700
+  },
+  {
+    "date": "2021-06-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1564,
+    "usedPoints": 22650
+  },
+  {
+    "date": "2021-06-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 211,
+    "usedPoints": 45850
+  },
+  {
+    "date": "2021-06-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 199,
+    "usedPoints": 31200
+  },
+  {
+    "date": "2021-06-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 374,
+    "usedPoints": 55250
+  },
+  {
+    "date": "2021-06-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 304,
+    "usedPoints": 25400
+  },
+  {
+    "date": "2021-06-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 275,
+    "usedPoints": 13750
+  },
+  {
+    "date": "2021-06-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 328,
+    "usedPoints": 46250
+  },
+  {
+    "date": "2021-06-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2660,
+    "usedPoints": 70650
+  },
+  {
+    "date": "2021-06-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 416,
+    "usedPoints": 52800
+  },
+  {
+    "date": "2021-06-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 279,
+    "usedPoints": 33500
+  },
+  {
+    "date": "2021-06-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 356,
+    "usedPoints": 40800
+  },
+  {
+    "date": "2021-06-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 365,
+    "usedPoints": 32600
+  },
+  {
+    "date": "2021-06-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 323,
+    "usedPoints": 21650
+  },
+  {
+    "date": "2021-06-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 351,
+    "usedPoints": 48450
+  },
+  {
+    "date": "2021-06-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 288,
+    "usedPoints": 25500
+  },
+  {
+    "date": "2021-06-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 489,
+    "usedPoints": 57900
+  },
+  {
+    "date": "2021-06-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 664,
+    "usedPoints": 120750
+  },
+  {
+    "date": "2021-06-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 499,
+    "usedPoints": 70550
+  },
+  {
+    "date": "2021-06-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 369,
+    "usedPoints": 29410
+  },
+  {
+    "date": "2021-06-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 323,
+    "usedPoints": 36450
+  },
+  {
+    "date": "2021-06-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 413,
+    "usedPoints": 67550
+  },
+  {
+    "date": "2021-06-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 389,
+    "usedPoints": 48900
+  },
+  {
+    "date": "2021-06-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 482,
+    "usedPoints": 71250
+  },
+  {
+    "date": "2021-06-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 414,
+    "usedPoints": 44550
+  },
+  {
+    "date": "2021-06-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 461,
+    "usedPoints": 66350
+  },
+  {
+    "date": "2021-06-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 494,
+    "usedPoints": 42850
+  },
+  {
+    "date": "2021-06-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 516,
+    "usedPoints": 57150
+  },
+  {
+    "date": "2021-06-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 378,
+    "usedPoints": 84400
+  },
+  {
+    "date": "2021-06-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 377,
+    "usedPoints": 52100
+  },
+  {
+    "date": "2021-06-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 370,
+    "usedPoints": 53300
+  },
+  {
+    "date": "2021-07-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 377,
+    "usedPoints": 21300
+  },
+  {
+    "date": "2021-07-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 886,
+    "usedPoints": 28750
+  },
+  {
+    "date": "2021-07-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1255,
+    "usedPoints": 31250
+  },
+  {
+    "date": "2021-07-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 537,
+    "usedPoints": 27600
+  },
+  {
+    "date": "2021-07-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 358,
+    "usedPoints": 17700
+  },
+  {
+    "date": "2021-07-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 796,
+    "usedPoints": 39800
+  },
+  {
+    "date": "2021-07-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 439,
+    "usedPoints": 43950
+  },
+  {
+    "date": "2021-07-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 402,
+    "usedPoints": 26900
+  },
+  {
+    "date": "2021-07-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 415,
+    "usedPoints": 23200
+  },
+  {
+    "date": "2021-07-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 518,
+    "usedPoints": 34000
+  },
+  {
+    "date": "2021-07-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 490,
+    "usedPoints": 19100
+  },
+  {
+    "date": "2021-07-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 407,
+    "usedPoints": 17400
+  },
+  {
+    "date": "2021-07-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 407,
+    "usedPoints": 57650
+  },
+  {
+    "date": "2021-07-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 428,
+    "usedPoints": 43250
+  },
+  {
+    "date": "2021-07-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 317,
+    "usedPoints": 19900
+  },
+  {
+    "date": "2021-07-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 402,
+    "usedPoints": 35200
+  },
+  {
+    "date": "2021-07-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 442,
+    "usedPoints": 31550
+  },
+  {
+    "date": "2021-07-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 415,
+    "usedPoints": 18450
+  },
+  {
+    "date": "2021-07-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 393,
+    "usedPoints": 37850
+  },
+  {
+    "date": "2021-07-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 392,
+    "usedPoints": 27350
+  },
+  {
+    "date": "2021-07-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 385,
+    "usedPoints": 34500
+  },
+  {
+    "date": "2021-07-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 278,
+    "usedPoints": 12650
+  },
+  {
+    "date": "2021-07-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 420,
+    "usedPoints": 33600
+  },
+  {
+    "date": "2021-07-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 357,
+    "usedPoints": 23900
+  },
+  {
+    "date": "2021-07-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 362,
+    "usedPoints": 22150
+  },
+  {
+    "date": "2021-07-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 335,
+    "usedPoints": 30850
+  },
+  {
+    "date": "2021-07-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 303,
+    "usedPoints": 10850
+  },
+  {
+    "date": "2021-07-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 311,
+    "usedPoints": 22100
+  },
+  {
+    "date": "2021-07-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 505,
+    "usedPoints": 43700
+  },
+  {
+    "date": "2021-07-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 349,
+    "usedPoints": 24500
+  },
+  {
+    "date": "2021-07-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 389,
+    "usedPoints": 25850
+  },
+  {
+    "date": "2021-08-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1567,
+    "usedPoints": 22650
+  },
+  {
+    "date": "2021-08-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 613,
+    "usedPoints": 29300
+  },
+  {
+    "date": "2021-08-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 358,
+    "usedPoints": 15900
+  },
+  {
+    "date": "2021-08-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 367,
+    "usedPoints": 28550
+  },
+  {
+    "date": "2021-08-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 333,
+    "usedPoints": 21100
+  },
+  {
+    "date": "2021-08-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 328,
+    "usedPoints": 22300
+  },
+  {
+    "date": "2021-08-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 400,
+    "usedPoints": 19350
+  },
+  {
+    "date": "2021-08-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 357,
+    "usedPoints": 15500
+  },
+  {
+    "date": "2021-08-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 342,
+    "usedPoints": 10500
+  },
+  {
+    "date": "2021-08-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 308,
+    "usedPoints": 30350
+  },
+  {
+    "date": "2021-08-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 375,
+    "usedPoints": 41250
+  },
+  {
+    "date": "2021-08-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 368,
+    "usedPoints": 37350
+  },
+  {
+    "date": "2021-08-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 471,
+    "usedPoints": 28060
+  },
+  {
+    "date": "2021-08-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 560,
+    "usedPoints": 41250
+  },
+  {
+    "date": "2021-08-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 454,
+    "usedPoints": 28350
+  },
+  {
+    "date": "2021-08-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 442,
+    "usedPoints": 41850
+  },
+  {
+    "date": "2021-08-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 349,
+    "usedPoints": 31750
+  },
+  {
+    "date": "2021-08-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 391,
+    "usedPoints": 37000
+  },
+  {
+    "date": "2021-08-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 364,
+    "usedPoints": 33150
+  },
+  {
+    "date": "2021-08-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 381,
+    "usedPoints": 24350
+  },
+  {
+    "date": "2021-08-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 471,
+    "usedPoints": 39250
+  },
+  {
+    "date": "2021-08-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 406,
+    "usedPoints": 27250
+  },
+  {
+    "date": "2021-08-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 463,
+    "usedPoints": 66400
+  },
+  {
+    "date": "2021-08-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 382,
+    "usedPoints": 31650
+  },
+  {
+    "date": "2021-08-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 351,
+    "usedPoints": 32700
+  },
+  {
+    "date": "2021-08-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 355,
+    "usedPoints": 37000
+  },
+  {
+    "date": "2021-08-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 805,
+    "usedPoints": 54400
+  },
+  {
+    "date": "2021-08-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 852,
+    "usedPoints": 66050
+  },
+  {
+    "date": "2021-08-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 912,
+    "usedPoints": 56650
+  },
+  {
+    "date": "2021-08-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 395,
+    "usedPoints": 29700
+  },
+  {
+    "date": "2021-08-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 409,
+    "usedPoints": 29000
+  },
+  {
+    "date": "2021-09-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1025,
+    "usedPoints": 35200
+  },
+  {
+    "date": "2021-09-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 335,
+    "usedPoints": 23700
+  },
+  {
+    "date": "2021-09-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 403,
+    "usedPoints": 20250
+  },
+  {
+    "date": "2021-09-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 522,
+    "usedPoints": 30850
+  },
+  {
+    "date": "2021-09-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 480,
+    "usedPoints": 25800
+  },
+  {
+    "date": "2021-09-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 426,
+    "usedPoints": 37650
+  },
+  {
+    "date": "2021-09-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 390,
+    "usedPoints": 27900
+  },
+  {
+    "date": "2021-09-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 415,
+    "usedPoints": 31356
+  },
+  {
+    "date": "2021-09-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 355,
+    "usedPoints": 18952
+  },
+  {
+    "date": "2021-09-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 388,
+    "usedPoints": 25450
+  },
+  {
+    "date": "2021-09-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 466,
+    "usedPoints": 22350
+  },
+  {
+    "date": "2021-09-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 411,
+    "usedPoints": 21500
+  },
+  {
+    "date": "2021-09-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 340,
+    "usedPoints": 32600
+  },
+  {
+    "date": "2021-09-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 335,
+    "usedPoints": 24250
+  },
+  {
+    "date": "2021-09-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 445,
+    "usedPoints": 31300
+  },
+  {
+    "date": "2021-09-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 435,
+    "usedPoints": 23100
+  },
+  {
+    "date": "2021-09-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 431,
+    "usedPoints": 18300
+  },
+  {
+    "date": "2021-09-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 530,
+    "usedPoints": 26500
+  },
+  {
+    "date": "2021-09-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 504,
+    "usedPoints": 24450
+  },
+  {
+    "date": "2021-09-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 459,
+    "usedPoints": 48200
+  },
+  {
+    "date": "2021-09-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 438,
+    "usedPoints": 52000
+  },
+  {
+    "date": "2021-09-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 477,
+    "usedPoints": 45450
+  },
+  {
+    "date": "2021-09-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 842,
+    "usedPoints": 16300
+  },
+  {
+    "date": "2021-09-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 635,
+    "usedPoints": 29750
+  },
+  {
+    "date": "2021-09-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 937,
+    "usedPoints": 32800
+  },
+  {
+    "date": "2021-09-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 571,
+    "usedPoints": 29500
+  },
+  {
+    "date": "2021-09-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 372,
+    "usedPoints": 34600
+  },
+  {
+    "date": "2021-09-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 328,
+    "usedPoints": 26300
+  },
+  {
+    "date": "2021-09-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 420,
+    "usedPoints": 36850
+  },
+  {
+    "date": "2021-09-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 403,
+    "usedPoints": 41050
+  },
+  {
+    "date": "2021-10-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 510,
+    "usedPoints": 28200
+  },
+  {
+    "date": "2021-10-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 700,
+    "usedPoints": 30350
+  },
+  {
+    "date": "2021-10-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 655,
+    "usedPoints": 28100
+  },
+  {
+    "date": "2021-10-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 472,
+    "usedPoints": 29800
+  },
+  {
+    "date": "2021-10-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 403,
+    "usedPoints": 20450
+  },
+  {
+    "date": "2021-10-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 890,
+    "usedPoints": 51350
+  },
+  {
+    "date": "2021-10-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1759,
+    "usedPoints": 71000
+  },
+  {
+    "date": "2021-10-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 548,
+    "usedPoints": 36700
+  },
+  {
+    "date": "2021-10-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 675,
+    "usedPoints": 27850
+  },
+  {
+    "date": "2021-10-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 632,
+    "usedPoints": 32000
+  },
+  {
+    "date": "2021-10-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 421,
+    "usedPoints": 52800
+  },
+  {
+    "date": "2021-10-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 430,
+    "usedPoints": 34950
+  },
+  {
+    "date": "2021-10-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 557,
+    "usedPoints": 38120
+  },
+  {
+    "date": "2021-10-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 505,
+    "usedPoints": 21900
+  },
+  {
+    "date": "2021-10-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 462,
+    "usedPoints": 30800
+  },
+  {
+    "date": "2021-10-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 596,
+    "usedPoints": 40300
+  },
+  {
+    "date": "2021-10-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 523,
+    "usedPoints": 20350
+  },
+  {
+    "date": "2021-10-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 381,
+    "usedPoints": 29050
+  },
+  {
+    "date": "2021-10-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 375,
+    "usedPoints": 33110
+  },
+  {
+    "date": "2021-10-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 410,
+    "usedPoints": 27200
+  },
+  {
+    "date": "2021-10-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 380,
+    "usedPoints": 26100
+  },
+  {
+    "date": "2021-10-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 466,
+    "usedPoints": 37900
+  },
+  {
+    "date": "2021-10-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 572,
+    "usedPoints": 26350
+  },
+  {
+    "date": "2021-10-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 543,
+    "usedPoints": 28550
+  },
+  {
+    "date": "2021-10-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 385,
+    "usedPoints": 38500
+  },
+  {
+    "date": "2021-10-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 363,
+    "usedPoints": 28800
+  },
+  {
+    "date": "2021-10-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 434,
+    "usedPoints": 33550
+  },
+  {
+    "date": "2021-10-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 454,
+    "usedPoints": 50250
+  },
+  {
+    "date": "2021-10-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 479,
+    "usedPoints": 34650
+  },
+  {
+    "date": "2021-10-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 650,
+    "usedPoints": 35600
+  },
+  {
+    "date": "2021-10-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 610,
+    "usedPoints": 47800
+  },
+  {
+    "date": "2021-11-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 470,
+    "usedPoints": 26300
+  },
+  {
+    "date": "2021-11-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1970,
+    "usedPoints": 116150
+  },
+  {
+    "date": "2021-11-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2032,
+    "usedPoints": 100800
+  },
+  {
+    "date": "2021-11-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1442,
+    "usedPoints": 69850
+  },
+  {
+    "date": "2021-11-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1101,
+    "usedPoints": 52950
+  },
+  {
+    "date": "2021-11-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1371,
+    "usedPoints": 50550
+  },
+  {
+    "date": "2021-11-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1151,
+    "usedPoints": 41950
+  },
+  {
+    "date": "2021-11-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 761,
+    "usedPoints": 41750
+  },
+  {
+    "date": "2021-11-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 658,
+    "usedPoints": 26060
+  },
+  {
+    "date": "2021-11-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 809,
+    "usedPoints": 39000
+  },
+  {
+    "date": "2021-11-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1118,
+    "usedPoints": 52150
+  },
+  {
+    "date": "2021-11-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 982,
+    "usedPoints": 45550
+  },
+  {
+    "date": "2021-11-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 523,
+    "usedPoints": 42900
+  },
+  {
+    "date": "2021-11-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 478,
+    "usedPoints": 16050
+  },
+  {
+    "date": "2021-11-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 389,
+    "usedPoints": 39750
+  },
+  {
+    "date": "2021-11-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 366,
+    "usedPoints": 68850
+  },
+  {
+    "date": "2021-11-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 409,
+    "usedPoints": 40600
+  },
+  {
+    "date": "2021-11-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 354,
+    "usedPoints": 26650
+  },
+  {
+    "date": "2021-11-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 434,
+    "usedPoints": 29350
+  },
+  {
+    "date": "2021-11-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 544,
+    "usedPoints": 43100
+  },
+  {
+    "date": "2021-11-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 531,
+    "usedPoints": 32350
+  },
+  {
+    "date": "2021-11-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 428,
+    "usedPoints": 33010
+  },
+  {
+    "date": "2021-11-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 382,
+    "usedPoints": 27150
+  },
+  {
+    "date": "2021-11-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 436,
+    "usedPoints": 42250
+  },
+  {
+    "date": "2021-11-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 584,
+    "usedPoints": 49400
+  },
+  {
+    "date": "2021-11-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 774,
+    "usedPoints": 65450
+  },
+  {
+    "date": "2021-11-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 771,
+    "usedPoints": 63200
+  },
+  {
+    "date": "2021-11-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 775,
+    "usedPoints": 59900
+  },
+  {
+    "date": "2021-11-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 574,
+    "usedPoints": 49900
+  },
+  {
+    "date": "2021-11-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 677,
+    "usedPoints": 53800
+  },
+  {
+    "date": "2021-12-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 716,
+    "usedPoints": 42750
+  },
+  {
+    "date": "2021-12-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 543,
+    "usedPoints": 37100
+  },
+  {
+    "date": "2021-12-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 684,
+    "usedPoints": 36200
+  },
+  {
+    "date": "2021-12-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 713,
+    "usedPoints": 40450
+  },
+  {
+    "date": "2021-12-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 661,
+    "usedPoints": 29350
+  },
+  {
+    "date": "2021-12-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 630,
+    "usedPoints": 30850
+  },
+  {
+    "date": "2021-12-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 627,
+    "usedPoints": 42750
+  },
+  {
+    "date": "2021-12-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1798,
+    "usedPoints": 493120
+  },
+  {
+    "date": "2021-12-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1132,
+    "usedPoints": 288510
+  },
+  {
+    "date": "2021-12-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 990,
+    "usedPoints": 191610
+  },
+  {
+    "date": "2021-12-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 845,
+    "usedPoints": 97750
+  },
+  {
+    "date": "2021-12-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1119,
+    "usedPoints": 180260
+  },
+  {
+    "date": "2021-12-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1011,
+    "usedPoints": 193100
+  },
+  {
+    "date": "2021-12-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 833,
+    "usedPoints": 122250
+  },
+  {
+    "date": "2021-12-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 890,
+    "usedPoints": 153800
+  },
+  {
+    "date": "2021-12-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 891,
+    "usedPoints": 148800
+  },
+  {
+    "date": "2021-12-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 887,
+    "usedPoints": 105250
+  },
+  {
+    "date": "2021-12-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 967,
+    "usedPoints": 104150
+  },
+  {
+    "date": "2021-12-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 904,
+    "usedPoints": 93400
+  },
+  {
+    "date": "2021-12-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 927,
+    "usedPoints": 140950
+  },
+  {
+    "date": "2021-12-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 867,
+    "usedPoints": 111650
+  },
+  {
+    "date": "2021-12-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 909,
+    "usedPoints": 137200
+  },
+  {
+    "date": "2021-12-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 933,
+    "usedPoints": 103700
+  },
+  {
+    "date": "2021-12-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 956,
+    "usedPoints": 100450
+  },
+  {
+    "date": "2021-12-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 920,
+    "usedPoints": 87350
+  },
+  {
+    "date": "2021-12-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 936,
+    "usedPoints": 99050
+  },
+  {
+    "date": "2021-12-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1055,
+    "usedPoints": 139800
+  },
+  {
+    "date": "2021-12-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 969,
+    "usedPoints": 130800
+  },
+  {
+    "date": "2021-12-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1167,
+    "usedPoints": 169700
+  },
+  {
+    "date": "2021-12-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1224,
+    "usedPoints": 215800
+  },
+  {
+    "date": "2021-12-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1279,
+    "usedPoints": 236550
+  },
+  {
+    "date": "2022-01-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1273,
+    "usedPoints": 55900
+  },
+  {
+    "date": "2022-01-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1194,
+    "usedPoints": 63900
+  },
+  {
+    "date": "2022-01-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1177,
+    "usedPoints": 95650
+  },
+  {
+    "date": "2022-01-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1287,
+    "usedPoints": 77800
+  },
+  {
+    "date": "2022-01-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1054,
+    "usedPoints": 92600
+  },
+  {
+    "date": "2022-01-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 823,
+    "usedPoints": 85700
+  },
+  {
+    "date": "2022-01-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 810,
+    "usedPoints": 72450
+  },
+  {
+    "date": "2022-01-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1159,
+    "usedPoints": 129800
+  },
+  {
+    "date": "2022-01-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1132,
+    "usedPoints": 91150
+  },
+  {
+    "date": "2022-01-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 941,
+    "usedPoints": 109750
+  },
+  {
+    "date": "2022-01-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 865,
+    "usedPoints": 77100
+  },
+  {
+    "date": "2022-01-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 912,
+    "usedPoints": 86900
+  },
+  {
+    "date": "2022-01-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 944,
+    "usedPoints": 95100
+  },
+  {
+    "date": "2022-01-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1098,
+    "usedPoints": 102500
+  },
+  {
+    "date": "2022-01-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1240,
+    "usedPoints": 101060
+  },
+  {
+    "date": "2022-01-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1373,
+    "usedPoints": 101950
+  },
+  {
+    "date": "2022-01-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1107,
+    "usedPoints": 115500
+  },
+  {
+    "date": "2022-01-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1208,
+    "usedPoints": 92500
+  },
+  {
+    "date": "2022-01-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1656,
+    "usedPoints": 108950
+  },
+  {
+    "date": "2022-01-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1805,
+    "usedPoints": 71910
+  },
+  {
+    "date": "2022-01-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2031,
+    "usedPoints": 142500
+  },
+  {
+    "date": "2022-01-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2075,
+    "usedPoints": 80550
+  },
+  {
+    "date": "2022-01-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2164,
+    "usedPoints": 84700
+  },
+  {
+    "date": "2022-01-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1796,
+    "usedPoints": 92901
+  },
+  {
+    "date": "2022-01-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1895,
+    "usedPoints": 62000
+  },
+  {
+    "date": "2022-01-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1734,
+    "usedPoints": 64050
+  },
+  {
+    "date": "2022-01-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 938,
+    "usedPoints": 78850
+  },
+  {
+    "date": "2022-01-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 881,
+    "usedPoints": 63150
+  },
+  {
+    "date": "2022-01-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1032,
+    "usedPoints": 68100
+  },
+  {
+    "date": "2022-01-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1142,
+    "usedPoints": 72650
+  },
+  {
+    "date": "2022-01-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 812,
+    "usedPoints": 74600
+  },
+  {
+    "date": "2022-02-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 399,
+    "usedPoints": 20800
+  },
+  {
+    "date": "2022-02-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 691,
+    "usedPoints": 25550
+  },
+  {
+    "date": "2022-02-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 860,
+    "usedPoints": 28450
+  },
+  {
+    "date": "2022-02-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 800,
+    "usedPoints": 54400
+  },
+  {
+    "date": "2022-02-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 765,
+    "usedPoints": 40700
+  },
+  {
+    "date": "2022-02-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 699,
+    "usedPoints": 26650
+  },
+  {
+    "date": "2022-02-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 583,
+    "usedPoints": 58250
+  },
+  {
+    "date": "2022-02-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 599,
+    "usedPoints": 39100
+  },
+  {
+    "date": "2022-02-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 625,
+    "usedPoints": 60800
+  },
+  {
+    "date": "2022-02-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 592,
+    "usedPoints": 53650
+  },
+  {
+    "date": "2022-02-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 547,
+    "usedPoints": 35950
+  },
+  {
+    "date": "2022-02-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 689,
+    "usedPoints": 36450
+  },
+  {
+    "date": "2022-02-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 725,
+    "usedPoints": 57050
+  },
+  {
+    "date": "2022-02-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 494,
+    "usedPoints": 25900
+  },
+  {
+    "date": "2022-02-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 429,
+    "usedPoints": 18150
+  },
+  {
+    "date": "2022-02-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 467,
+    "usedPoints": 32050
+  },
+  {
+    "date": "2022-02-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 584,
+    "usedPoints": 34900
+  },
+  {
+    "date": "2022-02-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 573,
+    "usedPoints": 33510
+  },
+  {
+    "date": "2022-02-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 589,
+    "usedPoints": 40200
+  },
+  {
+    "date": "2022-02-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 654,
+    "usedPoints": 41650
+  },
+  {
+    "date": "2022-02-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 901,
+    "usedPoints": 60700
+  },
+  {
+    "date": "2022-02-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 4717,
+    "usedPoints": 40600
+  },
+  {
+    "date": "2022-02-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1611,
+    "usedPoints": 45750
+  },
+  {
+    "date": "2022-02-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 534,
+    "usedPoints": 29300
+  },
+  {
+    "date": "2022-02-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 174,
+    "usedPoints": 40200
+  },
+  {
+    "date": "2022-02-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1434,
+    "usedPoints": 38150
+  },
+  {
+    "date": "2022-02-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 789,
+    "usedPoints": 51550
+  },
+  {
+    "date": "2022-02-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 864,
+    "usedPoints": 88400
+  },
+  {
+    "date": "2022-03-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 519,
+    "usedPoints": 38900
+  },
+  {
+    "date": "2022-03-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 662,
+    "usedPoints": 40950
+  },
+  {
+    "date": "2022-03-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1109,
+    "usedPoints": 31250
+  },
+  {
+    "date": "2022-03-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2147,
+    "usedPoints": 25450
+  },
+  {
+    "date": "2022-03-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 676,
+    "usedPoints": 40700
+  },
+  {
+    "date": "2022-03-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 659,
+    "usedPoints": 35450
+  },
+  {
+    "date": "2022-03-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 560,
+    "usedPoints": 34550
+  },
+  {
+    "date": "2022-03-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 522,
+    "usedPoints": 31250
+  },
+  {
+    "date": "2022-03-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 604,
+    "usedPoints": 40750
+  },
+  {
+    "date": "2022-03-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 533,
+    "usedPoints": 27700
+  },
+  {
+    "date": "2022-03-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 603,
+    "usedPoints": 30950
+  },
+  {
+    "date": "2022-03-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 627,
+    "usedPoints": 36950
+  },
+  {
+    "date": "2022-03-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 644,
+    "usedPoints": 24000
+  },
+  {
+    "date": "2022-03-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 555,
+    "usedPoints": 62700
+  },
+  {
+    "date": "2022-03-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 531,
+    "usedPoints": 31700
+  },
+  {
+    "date": "2022-03-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 606,
+    "usedPoints": 36000
+  },
+  {
+    "date": "2022-03-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 542,
+    "usedPoints": 27500
+  },
+  {
+    "date": "2022-03-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 587,
+    "usedPoints": 40400
+  },
+  {
+    "date": "2022-03-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 680,
+    "usedPoints": 25550
+  },
+  {
+    "date": "2022-03-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 720,
+    "usedPoints": 35950
+  },
+  {
+    "date": "2022-03-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 507,
+    "usedPoints": 28800
+  },
+  {
+    "date": "2022-03-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 478,
+    "usedPoints": 15200
+  },
+  {
+    "date": "2022-03-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 617,
+    "usedPoints": 44200
+  },
+  {
+    "date": "2022-03-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 672,
+    "usedPoints": 46050
+  },
+  {
+    "date": "2022-03-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 664,
+    "usedPoints": 53200
+  },
+  {
+    "date": "2022-03-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 776,
+    "usedPoints": 40600
+  },
+  {
+    "date": "2022-03-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 780,
+    "usedPoints": 43700
+  },
+  {
+    "date": "2022-03-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 645,
+    "usedPoints": 58950
+  },
+  {
+    "date": "2022-03-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 552,
+    "usedPoints": 19800
+  },
+  {
+    "date": "2022-03-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 603,
+    "usedPoints": 47400
+  },
+  {
+    "date": "2022-03-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 749,
+    "usedPoints": 44200
+  },
+  {
+    "date": "2022-04-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2033,
+    "usedPoints": 29100
+  },
+  {
+    "date": "2022-04-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 778,
+    "usedPoints": 41050
+  },
+  {
+    "date": "2022-04-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 935,
+    "usedPoints": 28560
+  },
+  {
+    "date": "2022-04-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 960,
+    "usedPoints": 39600
+  },
+  {
+    "date": "2022-04-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 757,
+    "usedPoints": 24355
+  },
+  {
+    "date": "2022-04-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 665,
+    "usedPoints": 43252
+  },
+  {
+    "date": "2022-04-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 725,
+    "usedPoints": 38200
+  },
+  {
+    "date": "2022-04-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 681,
+    "usedPoints": 31000
+  },
+  {
+    "date": "2022-04-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 881,
+    "usedPoints": 37550
+  },
+  {
+    "date": "2022-04-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 861,
+    "usedPoints": 29850
+  },
+  {
+    "date": "2022-04-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 694,
+    "usedPoints": 26750
+  },
+  {
+    "date": "2022-04-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 727,
+    "usedPoints": 47000
+  },
+  {
+    "date": "2022-04-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 893,
+    "usedPoints": 60400
+  },
+  {
+    "date": "2022-04-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 856,
+    "usedPoints": 34400
+  },
+  {
+    "date": "2022-04-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1009,
+    "usedPoints": 44300
+  },
+  {
+    "date": "2022-04-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 979,
+    "usedPoints": 37850
+  },
+  {
+    "date": "2022-04-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 911,
+    "usedPoints": 36900
+  },
+  {
+    "date": "2022-04-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 851,
+    "usedPoints": 43050
+  },
+  {
+    "date": "2022-04-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 858,
+    "usedPoints": 41300
+  },
+  {
+    "date": "2022-04-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 676,
+    "usedPoints": 47350
+  },
+  {
+    "date": "2022-04-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 639,
+    "usedPoints": 31700
+  },
+  {
+    "date": "2022-04-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 618,
+    "usedPoints": 24450
+  },
+  {
+    "date": "2022-04-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 819,
+    "usedPoints": 33850
+  },
+  {
+    "date": "2022-04-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 828,
+    "usedPoints": 31400
+  },
+  {
+    "date": "2022-04-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 746,
+    "usedPoints": 57950
+  },
+  {
+    "date": "2022-04-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 643,
+    "usedPoints": 42700
+  },
+  {
+    "date": "2022-04-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 695,
+    "usedPoints": 35600
+  },
+  {
+    "date": "2022-04-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 729,
+    "usedPoints": 64250
+  },
+  {
+    "date": "2022-04-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 689,
+    "usedPoints": 31950
+  },
+  {
+    "date": "2022-04-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 811,
+    "usedPoints": 35950
+  },
+  {
+    "date": "2022-05-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2584,
+    "usedPoints": 22400
+  },
+  {
+    "date": "2022-05-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1169,
+    "usedPoints": 57100
+  },
+  {
+    "date": "2022-05-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1366,
+    "usedPoints": 40750
+  },
+  {
+    "date": "2022-05-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 966,
+    "usedPoints": 35200
+  },
+  {
+    "date": "2022-05-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 621,
+    "usedPoints": 34050
+  },
+  {
+    "date": "2022-05-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 682,
+    "usedPoints": 23050
+  },
+  {
+    "date": "2022-05-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 765,
+    "usedPoints": 29660
+  },
+  {
+    "date": "2022-05-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 710,
+    "usedPoints": 29350
+  },
+  {
+    "date": "2022-05-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 670,
+    "usedPoints": 47100
+  },
+  {
+    "date": "2022-05-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 626,
+    "usedPoints": 62500
+  },
+  {
+    "date": "2022-05-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 593,
+    "usedPoints": 31000
+  },
+  {
+    "date": "2022-05-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 622,
+    "usedPoints": 24300
+  },
+  {
+    "date": "2022-05-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 643,
+    "usedPoints": 43700
+  },
+  {
+    "date": "2022-05-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 982,
+    "usedPoints": 43850
+  },
+  {
+    "date": "2022-05-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 944,
+    "usedPoints": 45600
+  },
+  {
+    "date": "2022-05-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 753,
+    "usedPoints": 62150
+  },
+  {
+    "date": "2022-05-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 641,
+    "usedPoints": 39300
+  },
+  {
+    "date": "2022-05-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1043,
+    "usedPoints": 297255
+  },
+  {
+    "date": "2022-05-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 825,
+    "usedPoints": 141765
+  },
+  {
+    "date": "2022-05-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 988,
+    "usedPoints": 236620
+  },
+  {
+    "date": "2022-05-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 905,
+    "usedPoints": 111020
+  },
+  {
+    "date": "2022-05-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 758,
+    "usedPoints": 54770
+  },
+  {
+    "date": "2022-05-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 692,
+    "usedPoints": 64100
+  },
+  {
+    "date": "2022-05-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 620,
+    "usedPoints": 50400
+  },
+  {
+    "date": "2022-05-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 682,
+    "usedPoints": 46200
+  },
+  {
+    "date": "2022-05-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 632,
+    "usedPoints": 51700
+  },
+  {
+    "date": "2022-05-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 666,
+    "usedPoints": 36100
+  },
+  {
+    "date": "2022-05-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 861,
+    "usedPoints": 44400
+  },
+  {
+    "date": "2022-05-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 785,
+    "usedPoints": 45325
+  },
+  {
+    "date": "2022-05-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 720,
+    "usedPoints": 75410
+  },
+  {
+    "date": "2022-05-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 716,
+    "usedPoints": 49650
+  },
+  {
+    "date": "2022-06-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1376,
+    "usedPoints": 42250
+  },
+  {
+    "date": "2022-06-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1519,
+    "usedPoints": 101720
+  },
+  {
+    "date": "2022-06-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 2110,
+    "usedPoints": 116810
+  },
+  {
+    "date": "2022-06-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1917,
+    "usedPoints": 84450
+  },
+  {
+    "date": "2022-06-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1837,
+    "usedPoints": 69600
+  },
+  {
+    "date": "2022-06-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1567,
+    "usedPoints": 49161
+  },
+  {
+    "date": "2022-06-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1184,
+    "usedPoints": 47607
+  },
+  {
+    "date": "2022-06-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1040,
+    "usedPoints": 35450
+  },
+  {
+    "date": "2022-06-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 957,
+    "usedPoints": 45350
+  },
+  {
+    "date": "2022-06-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 930,
+    "usedPoints": 46200
+  },
+  {
+    "date": "2022-06-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1105,
+    "usedPoints": 62300
+  },
+  {
+    "date": "2022-06-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1408,
+    "usedPoints": 62700
+  },
+  {
+    "date": "2022-06-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 660,
+    "usedPoints": 43200
+  },
+  {
+    "date": "2022-06-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 481,
+    "usedPoints": 22850
+  },
+  {
+    "date": "2022-06-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 550,
+    "usedPoints": 49800
+  },
+  {
+    "date": "2022-06-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 491,
+    "usedPoints": 22900
+  },
+  {
+    "date": "2022-06-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 548,
+    "usedPoints": 33500
+  },
+  {
+    "date": "2022-06-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 712,
+    "usedPoints": 41450
+  },
+  {
+    "date": "2022-06-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 574,
+    "usedPoints": 24350
+  },
+  {
+    "date": "2022-06-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 560,
+    "usedPoints": 57700
+  },
+  {
+    "date": "2022-06-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 514,
+    "usedPoints": 51906
+  },
+  {
+    "date": "2022-06-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 552,
+    "usedPoints": 54801
+  },
+  {
+    "date": "2022-06-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 507,
+    "usedPoints": 22950
+  },
+  {
+    "date": "2022-06-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 562,
+    "usedPoints": 55650
+  },
+  {
+    "date": "2022-06-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 645,
+    "usedPoints": 31800
+  },
+  {
+    "date": "2022-06-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 560,
+    "usedPoints": 30650
+  },
+  {
+    "date": "2022-06-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 649,
+    "usedPoints": 74000
+  },
+  {
+    "date": "2022-06-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 515,
+    "usedPoints": 37100
+  },
+  {
+    "date": "2022-06-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 610,
+    "usedPoints": 51950
+  },
+  {
+    "date": "2022-06-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 720,
+    "usedPoints": 61850
+  },
+  {
+    "date": "2022-07-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1846,
+    "usedPoints": 54500
+  },
+  {
+    "date": "2022-07-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1723,
+    "usedPoints": 42950
+  },
+  {
+    "date": "2022-07-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 795,
+    "usedPoints": 51050
+  },
+  {
+    "date": "2022-07-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 547,
+    "usedPoints": 42100
+  },
+  {
+    "date": "2022-07-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 547,
+    "usedPoints": 40100
+  },
+  {
+    "date": "2022-07-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 350,
+    "usedPoints": 40100
+  },
+  {
+    "date": "2022-07-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 486,
+    "usedPoints": 31500
+  },
+  {
+    "date": "2022-07-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 678,
+    "usedPoints": 35550
+  },
+  {
+    "date": "2022-07-09T00:00:00.000+00:00",
+    "numberOfRewardClaims": 748,
+    "usedPoints": 40100
+  },
+  {
+    "date": "2022-07-10T00:00:00.000+00:00",
+    "numberOfRewardClaims": 670,
+    "usedPoints": 35350
+  },
+  {
+    "date": "2022-07-11T00:00:00.000+00:00",
+    "numberOfRewardClaims": 674,
+    "usedPoints": 29500
+  },
+  {
+    "date": "2022-07-12T00:00:00.000+00:00",
+    "numberOfRewardClaims": 810,
+    "usedPoints": 213570
+  },
+  {
+    "date": "2022-07-13T00:00:00.000+00:00",
+    "numberOfRewardClaims": 549,
+    "usedPoints": 79460
+  },
+  {
+    "date": "2022-07-14T00:00:00.000+00:00",
+    "numberOfRewardClaims": 797,
+    "usedPoints": 150170
+  },
+  {
+    "date": "2022-07-15T00:00:00.000+00:00",
+    "numberOfRewardClaims": 597,
+    "usedPoints": 43500
+  },
+  {
+    "date": "2022-07-16T00:00:00.000+00:00",
+    "numberOfRewardClaims": 734,
+    "usedPoints": 39925
+  },
+  {
+    "date": "2022-07-17T00:00:00.000+00:00",
+    "numberOfRewardClaims": 791,
+    "usedPoints": 31350
+  },
+  {
+    "date": "2022-07-18T00:00:00.000+00:00",
+    "numberOfRewardClaims": 671,
+    "usedPoints": 67700
+  },
+  {
+    "date": "2022-07-19T00:00:00.000+00:00",
+    "numberOfRewardClaims": 567,
+    "usedPoints": 43950
+  },
+  {
+    "date": "2022-07-20T00:00:00.000+00:00",
+    "numberOfRewardClaims": 603,
+    "usedPoints": 37650
+  },
+  {
+    "date": "2022-07-21T00:00:00.000+00:00",
+    "numberOfRewardClaims": 650,
+    "usedPoints": 27550
+  },
+  {
+    "date": "2022-07-22T00:00:00.000+00:00",
+    "numberOfRewardClaims": 758,
+    "usedPoints": 25400
+  },
+  {
+    "date": "2022-07-23T00:00:00.000+00:00",
+    "numberOfRewardClaims": 906,
+    "usedPoints": 26450
+  },
+  {
+    "date": "2022-07-24T00:00:00.000+00:00",
+    "numberOfRewardClaims": 896,
+    "usedPoints": 24250
+  },
+  {
+    "date": "2022-07-25T00:00:00.000+00:00",
+    "numberOfRewardClaims": 733,
+    "usedPoints": 38100
+  },
+  {
+    "date": "2022-07-26T00:00:00.000+00:00",
+    "numberOfRewardClaims": 715,
+    "usedPoints": 23450
+  },
+  {
+    "date": "2022-07-27T00:00:00.000+00:00",
+    "numberOfRewardClaims": 890,
+    "usedPoints": 70250
+  },
+  {
+    "date": "2022-07-28T00:00:00.000+00:00",
+    "numberOfRewardClaims": 817,
+    "usedPoints": 31150
+  },
+  {
+    "date": "2022-07-29T00:00:00.000+00:00",
+    "numberOfRewardClaims": 856,
+    "usedPoints": 49400
+  },
+  {
+    "date": "2022-07-30T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1020,
+    "usedPoints": 52850
+  },
+  {
+    "date": "2022-07-31T00:00:00.000+00:00",
+    "numberOfRewardClaims": 1071,
+    "usedPoints": 43000
+  },
+  {
+    "date": "2022-08-01T00:00:00.000+00:00",
+    "numberOfRewardClaims": 780,
+    "usedPoints": 59250
+  },
+  {
+    "date": "2022-08-02T00:00:00.000+00:00",
+    "numberOfRewardClaims": 684,
+    "usedPoints": 51500
+  },
+  {
+    "date": "2022-08-03T00:00:00.000+00:00",
+    "numberOfRewardClaims": 686,
+    "usedPoints": 41101
+  },
+  {
+    "date": "2022-08-04T00:00:00.000+00:00",
+    "numberOfRewardClaims": 550,
+    "usedPoints": 22600
+  },
+  {
+    "date": "2022-08-05T00:00:00.000+00:00",
+    "numberOfRewardClaims": 688,
+    "usedPoints": 30150
+  },
+  {
+    "date": "2022-08-06T00:00:00.000+00:00",
+    "numberOfRewardClaims": 468,
+    "usedPoints": 8150
+  },
+  {
+    "date": "2022-08-07T00:00:00.000+00:00",
+    "numberOfRewardClaims": 276,
+    "usedPoints": 0
+  },
+  {
+    "date": "2022-08-08T00:00:00.000+00:00",
+    "numberOfRewardClaims": 150,
+    "usedPoints": 0
+  }
+]
