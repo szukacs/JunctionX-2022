@@ -20,6 +20,7 @@ import { useMantineTheme } from '@mantine/core'
 import { transparentize } from 'polished'
 import annotationPlugin from 'chartjs-plugin-annotation'
 import data from '../src/data/activitiesByDay.json'
+import moment from 'moment/moment'
 
 ChartJS.register(
     CategoryScale,
@@ -43,8 +44,15 @@ const normalizedData = Object.entries(data).map(([key, value]) => {
 export const Donut = ({ min, max }) => {
     const theme = useMantineTheme()
 
+    const filteredData = normalizedData.filter(data => {
+        if (!min && !max) {
+            return true
+        }
+        return moment(data.date).isBetween(min, max)
+    })
+
     const createReducedData = (field) => {
-        return normalizedData.reduce((acc, curr) => {
+        return filteredData.reduce((acc, curr) => {
             if (curr[field]) {
                 acc = acc + curr[field]
             }
