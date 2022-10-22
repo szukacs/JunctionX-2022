@@ -5,11 +5,8 @@ import com.example.backend.schema.Event;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.mongodb.core.MongoTemplate;
-import org.springframework.data.mongodb.core.aggregation.AggregationExpression;
-import org.springframework.data.mongodb.core.aggregation.ArithmeticOperators;
 import org.springframework.data.mongodb.core.aggregation.DateOperators;
 import org.springframework.data.mongodb.core.query.Criteria;
-import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -68,28 +65,6 @@ public class WeeklyAnalysisController {
                 sort(Sort.Direction.ASC, "date")
         );
         var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyExpire.class);
-        return ResponseEntity.ok(dailyExpires.getMappedResults());
-    }
-
-    @GetMapping("/grantedPoints")
-    public ResponseEntity<?> getGrantedPoints(
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate from,
-            @RequestParam(required = false) @DateTimeFormat(pattern = "yyyy-MM-dd") LocalDate until
-    ) {
-        var timeCriteria = Criteria.where("date").gte(from).lte(until);
-        var aggregation = newAggregation(
-                match(timeCriteria),
-                //match(Criteria.where("action").is("points_expired")),
-                match(Criteria.where("expdate").exists(true).and("points").gt(0)),
-                project("id", "date", "points"),
-                group("date")
-                        .count().as("numberOfPointGrants")
-                        .sum(absoluteValueOf("points")).as("grantedPoints"),
-                project("numberOfPointGrants", "grantedPoints").and("date").previousOperation(),
-
-                sort(Sort.Direction.ASC, "date")
-        );
-        var dailyExpires = mongoTemplate.aggregate(aggregation, Event.class, DailyGrant.class);
         return ResponseEntity.ok(dailyExpires.getMappedResults());
     }
 
