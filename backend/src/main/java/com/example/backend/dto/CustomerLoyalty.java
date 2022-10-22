@@ -13,4 +13,5 @@ public class CustomerLoyalty {
     private Date lastEventDate;
     private long loyalDays;
     private long spending;
+    private long rewardsClaimed;
 }
