@@ -9,7 +9,7 @@ import {
     PointElement,
     LineElement, Filler, TimeScale
 } from 'chart.js'
-import {Line} from 'react-chartjs-2'
+import {Bar} from 'react-chartjs-2'
 import 'chartjs-adapter-moment'
 import data from '../src/data/pointsExpireAt.json'
 import { useMantineTheme } from '@mantine/core'
@@ -28,7 +28,7 @@ export const ExpiredPoints = ({min, max}) => {
     const theme = useMantineTheme()
 
     return (
-        <Line
+        <Bar
             options={{
                 responsive: true,
                 fill: true,
@@ -43,37 +43,17 @@ export const ExpiredPoints = ({min, max}) => {
                         min,
                         max
                     },
-                    y: {
-                        type: 'linear',
-                        display: true,
-                        position: 'left',
-                    },
-                    y1: {
-                        type: 'linear',
-                        display: true,
-                        position: 'right',
-                        grid: {
-                            drawOnChartArea: false,
-                        },
-                    },
                 },
             }}
             data={{
                 labels: data.map((expiration) => expiration.date),
                 datasets: [
                     {
-                        label: 'Number Of Expires',
-                        data: data.map((expiration) => expiration.numberOfExpires),
-                        yAxisID: 'y',
-                        borderColor: theme.colors.indigo[5],
-                        backgroundColor: transparentize(0.5, theme.colors.indigo[3])
-                    },
-                    {
                         label: 'Expired Points',
                         data: data.map((expiration) => expiration.expiredPoints),
                         yAxisID: 'y1',
                         borderColor: theme.colors.teal[5],
-                        backgroundColor: transparentize(0.5, theme.colors.teal[3])
+                        backgroundColor: theme.colors.teal[3]
                     },
                 ],
             }}

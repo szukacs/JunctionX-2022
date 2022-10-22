@@ -4,6 +4,7 @@ import { ExpiredPoints } from '../../../components/ExpiredPoints'
 import { GrantedPoints } from '../../../components/GrantedPoints'
 import { WeeklyCheckoutsChart } from '../../../components/WeeklyCheckoutsChart'
 import { RewardClaim } from '../../../components/RewardClaim'
+import { DailyCheckoutChart } from '../../../components/DailyCheckoutChart'
 import { DatePicker, DateRangePickerValue } from '@mantine/dates'
 import { useState } from 'react'
 import { ExpirationEffect } from '../../../components/ExpirationEffect'
@@ -63,6 +64,16 @@ const ChartsPage = () => {
                                 <Text align="center">Vertical lines represent expirations</Text>
                             </div>
                             <ExpirationEffect min={startDate} max={endDate} />
+                        </Stack>
+                    </Card>
+                    <Card shadow="sm" p="lg" radius="md" withBorder>
+                        <Stack>
+                            <div>
+                                <Title align="center" order={3}>
+                                    Checkouts 
+                                </Title>
+                            </div>
+                            <DailyCheckoutChart min={startDate} max={endDate} />
                         </Stack>
                     </Card>
                 </SimpleGrid>

@@ -1,16 +1,18 @@
 import { useMantineTheme } from '@mantine/core';
 import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend } from 'chart.js'
-import { Bar } from 'react-chartjs-2'
+import { Line } from 'react-chartjs-2'
 import data from '../src/data/dailyCheckoutsAndAwardedPoints.json'
 import 'chartjs-adapter-moment'
+import { transparentize } from 'polished'
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 export const DailyCheckoutChart = ({min, max}) => {
     const theme = useMantineTheme()
     return (
-        <Bar
+        <Line
             options={{
                 responsive: true,
+                fill: true,
                 plugins: {
                     legend: {
                         display: false
@@ -30,7 +32,9 @@ export const DailyCheckoutChart = ({min, max}) => {
                     {
                         label: 'Daily checkouts',
                         data: data.map((checkout) => checkout.count),
-                        backgroundColor: theme.colors.teal[5]
+                        borderColor: theme.colors.teal[5],
+                        backgroundColor: transparentize(0.5, theme.colors.teal[3]),
+                        pointRadius: 0
                     },
                 ],
             }}

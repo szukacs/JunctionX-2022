@@ -13,9 +13,24 @@ export const WeeklyCheckoutsChart = () => {
                 responsive: true,
                 plugins: {
                     legend: {
-                        display: false
+                        display: true
                     },
                 },
+                scales: {
+                    y: {
+                        type: 'linear',
+                        display: true,
+                        position: 'left',
+                    },
+                    y1: {
+                        type: 'linear',
+                        display: true,
+                        position: 'right',
+                        grid: {
+                            drawOnChartArea: false,
+                        },
+                    },
+                }
             }}
             data={{
                 labels,
@@ -23,9 +38,17 @@ export const WeeklyCheckoutsChart = () => {
                     {
                         label: 'Daily checkouts',
                         data: data.dailyCheckouts.map((checkout) => checkout.numberOfCheckouts),
-                        backgroundColor: theme.colors.teal[5]
+                        backgroundColor: theme.colors.teal[5],
+                        yAxisID: 'y'
+                    },
+                    {
+                        label: 'Average spending',
+                        data: data.dailyCheckouts.map((checkout) => checkout.avgSpending),
+                        backgroundColor: theme.colors.indigo[5],
+                        yAxisID: 'y1'
                     },
                 ],
+
             }}
         />
     )
